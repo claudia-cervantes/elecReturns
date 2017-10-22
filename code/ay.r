@@ -18,10 +18,10 @@ rm(v)
 
 ## # datos faltantes y si tengo votos brutos
 ## col2012 no
-## cua2013 sí por seccion
-## dgo2013 sí pdf seccion
+## cua2013 sí, por seccion
+## dgo2013 sí, por seccion en pdf
 ## oax2013 no
-## pue2013 sí por seccion
+## pue2013 sí, por seccion
 ## que2012 no
 ## qui2013 no
 ## san2012 no
