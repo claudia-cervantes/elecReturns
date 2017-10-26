@@ -20,7 +20,6 @@ dat$tot <- v$tot
 rm(v)
 
 ## # julio: lista de datos faltantes y si tengo votos brutos que falta sistematizar
-## cua2013 sí, por seccion
 ## pue2013 sí, por seccion
 ## col2012 no
 ## dgo2013 no
