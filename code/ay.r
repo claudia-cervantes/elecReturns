@@ -19,7 +19,8 @@ v$tot <- dat$efec + dat$nr + dat$nulos
 dat$tot <- v$tot
 rm(v)
 
-## # julio: lista de datos faltantes y si tengo votos brutos que falta sistematizar
+## # julio: lista de datos faltantes y si tengo votos brutos que falta sistematizar.
+## #        [4nov2017] No veo esfuerzo alguno de parte tuya...
 ## col2012 no
 ## dgo2013 no
 ## oax2013 no
@@ -32,7 +33,6 @@ rm(v)
 ## tam2013 no
 ## tla2013 no
 ## ver2013 no
-## zac2013 no
 
 
 #####################################################
