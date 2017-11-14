@@ -21,18 +21,19 @@ rm(v)
 
 ## # julio: lista de datos faltantes y si tengo votos brutos que falta sistematizar.
 ## #        [4nov2017] No veo esfuerzo alguno de parte tuya...
-## col2012 no
-## dgo2013 no
-## oax2013 no
-## que2012 no
-## qui2013 no
-## san2012 no
-## sin2013 no
-## son2012 no
-## tab2012 no
-## tam2013 no
+## col2012 append
+## dgo2013 append
+## mor2012 no
+## oax2013 work
+## que2012 append
+## qui2013 append
+## san2012 separados
+## sin2013 append
+## son2012 casilla append
+## tab2012 append
+## tam2013 append
 ## tla2013 no
-## ver2013 no
+## ver2013 pdf difícil
 
 
 #####################################################
