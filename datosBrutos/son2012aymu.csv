@@ -1,0 +1,73 @@
+ord,edon,munn,inegi,ife,status,dy,mo,yr,edo,mun,municipio,v01,l01,v02,l02,v03,l03,v04,l04,v05,l05,v06,l06,v07,l07,v08,l08,v09,l09,v10,l10,v11,l11,v12,l12,nulos,lisnom
+25516,26,1,26001,26001,bajar iee,1,jul,2012,son,Aconchi,ACONCHI,862,pan,606,pri,49,prd,9,pt,0,pvem,1,mc,0,panal,720,pri-pvem,1112,pan-panal,0,prd-pt,50,prd-mc,0,prd-pt-mc,54,2223
+25517,26,2,26002,26002,bajar iee,1,jul,2012,son,Agua Prieta,AGUA PRIETA,8690,pan,15729,pri,461,prd,488,pt,295,pvem,86,mc,158,panal,21394,pri-pvem,9900,pan-panal,0,prd-pt,0,prd-mc,1365,prd-pt-mc,705,58312
+25518,26,3,26003,26062,bajar iee,1,jul,2012,son,ÃÂlamos,ALAMOS,2876,pan,4675,pri,2575,prd,94,pt,70,pvem,14,mc,48,panal,5853,pri-pvem,3208,pan-panal,0,prd-pt,2685,prd-mc,0,prd-pt-mc,470,17643
+25519,26,4,26004,26003,bajar iee,1,jul,2012,son,Altar,ALTAR,1749,pan,385,pri,1132,prd,38,pt,315,pvem,27,mc,7,panal,0,pri-pvem,1860,pan-panal,0,prd-pt,0,prd-mc,1445,prd-pt-mc,110,5836
+25520,26,5,26005,26004,bajar iee,1,jul,2012,son,Arivechi,ARIVECHI,502,pan,369,pri,0,prd,0,pt,4,pvem,0,mc,47,panal,449,pri-pvem,655,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,15,1240
+25521,26,6,26006,26005,bajar iee,1,jul,2012,son,Arizpe,ARIZPE,813,pan,848,pri,27,prd,3,pt,5,pvem,0,mc,9,panal,1089,pri-pvem,1578,pan-panal,0,prd-pt,0,prd-mc,30,prd-pt-mc,33,2713
+25522,26,7,26007,26006,bajar iee,1,jul,2012,son,ÃÂtil,ATIL,379,pan,251,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,251,pri-pvem,379,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,6,819
+25523,26,8,26008,26007,bajar iee,1,jul,2012,son,BacadÃÂ©huachi,BACADEHUACHI,257,pan,190,pri,280,prd,1,pt,2,pvem,0,mc,15,panal,246,pri-pvem,432,pan-panal,0,prd-pt,0,prd-mc,361,prd-pt-mc,9,1045
+25524,26,9,26009,26008,bajar iee,1,jul,2012,son,Bacanora,BACANORA,594,pan,223,pri,43,prd,1,pt,5,pvem,0,mc,16,panal,268,pri-pvem,896,pan-panal,0,prd-pt,0,prd-mc,58,prd-pt-mc,16,1890
+25525,26,10,26010,26009,bajar iee,1,jul,2012,son,Bacerac,BACERAC,303,pan,278,pri,180,prd,9,pt,1,pvem,1,mc,33,panal,357,pri-pvem,344,pan-panal,0,prd-pt,0,prd-mc,294,prd-pt-mc,13,1104
+25526,26,11,26011,26010,bajar iee,1,jul,2012,son,Bacoachi,BACOACHI,375,pan,572,pri,110,prd,0,pt,0,pvem,0,mc,0,panal,572,pri-pvem,375,pan-panal,0,prd-pt,0,prd-mc,110,prd-pt-mc,15,1355
+25527,26,12,26012,26058,bajar iee,1,jul,2012,son,BÃÂ¡cum,BACUM,2577,pan,2992,pri,2192,prd,1262,pt,43,pvem,241,mc,45,panal,3565,pri-pvem,3014,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,434,16846
+25528,26,13,26013,26011,bajar iee,1,jul,2012,son,BanÃÂ¡michi,BANAMICHI,414,pan,478,pri,11,prd,6,pt,2,pvem,0,mc,20,panal,606,pri-pvem,672,pan-panal,0,prd-pt,11,prd-mc,0,prd-pt-mc,13,1288
+25529,26,14,26014,26012,bajar iee,1,jul,2012,son,BaviÃÂ¡cora,BAVIACORA,904,pan,1141,pri,0,prd,0,pt,45,pvem,0,mc,11,panal,1458,pri-pvem,1541,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,46,2974
+25530,26,15,26015,26013,bajar iee,1,jul,2012,son,Bavispe,BAVISPE,317,pan,654,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,758,pri-pvem,403,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,10,1354
+25531,26,16,26016,26014,bajar iee,1,jul,2012,son,BenjamÃÂ­n Hill,BENJAMIN HILL,1311,pan,567,pri,38,prd,618,pt,6,pvem,1,mc,5,panal,573,pri-pvem,1316,pan-panal,0,prd-pt,0,prd-mc,657,prd-pt-mc,41,3929
+25532,26,17,26017,26046,bajar iee,1,jul,2012,son,Caborca,CABORCA,12962,pan,10829,pri,935,prd,1077,pt,254,pvem,439,mc,386,panal,13969,pri-pvem,15200,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,804,54944
+25533,26,18,26018,26059,bajar iee,1,jul,2012,son,Cajeme,CAJEME,42605,pan,91117,pri,8581,prd,2254,pt,1028,pvem,1043,mc,943,panal,110127,pri-pvem,50106,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,5389,291588
+25534,26,19,26019,26015,bajar iee,1,jul,2012,son,Cananea,CANANEA,7024,pan,5220,pri,229,prd,231,pt,40,pvem,193,mc,244,panal,6016,pri-pvem,9276,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,380,25355
+25535,26,20,26020,26047,bajar iee,1,jul,2012,son,CarbÃÂ³,CARBO,326,pan,547,pri,38,prd,576,pt,11,pvem,2,mc,362,panal,708,pri-pvem,1154,pan-panal,0,prd-pt,40,prd-mc,0,prd-pt-mc,63,3383
+25536,26,21,26021,26048,bajar iee,1,jul,2012,son,"Colorada, La",LA COLORADA,487,pan,645,pri,620,prd,57,pt,28,pvem,17,mc,11,panal,673,pri-pvem,498,pan-panal,0,prd-pt,0,prd-mc,694,prd-pt-mc,32,2293
+25537,26,22,26022,26016,bajar iee,1,jul,2012,son,Cucurpe,CUCURPE,481,pan,311,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,311,pri-pvem,481,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,9,978
+25538,26,23,26023,26017,bajar iee,1,jul,2012,son,Cumpas,CUMPAS,1775,pan,1404,pri,75,prd,10,pt,5,pvem,4,mc,12,panal,1831,pri-pvem,2505,pan-panal,0,prd-pt,0,prd-mc,115,prd-pt-mc,61,5192
+25539,26,24,26024,26018,bajar iee,1,jul,2012,son,Divisaderos,DIVISADEROS,93,pan,220,pri,259,prd,11,pt,0,pvem,0,mc,180,panal,250,pri-pvem,437,pan-panal,0,prd-pt,0,prd-mc,314,prd-pt-mc,8,1040
+25540,26,25,26025,26060,bajar iee,1,jul,2012,son,Empalme,EMPALME,7016,pan,2853,pri,4571,prd,753,pt,4586,pvem,205,mc,432,panal,0,pri-pvem,9568,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,1295,38373
+25541,26,26,26026,26063,bajar iee,1,jul,2012,son,Etchojoa,ETCHOJOA,9930,pan,5173,pri,8919,prd,468,pt,229,pvem,241,mc,86,panal,6190,pri-pvem,10626,pan-panal,10451,prd-pt,0,prd-mc,0,prd-pt-mc,1064,40064
+25542,26,27,26027,26019,bajar iee,1,jul,2012,son,Fronteras,FRONTERAS,1608,pan,843,pri,2,prd,197,pt,1139,pvem,1,mc,29,panal,0,pri-pvem,1869,pan-panal,0,prd-pt,0,prd-mc,238,prd-pt-mc,119,5851
+25543,26,28,26028,26020,bajar iee,1,jul,2012,son,Granados,GRANADOS,518,pan,543,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,543,pri-pvem,518,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,12,1260
+25544,26,29,26029,26061,bajar iee,1,jul,2012,son,Guaymas,GUAYMAS,19127,pan,0,pri,5231,prd,1733,pt,0,pvem,4063,mc,756,panal,23558,pri-pvem,22199,pan-panal,8348,prd-pt,0,prd-mc,0,prd-pt-mc,2145,103895
+25545,26,30,26030,26049,bajar iee,1,jul,2012,son,Hermosillo,HERMOSILLO,135566,pan,0,pri,7438,prd,4136,pt,0,pvem,1537,mc,2164,panal,119236,pri-pvem,150794,pan-panal,13806,prd-pt,0,prd-mc,0,prd-pt-mc,6145,511897
+25546,26,31,26031,26021,bajar iee,1,jul,2012,son,Huachinera,HUACHINERA,239,pan,376,pri,203,prd,3,pt,0,pvem,1,mc,1,panal,376,pri-pvem,240,pan-panal,0,prd-pt,0,prd-mc,207,prd-pt-mc,18,978
+25547,26,32,26032,26022,bajar iee,1,jul,2012,son,HuÃÂ¡sabas,HUASABAS,421,pan,477,pri,0,prd,0,pt,4,pvem,0,mc,6,panal,587,pri-pvem,667,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,9,1202
+25548,26,33,26033,26064,bajar iee,1,jul,2012,son,Huatabampo,HUATABAMPO,17016,pan,13139,pri,3099,prd,263,pt,141,pvem,64,mc,461,panal,17232,pri-pvem,19731,pan-panal,4442,prd-pt,0,prd-mc,0,prd-pt-mc,1174,55363
+25549,26,34,26034,26023,bajar iee,1,jul,2012,son,HuÃÂ©pac,HUEPAC,523,pan,341,pri,0,prd,0,pt,1,pvem,0,mc,13,panal,432,pri-pvem,780,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,13,1241
+25550,26,35,26035,26024,bajar iee,1,jul,2012,son,ÃÂmuris,IMURIS,395,pan,2100,pri,333,prd,1217,pt,64,pvem,542,mc,17,panal,2730,pri-pvem,474,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,177,8568
+25551,26,36,26036,26025,bajar iee,1,jul,2012,son,Magdalena de Kino,MAGDALENA,7390,pan,3650,pri,525,prd,54,pt,29,pvem,12,mc,110,panal,4537,pri-pvem,9584,pan-panal,0,prd-pt,0,prd-mc,733,prd-pt-mc,281,22207
+25552,26,37,26037,26050,bajar iee,1,jul,2012,son,MazatÃÂ¡n,MAZATAN,273,pan,426,pri,413,prd,9,pt,1,pvem,1,mc,18,panal,541,pri-pvem,421,pan-panal,0,prd-pt,0,prd-mc,515,prd-pt-mc,13,1481
+25553,26,38,26038,26026,bajar iee,1,jul,2012,son,Moctezuma,MOCTEZUMA,1068,pan,1214,pri,65,prd,30,pt,4,pvem,302,mc,11,panal,1430,pri-pvem,1295,pan-panal,0,prd-pt,0,prd-mc,491,prd-pt-mc,58,3895
+25554,26,39,26039,26027,bajar iee,1,jul,2012,son,Naco,NACO,710,pan,340,pri,581,prd,0,pt,542,pvem,732,mc,12,panal,0,pri-pvem,936,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,78,4406
+25555,26,40,26040,26028,bajar iee,1,jul,2012,son,NÃÂ¡cori Chico,NACORI CHICO,659,pan,349,pri,0,prd,0,pt,9,pvem,0,mc,40,panal,474,pri-pvem,955,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,24,1469
+25556,26,41,26041,26029,bajar iee,1,jul,2012,son,Nacozari de GarcÃÂ­a,NACOZARI DE GARCIA,2780,pan,1980,pri,312,prd,85,pt,17,pvem,9,mc,19,panal,2471,pri-pvem,3275,pan-panal,0,prd-pt,347,prd-mc,0,prd-pt-mc,121,9446
+25557,26,42,26042,26065,bajar iee,1,jul,2012,son,Navojoa,NAVOJOA,28258,pan,26890,pri,1815,prd,436,pt,515,pvem,209,mc,345,panal,36917,pri-pvem,32001,pan-panal,3011,prd-pt,0,prd-mc,0,prd-pt-mc,1746,109053
+25558,26,43,26043,26030,bajar iee,1,jul,2012,son,Nogales,NOGALES,29274,pan,31249,pri,2469,prd,687,pt,498,pvem,1032,mc,427,panal,40471,pri-pvem,32319,pan-panal,3853,prd-pt,0,prd-mc,0,prd-pt-mc,1692,167372
+25559,26,44,26044,26066,bajar iee,1,jul,2012,son,Ãânavas,ONAVAS,248,pan,269,pri,0,prd,0,pt,4,pvem,0,mc,21,panal,377,pri-pvem,385,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,5,783
+25560,26,45,26045,26051,bajar iee,1,jul,2012,son,Opodepe,OPODEPE,887,pan,687,pri,4,prd,0,pt,0,pvem,0,mc,0,panal,687,pri-pvem,887,pan-panal,0,prd-pt,0,prd-mc,4,prd-pt-mc,40,2109
+25561,26,46,26046,26031,bajar iee,1,jul,2012,son,Oquitoa,OQUITOA,183,pan,230,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,230,pri-pvem,183,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,2,472
+25562,26,47,26047,26052,bajar iee,1,jul,2012,son,Pitiquito,PITIQUITO,2203,pan,1680,pri,0,prd,0,pt,11,pvem,0,mc,33,panal,1865,pri-pvem,2340,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,49,5775
+25563,26,48,26048,26053,bajar iee,1,jul,2012,son,Puerto PeÃÂ±asco,PUERTO PENASCO,8303,pan,9200,pri,277,prd,196,pt,177,pvem,269,mc,192,panal,13745,pri-pvem,10155,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,553,41208
+25564,26,49,26049,26067,bajar iee,1,jul,2012,son,Quiriego,QUIRIEGO,782,pan,770,pri,70,prd,34,pt,0,pvem,0,mc,0,panal,1880,pri-pvem,1300,pan-panal,0,prd-pt,70,prd-mc,0,prd-pt-mc,68,3310
+25565,26,50,26050,26054,bajar iee,1,jul,2012,son,RayÃÂ³n,RAYON,726,pan,665,pri,0,prd,0,pt,17,pvem,0,mc,49,panal,904,pri-pvem,1095,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,25,2126
+25566,26,51,26051,26068,bajar iee,1,jul,2012,son,Rosario,ROSARIO,1070,pan,1401,pri,82,prd,10,pt,17,pvem,3,mc,32,panal,1784,pri-pvem,1424,pan-panal,0,prd-pt,0,prd-mc,133,prd-pt-mc,51,4592
+25567,26,52,26052,26032,bajar iee,1,jul,2012,son,Sahuaripa,SAHUARIPA,1230,pan,1256,pri,13,prd,5,pt,20,pvem,1,mc,62,panal,1562,pri-pvem,1932,pan-panal,0,prd-pt,0,prd-mc,21,prd-pt-mc,109,4452
+25568,26,53,26053,26033,bajar iee,1,jul,2012,son,San Felipe de JesÃÂºs,SAN FELIPE DE JESUS,175,pan,136,pri,14,prd,0,pt,0,pvem,0,mc,4,panal,166,pri-pvem,281,pan-panal,0,prd-pt,0,prd-mc,16,prd-pt-mc,11,474
+25569,26,54,26054,26034,bajar iee,1,jul,2012,son,San Javier,SAN JAVIER,263,pan,274,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,274,pri-pvem,263,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,10,734
+25570,26,55,26055,26055,bajar iee,1,jul,2012,son,San Luis RÃÂ­o Colorado,SAN LUIS RIO COLORADO,31905,pan,18710,pri,5740,prd,1256,pt,340,pvem,604,mc,456,panal,24008,pri-pvem,34386,pan-panal,9832,prd-pt,0,prd-mc,0,prd-pt-mc,1943,134392
+25571,26,56,26056,26056,bajar iee,1,jul,2012,son,San Miguel de Horcasitas,SAN MIGUEL DE HORCASITAS,1190,pan,951,pri,21,prd,9,pt,6,pvem,1,mc,4,panal,1129,pri-pvem,1866,pan-panal,0,prd-pt,0,prd-mc,35,prd-pt-mc,109,4406
+25572,26,57,26057,26035,bajar iee,1,jul,2012,son,San Pedro de la Cueva,SAN PEDRO DE LA CUEVA,725,pan,751,pri,0,prd,0,pt,2,pvem,0,mc,5,panal,869,pri-pvem,1046,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,29,2117
+25573,26,58,26058,26036,bajar iee,1,jul,2012,son,Santa Ana,SANTA ANA,4168,pan,2728,pri,662,prd,0,pt,0,pvem,0,mc,0,panal,2728,pri-pvem,4168,pan-panal,0,prd-pt,0,prd-mc,662,prd-pt-mc,114,11633
+25574,26,59,26059,26037,bajar iee,1,jul,2012,son,Santa Cruz,SANTA CRUZ,212,pan,288,pri,155,prd,18,pt,1,pvem,1,mc,1,panal,443,pri-pvem,285,pan-panal,0,prd-pt,0,prd-mc,296,prd-pt-mc,16,1283
+25575,26,60,26060,26038,bajar iee,1,jul,2012,son,SÃÂ¡ric,SARIC,690,pan,586,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,586,pri-pvem,690,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,19,2011
+25576,26,61,26061,26039,bajar iee,1,jul,2012,son,Soyopa,SOYOPA,483,pan,575,pri,88,prd,0,pt,3,pvem,383,mc,21,panal,720,pri-pvem,730,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,43,2219
+25577,26,62,26062,26040,bajar iee,1,jul,2012,son,Suaqui Grande,SUAQUI GRANDE,625,pan,550,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,550,pri-pvem,625,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,8,1353
+25578,26,63,26063,26041,bajar iee,1,jul,2012,son,Tepache,TEPACHE,189,pan,448,pri,71,prd,279,pt,2,pvem,1,mc,5,panal,474,pri-pvem,224,pan-panal,0,prd-pt,74,prd-mc,0,prd-pt-mc,15,1526
+25579,26,64,26064,26042,bajar iee,1,jul,2012,son,Trincheras,TRINCHERAS,633,pan,570,pri,3,prd,0,pt,0,pvem,0,mc,0,panal,570,pri-pvem,633,pan-panal,0,prd-pt,0,prd-mc,3,prd-pt-mc,15,1461
+25580,26,65,26065,26043,bajar iee,1,jul,2012,son,Tubutama,TUBUTAMA,535,pan,456,pri,0,prd,0,pt,0,pvem,0,mc,0,panal,510,pri-pvem,573,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,19,1408
+25581,26,66,26066,26057,bajar iee,1,jul,2012,son,Ures,URES,2853,pan,1764,pri,480,prd,21,pt,38,pvem,6,mc,0,panal,2086,pri-pvem,0,pan-panal,0,prd-pt,0,prd-mc,591,prd-pt-mc,193,7971
+25582,26,67,26067,26044,bajar iee,1,jul,2012,son,Villa Hidalgo,VILLA HIDALGO,771,pan,351,pri,0,prd,0,pt,9,pvem,0,mc,10,panal,408,pri-pvem,883,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,18,1534
+25583,26,68,26068,26045,bajar iee,1,jul,2012,son,Villa Pesqueira,VILLA PESQUEIRA,585,pan,558,pri,0,prd,0,pt,1,pvem,0,mc,23,panal,745,pri-pvem,902,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,17,1598
+25584,26,69,26069,26069,bajar iee,1,jul,2012,son,YÃÂ©cora,YECORA,1196,pan,1329,pri,8,prd,10,pt,5,pvem,0,mc,100,panal,1652,pri-pvem,1752,pan-panal,0,prd-pt,0,prd-mc,22,prd-pt-mc,139,4047
+25585,26,70,26070,26070,bajar iee,1,jul,2012,son,General Plutarco ElÃÂ­as Calles,GRAL. PLUTARCO ELIAS CALLES,999,pan,2017,pri,1631,prd,51,pt,786,pvem,13,mc,22,panal,0,pri-pvem,1115,pan-panal,0,prd-pt,0,prd-mc,0,prd-pt-mc,200,9714
+25586,26,71,26071,26071,bajar iee,1,jul,2012,son,Benito JuÃÂ¡rez,BENITO JUAREZ,1184,pan,3098,pri,2049,prd,153,pt,36,pvem,107,mc,756,panal,4024,pri-pvem,3094,pan-panal,3266,prd-pt,0,prd-mc,0,prd-pt-mc,404,14621
+25587,26,72,26072,26072,bajar iee,1,jul,2012,son,San Ignacio RÃÂ­o Muerto,SAN IGNACIO RIO MUERTO,681,pan,2525,pri,1348,prd,13,pt,1072,pvem,121,mc,61,panal,0,pri-pvem,1032,pan-panal,0,prd-pt,0,prd-mc,1758,prd-pt-mc,226,9628
