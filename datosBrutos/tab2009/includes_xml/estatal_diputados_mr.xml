@@ -1,0 +1,23 @@
+﻿<estatal listanominal="1,469,080" porcentaje="" pan="68,930" pri="378,810" prd="308,906" pt="36,897" pvem="17,496" convergencia="14,723" na="13,516" noreg="1,236" coalicion="2,473" nulos="19,314" votaciontotal="862,301">
+  <resultado distrito="I BALANCAN" porcentaje="65.93" pan="11,128" pri="9,964" prd="2,515" pt="147" pvem="733" convergencia="125" na="276" noreg="3" coalicion="61" nulos="473" total="25,425" />
+  <resultado distrito="II CARDENAS" porcentaje="47.59" pan="809" pri="19,945" prd="10,716" pt="1,167" pvem="531" convergencia="2,040" na="608" noreg="25" coalicion="167" nulos="695" total="36,703" />
+  <resultado distrito="III CENTLA" porcentaje="65.20" pan="10,732" pri="16,574" prd="9,762" pt="758" pvem="1,224" convergencia="179" na="833" noreg="30" coalicion="216" nulos="1,154" total="41,462" />
+  <resultado distrito="IV CENTRO NORTE" porcentaje="43.97" pan="1,553" pri="19,611" prd="15,770" pt="340" pvem="1,398" convergencia="369" na="700" noreg="61" coalicion="169" nulos="1,249" total="41,220" />
+  <resultado distrito="V CENTRO SUR" porcentaje="44.28" pan="2,912" pri="23,402" prd="16,958" pt="617" pvem="1,461" convergencia="1,132" na="740" noreg="64" coalicion="121" nulos="1,605" total="49,012" />
+  <resultado distrito="VI COMALCALCO" porcentaje="71.04" pan="1,668" pri="42,615" prd="40,716" pt="194" pvem="672" convergencia="373" na="1,133" noreg="32" coalicion="174" nulos="1,205" total="88,782" />
+  <resultado distrito="VII CUNDUACAN" porcentaje="61.92" pan="2,570" pri="20,871" prd="14,070" pt="6,360" pvem="616" convergencia="324" na="789" noreg="322" coalicion="98" nulos="2,494" total="48,514" />
+  <resultado distrito="VIII EMILIANO ZAPATA" porcentaje="73.37" pan="8,483" pri="5,660" prd="499" pt="10" pvem="108" convergencia="11" na="109" noreg="1" coalicion="52" nulos="203" total="15,136" />
+  <resultado distrito="IX HUIMANGUILLO" porcentaje="64.65" pan="6,491" pri="29,756" prd="27,940" pt="5,428" pvem="593" convergencia="100" na="813" noreg="30" coalicion="127" nulos="1,273" total="72,551" />
+  <resultado distrito="X JALAPA" porcentaje="74.88" pan="464" pri="8,005" prd="9,646" pt="95" pvem="224" convergencia="275" na="91" noreg="8" coalicion="35" nulos="291" total="19,134" />
+  <resultado distrito="XI JALPA DE MENDEZ" porcentaje="76.45" pan="8,175" pri="10,869" prd="6,593" pt="10,268" pvem="412" convergencia="1,149" na="2,171" noreg="6" coalicion="345" nulos="718" total="40,706" />
+  <resultado distrito="XII JONUTA" porcentaje="83.96" pan="53" pri="6,751" prd="7,370" pt="48" pvem="2,999" convergencia="7" na="43" noreg="3" coalicion="14" nulos="184" total="17,472" />
+  <resultado distrito="XIII MACUSPANA" porcentaje="56.89" pan="1,851" pri="27,375" prd="16,573" pt="5,545" pvem="572" convergencia="4,676" na="1,319" noreg="13" coalicion="116" nulos="1,093" total="59,133" />
+  <resultado distrito="XIV NACAJUCA" porcentaje="66.37" pan="1,288" pri="22,375" prd="16,728" pt="1,617" pvem="439" convergencia="135" na="736" noreg="13" coalicion="104" nulos="1,106" total="44,541" />
+  <resultado distrito="XV PARAISO" porcentaje="75.63" pan="1,223" pri="15,975" prd="24,100" pt="284" pvem="273" convergencia="161" na="267" noreg="19" coalicion="38" nulos="605" total="42,945" />
+  <resultado distrito="XVI TACOTALPA" porcentaje="64.92" pan="3,643" pri="6,329" prd="6,869" pt="768" pvem="150" convergencia="30" na="185" noreg="2" coalicion="25" nulos="476" total="18,477" />
+  <resultado distrito="XVII TEAPA" porcentaje="60.33" pan="325" pri="11,236" prd="6,616" pt="221" pvem="1,697" convergencia="234" na="331" noreg="312" coalicion="38" nulos="427" total="21,437" />
+  <resultado distrito="XVIII TENOSIQUE" porcentaje="63.01" pan="440" pri="11,197" prd="12,382" pt="175" pvem="206" convergencia="26" na="197" noreg="191" coalicion="62" nulos="438" total="25,314" />
+  <resultado distrito="XIX CARDENAS PONIENTE" porcentaje="59.69" pan="1,283" pri="22,162" prd="18,574" pt="1,776" pvem="359" convergencia="2,253" na="585" noreg="27" coalicion="100" nulos="684" total="47,803" />
+  <resultado distrito="XX CENTRO ORIENTE" porcentaje="45.20" pan="1,321" pri="23,680" prd="24,315" pt="510" pvem="1,240" convergencia="486" na="876" noreg="24" coalicion="165" nulos="1,510" total="54,127" />
+  <resultado distrito="XXI CENTRO PONIENTE" porcentaje="44.46" pan="2,518" pri="24,458" prd="20,194" pt="569" pvem="1,589" convergencia="638" na="714" noreg="50" coalicion="246" nulos="1,431" total="52,407" />
+</estatal>

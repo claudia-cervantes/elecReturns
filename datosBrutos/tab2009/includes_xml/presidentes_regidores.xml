@@ -1,0 +1,456 @@
+﻿<presidentesRegidores>
+  <municipio noMunicipio="01" nomMunicipio="BALANCAN" partido="PAN">
+    <regidor nomRegidor="MILTON LASTRA VALENCIA" tipo="P" numero="01" partido="PAN" principio="MR" />
+    <regidor nomRegidor="JOSE MANUEL PEREZ HERNANDEZ" tipo="S" numero="01" partido="PAN" principio="MR" />
+    <regidor nomRegidor="VICTORIA MORENO SANTIAGO" tipo="P" numero="02" partido="PAN" principio="MR" />
+    <regidor nomRegidor="RICARDO POZO JUAREZ" tipo="S" numero="02" partido="PAN" principio="MR" />
+    <regidor nomRegidor="CATALINA DEL CARMEN GAMAS TRUJILLO" tipo="P" numero="03" partido="PAN" principio="MR" />
+    <regidor nomRegidor="LORENZO GOMEZ ALONSO" tipo="S" numero="03" partido="PAN" principio="MR" />
+    <regidor nomRegidor="MACEDONIO PRIEGO MOGUEL" tipo="P" numero="04" partido="PAN" principio="MR" />
+    <regidor nomRegidor="ENCARNACION HERNANDEZ JIMENEZ" tipo="S" numero="04" partido="PAN" principio="MR" />
+    <regidor nomRegidor="J. REFUGIO OROZCO MORALES" tipo="P" numero="05" partido="PAN" principio="MR" />
+    <regidor nomRegidor="GUADALUPE POZO PEREZ" tipo="S" numero="05" partido="PAN" principio="MR" />
+    <regidor nomRegidor="MAXIMO BAUTISTA JAIME" tipo="P" numero="06" partido="PAN" principio="MR" />
+    <regidor nomRegidor="MARIA GUADALUPE AGUAYO QUE" tipo="S" numero="06" partido="PAN" principio="MR" />
+    <regidor nomRegidor="JOSEFINA RODRIGUEZ ROMERO" tipo="P" numero="07" partido="PAN" principio="MR" />
+    <regidor nomRegidor="YLSIA LANDERO BAÑOS" tipo="S" numero="07" partido="PAN" principio="MR" />
+    <regidor nomRegidor="ROSALINO ABENDAÑO JUAREZ" tipo="P" numero="08" partido="PAN" principio="MR" />
+    <regidor nomRegidor="JUVENTINO DE LA CRUZ MENDEZ" tipo="S" numero="08" partido="PAN" principio="MR" />
+    <regidor nomRegidor="MA. GUADALUPE PRIETO ESPITIA" tipo="P" numero="09" partido="PAN" principio="MR" />
+    <regidor nomRegidor="JOSEFA CONCEPCION TEJERO MUÑOZ" tipo="S" numero="09" partido="PAN" principio="MR" />
+    <regidor nomRegidor="AMBROSIO GONZALEZ RAMOS" tipo="P" numero="10" partido="PAN" principio="MR" />
+    <regidor nomRegidor="CLARIBEL RUIZ GARCIA" tipo="S" numero="10" partido="PAN" principio="MR" />
+    <regidor nomRegidor="ARACELI PRIEGO MONDRAGON" tipo="P" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="MARCOS MONTOYA RUIZ" tipo="S" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="SEBASTIAN SOBERANO CANDELERO" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="ASDRUBAL MARTINEZ GUTIERREZ" tipo="S" numero="01" partido="PRD" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="02" nomMunicipio="CARDENAS" partido="PRI">
+    <regidor nomRegidor="NELSON PEREZ GARCIA" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ZOILA MARGARITA ISIDRO PEREZ" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="DAVID EDUARDO ESTRADA ALFANI" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="CARMEN ULLOA GARCIA" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="RAFAEL LEON RAMIREZ" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="OSCAR MOYA RIOS" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="BEATRIZ IBARRA GAMAS" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="RODOLFO GAUDENCIO CHAN HAAS" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GLORIA PRIEGO ROSIQUE" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ENGLER LEYVA PEREZ" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="VERONICA ROMERO HERNANDEZ" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="SUSANA GARCIA SANCHEZ" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ILSE GUADALUPE ARIAS ESCUDERO" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE VELAZQUEZ OLAN" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="RUBEN MENA HERNANDEZ" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JENNIFER CRISTINA ORTIZ SANCHEZ" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FRANCISCO FREGOSO BRITO" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="YONI ZORRILLA RODRIGUEZ" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ZAYDA BEATRIZ PADRON MARTINEZ" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIBEL RAMOS RAMOS" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ROSA KARINA TREJO ESTRADA" tipo="P" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ESPERANZA CANCHE RUIZ" tipo="S" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JORGE MORALES RAMIREZ" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="JUAN ANTONIO JIMENEZ PRIEGO" tipo="S" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="ARISTEO ALCUDIA AGUIRRE" tipo="P" numero="02" partido="PRD" principio="RP" />
+    <regidor nomRegidor="ISMAEL JIMENEZ NARANJO" tipo="S" numero="02" partido="PRD" principio="RP" />
+    <regidor nomRegidor="MARTIN ABRAHAN HERNANDEZ MURILLO" tipo="P" numero="01" partido="CONV" principio="RP" />
+    <regidor nomRegidor="FLAVIANO RAMOS BRITO" tipo="S" numero="01" partido="CONV" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="03" nomMunicipio="CENTLA" partido="PRI">
+    <regidor nomRegidor="AQUILES REYES QUIROZ" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LUIS ALFONSO OJEDA ROSAS" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ANGEL ARNULFO OLAN YZQUIERDO" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ENRIQUETA ESTRADA SANCHEZ" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GUSTAVO CESAR OCAÑA BARBOSA" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FERMIN HERNANDEZ HERNANDEZ" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GREGORIO ARIAS JIMENEZ" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="BRENDA DIAZ JIMENEZ" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="YADIRA DOMIGUEZ CHABLE" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIA DEL CARMEN CAMEJO RODRIGUEZ" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FERNANDO SANCHEZ LEZCANO" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JAIME RAMIREZ PEREZ" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSEFA JUANA SANCHEZ GARCIA" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FLOR DE LI REYEZ SANCHEZ" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ISABLE PEREZ JIMENEZ" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ANA MARIA NARVAEZ ALVARADO" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JESUS DIAZ CARRERA" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ELISVEN HERNANDEZ HERNANDEZ" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="NATALIE XIOMARA ALVARADO PEREZ" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE DEL CARMEN DE LA CRUZ MELCHOR" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE TOSHIRO NOVEROLA PEÑA" tipo="P" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="YURIDIA GUADALUPE PANTOJA ROBLES" tipo="S" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="MAURO BARABATA SANCHEZ" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="SEBERO LEON ZAPATA" tipo="S" numero="01" partido="PRD" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="04" nomMunicipio="CENTRO" partido="PRI">
+    <regidor nomRegidor="JESUS ALI DE LA TORRE" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="RAUL LOPEZ DEANTES" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JORGE ALBERTO CAMARA NUÑEZ" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ALFREDO ARISTOTELES PERALTA ALFANY" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MANUEL VARGAS RAMON" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MANRIQUE OLAN SANCHEZ" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LORENA ADRIANA MARIN RAMON" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MIRIAM FERNANDEZ URQUIZA" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JUAN PABLO WADE RODRIGUEZ" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JUAN JOSE CARRERA NADAL" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="DIDORA INES ROJAS AREVALO" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ELIZABETH TORRES PALACIO" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="DANIEL PEREZ GUILLEN" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JAVIER PAVON RODRIGUEZ" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ROSARIO ALFONSO PEREZ BOCANEGRA" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MAURICIO FLORES QUEVEDO" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ELVIRA DEL CARMEN GIL HOYOS" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GLADYS MONTEJO OVANDO" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JANET ASCENCIO CADENA" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="DANIELA SANCHEZ MACARIO" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIO PERALTA JIMENEZ" tipo="P" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JESUS EDUARDO ALVAREZ VAZQUEZ" tipo="S" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="CARLOS ALBERTO VALENZUELA CABRALES" tipo="P" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="IRASEMA DE LAS NIEVES ARIAS CASADO" tipo="S" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="FRANCISCO VALENCIA VALENCIA" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="VICENTE VALENCIA GERONIMO" tipo="S" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="PABLO RODRIGUEZ BONFIL" tipo="P" numero="02" partido="PRD" principio="RP" />
+    <regidor nomRegidor="ALCIVIADES CONTRERAS LOPEZ" tipo="S" numero="02" partido="PRD" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="05" nomMunicipio="COMALCALCO" partido="PRI">
+    <regidor nomRegidor="ALEJANDRO MEDINA CUSTODIO" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARCO LAZARO DE LA FUENTE" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="NURY VAZQUEZ HERNANDEZ" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FADMY KRISTEL HERNANDEZ MARTINEZ" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="NORMA PEREZ CORDOVA" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="SANDRA PATRICIA MENDEZ RICARDEZ" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="PEDRO RODRIGUEZ FALCONI" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="WILVER RAMON DOMINGUEZ" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ALEXANDER CORDOVA MORALES" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LAZARO MORENO OLIVE" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FLOR DE MARIA BARRADA RUIZ" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="PERLA ANDREA JIMENEZ DE LA CRUZ" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE MARIA CALDERON CORDOVA" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ANTONIO DE LA CRUZ PERES" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="AMALIA GUADALUPE CAMERO SANTOS" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="IRMA DEL CARMEN LAZARO DE LA CRUZ" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="NICOLAS DARWIN RODRIGUEZ SASTRE" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FLORICEL SEGOVIA AGUILAR" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JULIO CESAR MENDEZ OLIVA" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ALEJANDRO GRANIEL ROMERO" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIA DEL CARMEN PAZ MORENO" tipo="P" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="EDILIA OLIVE GONZALEZ" tipo="S" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FIDEL ALEJANDRO ALEJANDRO" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="RICARDO DOMINGUEZ CASTELLANOS" tipo="S" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="MARIA SALOME DE LA ROSA ALEJANDRO" tipo="P" numero="02" partido="PRD" principio="RP" />
+    <regidor nomRegidor="IRMA SASTRE DE LA CRUZ" tipo="S" numero="02" partido="PRD" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="06" nomMunicipio="CUNDUACAN" partido="PRD">
+    <regidor nomRegidor="JUAN ARMANDO GORDILLO DE DIOS" tipo="P" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ALEJO BLE LEON" tipo="S" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="OLIVIA GONZALEZ TORRES" tipo="P" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARGARITA CASTAÑON ENRIQUEZ" tipo="S" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="TITO CAMPOS PIEDRA" tipo="P" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MANRIQUE DIAZ ESCAYOLA" tipo="S" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RUBISEL NARANJO GOMEZ" tipo="P" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JOSE DE LA FUENTE LOPEZ" tipo="S" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="VIVIANA GUADALUPE OSORIO MENDEZ" tipo="P" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARIA GUADALUPE PEREZ LOPEZ" tipo="S" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="IRMA DEL CARMEN DE LA CRUZ MADRIGAL" tipo="P" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="YOLANDA DE LA CRUZ DE LA ROSA" tipo="S" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JOSE RAMOS CORDOVA" tipo="P" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ABDERRAMAN GUZMAN ARIAS" tipo="S" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARIA LUISA HERNANDEZ ARIAS" tipo="P" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="BEATRIZ ADRIANA OLIVA CASTAÑEDA" tipo="S" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="CLEMENTE SALAS ORTIZ" tipo="P" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RASCLIOQUIN RODRIGUEZ BAUTISTA" tipo="S" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JUAN AGUSTIN RODRIGUEZ SUAREZ" tipo="P" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="AGUSTIN ENRIQUE HERNANDEZ GONZALEZ" tipo="S" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="WILBER LAZARO PEREZ" tipo="P" numero="11" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ROBERTO CALIX MARIN" tipo="S" numero="11" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MIGDALI MAYO SANCHEZ" tipo="P" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="CAYETANO ALONZO NARANJO" tipo="S" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="LLUVIA DEL CARMEN TORRES LEON" tipo="P" numero="02" partido="PRI" principio="RP" />
+    <regidor nomRegidor="MARTIN SUAREZ CEFERINO" tipo="S" numero="02" partido="PRI" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="07" nomMunicipio="EMILIANO ZAPATA" partido="PAN">
+    <regidor nomRegidor="MIGUEL ANGEL JIMENEZ LANDERO" tipo="P" numero="01" partido="PAN" principio="MR" />
+    <regidor nomRegidor="CATALINO ALAMINA CABRERA" tipo="S" numero="01" partido="PAN" principio="MR" />
+    <regidor nomRegidor="CESAR ABREU CASANOVA" tipo="P" numero="02" partido="PAN" principio="MR" />
+    <regidor nomRegidor="GLORIA DEL CARMEN ESCALANTE HERNANDEZ" tipo="S" numero="02" partido="PAN" principio="MR" />
+    <regidor nomRegidor="LAURENCIO GARCIA SANCHEZ" tipo="P" numero="03" partido="PAN" principio="MR" />
+    <regidor nomRegidor="ABRAHAM MORALES PEREZ" tipo="S" numero="03" partido="PAN" principio="MR" />
+    <regidor nomRegidor="FRANCISCO LASTRA QUIROZ" tipo="P" numero="04" partido="PAN" principio="MR" />
+    <regidor nomRegidor="EDMUNDO ABREU CENTENO" tipo="S" numero="04" partido="PAN" principio="MR" />
+    <regidor nomRegidor="IRMA DEL CARMEN GARCIA SANCHEZ" tipo="P" numero="05" partido="PAN" principio="MR" />
+    <regidor nomRegidor="GERARDO PEREZ LAINES" tipo="S" numero="05" partido="PAN" principio="MR" />
+    <regidor nomRegidor="CATALINA DEL CARMEN PECH VALENZUELA" tipo="P" numero="06" partido="PAN" principio="MR" />
+    <regidor nomRegidor="MIGUEL ANGEL CASTILLO QUE" tipo="S" numero="06" partido="PAN" principio="MR" />
+    <regidor nomRegidor="MIRNA GARCIA GUZMAN" tipo="P" numero="07" partido="PAN" principio="MR" />
+    <regidor nomRegidor="GENOVEVA SANCHEZ LANDERO" tipo="S" numero="07" partido="PAN" principio="MR" />
+    <regidor nomRegidor="EURENICE LOURDES LASTRA ABAD" tipo="P" numero="08" partido="PAN" principio="MR" />
+    <regidor nomRegidor="CARLOS ANTONIO SAURI TOACHE" tipo="S" numero="08" partido="PAN" principio="MR" />
+    <regidor nomRegidor="EUDI JESUS PEREZ SANCHEZ" tipo="P" numero="09" partido="PAN" principio="MR" />
+    <regidor nomRegidor="NATALIA NIETO GUTIERREZ" tipo="S" numero="09" partido="PAN" principio="MR" />
+    <regidor nomRegidor="JOSE JESUS AGUILAR SALAS" tipo="P" numero="10" partido="PAN" principio="MR" />
+    <regidor nomRegidor="MARTIN GARCIA OSTO" tipo="S" numero="10" partido="PAN" principio="MR" />
+    <regidor nomRegidor="MIGUEL ANGEL ROBLES ZETINA" tipo="P" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="ADRIAN ACOSTA TEJEDA" tipo="S" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="FABIOLA DIAZ JASSO" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="MARIA ELENA ALEJANDRO MEZA" tipo="S" numero="01" partido="PRD" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="08" nomMunicipio="HUIMANGUILLO" partido="PRI">
+    <regidor nomRegidor="GERALD WASHINGTON HERRERA CASTELLANOS" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ROSA MARGARITA ARENAS ARCIA" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JAIME DAVID CADENAS" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="DORA MARIA GARDUZA MONTIEL" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="TANIA GUADALUPE MATUS DIAZ" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="OMAR ALEJANDRO CHABLE HERRERA" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE EDUARDO GONZALEZ VIDAL" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GILBERTO HERNANDEZ HERNANDEZ" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GLORIA CORDOBA JIMENEZ" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MYLENE VERA FERRER" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="BELLANIRES MENDEZ PALMA" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIANA RAMOS HERNANDEZ" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="IVAN FRANCISCO SANCHEZ ESPONDA" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="VICTOR ENRIQUE TORRUCO HERNANDEZ" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ARMANDO DE LA CRUZ LOPEZ" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="RODOLFO ACUÑA REYES" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="CARLOS EDILBERTO LEON JIMENEZ" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ENRIQUE ROGER CAUICH RUEDA" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="NELLY GERONIMO BROCA" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="CARMEN MORFIN LOPEZ" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="NELLY ELENA ROMERO ARRONA" tipo="P" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JESUS ALBERTO FLORES ZURITA" tipo="S" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JESUS ACOSTA ESPINOSA" tipo="P" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="LORENZA CANDELERO PEREZ" tipo="S" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="MANUEL ANTONIO GONZALEZ GONZALEZ" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="RICARDO LOPEZ SANTIAGO" tipo="S" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="SAIRE LUCIR LOPEZ BARAHONA" tipo="P" numero="02" partido="PRD" principio="RP" />
+    <regidor nomRegidor="JOSEFINA AGUILAR SANTIAGO" tipo="S" numero="02" partido="PRD" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="09" nomMunicipio="JALAPA" partido="PRD">
+    <regidor nomRegidor="LUIS FRANCISCO DEYA OROPEZA" tipo="P" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JOSE FRANCISCO OCAÑA OCAÑA" tipo="S" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="LIBORIO CORREA LOPEZ" tipo="P" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="VICTOR SILVAN DOMINGUEZ" tipo="S" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ROBERTO PRIEGO ROCHE" tipo="P" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="HECTOR MANUEL ANDRADE FLOTA" tipo="S" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="YAZMIN PALOMA CACHO DURAN" tipo="P" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ROCIO DIAZ LOPEZ" tipo="S" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="HILARIO HIDALGO JUNCO" tipo="P" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="PRUDENCIO DE LA CRUZ MENDEZ" tipo="S" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="BLANCA ESTELA AGUILAR PARIS" tipo="P" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ADELINA ARCIA PEREZ" tipo="S" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JOSE ALFONSO MOLLINEDO ZURITA" tipo="P" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="DANIEL BOCANEGRA DOMINGUEZ" tipo="S" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RAFAEL DOPORTO GOMEZ" tipo="P" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JOSE ANTONIO SILVAN MENDEZ" tipo="S" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARISOL SARRACINO SARRACINO" tipo="P" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="TELMA DEL CARMEN DE LA CRUZ GOMEZ" tipo="S" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="LEONARDO PEREZ DE LA CRUZ" tipo="P" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ELISEO MENDEZ LOPEZ" tipo="S" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="OMAR DOMINGUEZ SARRACINO" tipo="P" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="BALVINO RODRIGUEZ PEREZ" tipo="S" numero="01" partido="PRI" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="10" nomMunicipio="JALPA DE MENDEZ" partido="PRI">
+    <regidor nomRegidor="RENAN LOPEZ SANCHEZ" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ANA BEATRIZ VARGAS CASTILLO" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JUAN ANGEL GONZALEZ GARCIA" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JUAN RUIZ ALVAREZ" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JENNY CAMPOS GARCIA" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIO SEGOVIA HERNANDEZ" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LUIS MARQUEZ CASTILLO" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LUZ DEL ALBA DOMINGUEZ HERNANDEZ" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE MANUEL PEREZ GOMEZ" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="RITA MARIA DE LA FUENTE DE LA FUENTE" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GUADALUPE RICARDEZ MARTINEZ" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ISIDRO LOPEZ VELAZQUEZ" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ROSELVI MADRIGAL HERNANDEZ" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ROBERTH GENDER DE LA CRUZ ARELLANO" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MANUEL VALENZUELA RODRIGUEZ" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ANGEL HERNANDEZ GOMEZ" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ERNESTO GUILLEN ALEJANDRO" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="OFELIA SANCHEZ RUIZ" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="PERLA RUBI GOMEZ LOPEZ" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JESUS MAGAÑA DENIS" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="CECILIO GARCIA LAZARO" tipo="P" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="GUADALUPE ESTRELLA MADRIGAL GARCIA" tipo="S" numero="01" partido="PAN" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="11" nomMunicipio="JONUTA" partido="PRD">
+    <regidor nomRegidor="ARMANDO NARCISO CORREA PEÑA" tipo="P" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="NARCISO R ZUBIETA SANCHEZ" tipo="S" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="DORA DEL CARMEN VAZQUEZ ARCOS" tipo="P" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ELVIA LOPEZ MENDOZA" tipo="S" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RICARDO ASCENCIO FLORES" tipo="P" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="HILARIO CHAN MENDEZ" tipo="S" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="FRANCISCA DE LA CRUZ ORTIZ" tipo="P" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="TEODORA EVIA CRUZ" tipo="S" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JUAN MIGUEL CABRALES MARTINEZ" tipo="P" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JOSE ANTONIO MENDOZA CHAN" tipo="S" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="VENEDITA CORREA DAMIAN" tipo="P" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="LUZ ASCENCIO LOPEZ" tipo="S" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MANUEL ZUÑIGA LOPEZ" tipo="P" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="LAUDENCIO REYES BENITES" tipo="S" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ELSI CHAN CORREA" tipo="P" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="AMALIA MORALES MARTINEZ" tipo="S" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MANUEL ANTONIO LOPEZ MENDOZA" tipo="P" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RIGOBERTO MENDOZA GONZALEZ" tipo="S" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RITA SELEMNE PEREZ GOMEZ" tipo="P" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="SHIRLEY IDANIA CASTILLO CELORIO" tipo="S" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RAFAEL CASANOVA LEZAMA" tipo="P" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="LEILA ULLOA SANCHEZ" tipo="S" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="ROBERTO CALACICH SANCHEZ" tipo="P" numero="01" partido="PVEM" principio="RP" />
+    <regidor nomRegidor="ANICACIO CHABLE CRUZ" tipo="S" numero="01" partido="PVEM" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="12" nomMunicipio="MACUSPANA" partido="PRI">
+    <regidor nomRegidor="ALFONSO PEREZ ALVAREZ" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MANUEL RUIZ MONTEJO" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARLENE VELAZQUEZ FELIX" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FELIPE VAZQUEZ CHAVARRIA" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOAQUIN MOSCOSO FELIX" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="CARLOS ARISTEO TURRIZA ALVAREZ" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="EDUARDO MACIEL RAMIREZ" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LESLIE KRISTELL SANCHEZ ZACARIAS" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARCELINO VAZQUEZ MORALES" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JORGE ALBERTO BASTIANI FELIX" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="TILA DEL CARMEN MENDOZA MACOSAY" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ARTURO VILLALPANDO ALVAREZ" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FABIOLA FALCON MADRIGAL" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="SILVIA MOSCOSO HERNANDEZ" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="VERONICA DOMINGUEZ CERINO" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="NERCEDALIA MORALES MORALES" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="IRENE RODRIGUEZ CASTELLANO" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIA GABRIELA RODRIGUEZ GORGORITA" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="CARLOS HUMBERTO RUIZ GONZALEZ" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ROSSANA ROSALES LOPEZ" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ANAHI LASTIRI FALCON" tipo="P" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOEL SANCHEZ GUERRERO" tipo="S" numero="11" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FRANCISCO HERNANDEZ DE LA CRUZ" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="RUBEN NOTARIO DE LA CRUZ" tipo="S" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="ISABEL RAMOS PEREZ" tipo="P" numero="02" partido="PRD" principio="RP" />
+    <regidor nomRegidor="AZALIA MARQUEZ MUÑOZ" tipo="S" numero="02" partido="PRD" principio="RP" />
+    <regidor nomRegidor="MILAGROS DE LA CRUZ ALVAREZ" tipo="P" numero="01" partido="PT" principio="RP" />
+    <regidor nomRegidor="LORENZO HERNANDEZ FELIX" tipo="S" numero="01" partido="PT" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="13" nomMunicipio="NACAJUCA" partido="PRI">
+    <regidor nomRegidor="MARCO ANTONIO LEYVA LEYVA" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="VICENTE GUILLERMO DE LA TORRE" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ANA LUISA ACOSTA SOSA" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARTHA ARELIS LOPEZ LOPEZ" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ARACELI GUILLERMO ARIAS" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="AURELIANO DE LA CRUZ ESTEBAN" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE LINO DE LA CRUZ DE LA CRUZ" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="PIOQUINTA BALLESTEROS GARCIA" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JUAN LUIS MARGALLY RAMON" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="TILA DEL CARMEN FELICIANO DE LA CRUZ" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ROBESPIERRE CHAN OLAN" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="DULCE ILUCION CHAN RUIZ" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE ANTONIO DE LA CRUZ DE LA O" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JUAN GABRIEL MAY REYES" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FEDERICO HERNANDEZ HERNANDEZ" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MATEO DE LOS SANTOS DE LA CRUZ" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIA GLADIS BENITO RODRIGUEZ" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARICELA MORENO RODRIGUEZ" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="PATRICIA DE LA CRUZ MENDOZA" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="BARTOLO PALMA JIMENEZ" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARCOS HERNANDEZ GARCIA" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="SEBASTIAN DE LA CRUZ HERNANDEZ" tipo="S" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="RITA MAGDALENA BALLESTER HERNANDEZ" tipo="P" numero="01" partido="PT" principio="RP" />
+    <regidor nomRegidor="BARTOLA DE LA O DE LA O" tipo="S" numero="01" partido="PT" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="14" nomMunicipio="PARAISO" partido="PRD">
+    <regidor nomRegidor="CRISTOBAL JAVIER ANGULO" tipo="P" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="EDUARDO COLORADO GALMICH" tipo="S" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ANTONIO ALEJANDRO SASTRE" tipo="P" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="BARTOLO SANCHEZ CHABLE" tipo="S" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARIA DE LOS ANGELES WILSON VERA" tipo="P" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARIA DEL CARMEN DOMINGUEZ DOMINGUEZ" tipo="S" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RODULFO DIAZ DOMINGUEZ" tipo="P" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JUAN MANUEL TRINIDAD HERNANDEZ" tipo="S" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JUAN ALVAREZ SANCHEZ" tipo="P" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="AMINADAD ANGULO IZQUIERDO" tipo="S" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="VICTOR ARIAS DOMINGUEZ" tipo="P" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JAVIER LOPEZ CONTRERAS" tipo="S" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="CANDELARIA HERNANDEZ MARQUEZ" tipo="P" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JUANA DE LA CRUZ HERNANDEZ" tipo="S" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MAGALI CHACHA GONZALEZ" tipo="P" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="CLAUDIA GARCIA GARCIA" tipo="S" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="YOLANDA DEL CARMEN DE LA CRUZ ARIAS" tipo="P" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ELSY MARIA DEL SOCORRO CHAN RAMIREZ" tipo="S" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="SEBASTIAN JUAREZ PEREZ" tipo="P" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MANUEL LAZARO LOPEZ" tipo="S" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MIGUEL ANTONIO GUZMAN MAGAÑA" tipo="P" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="BEATRIZ ARELLANO CORDOVA" tipo="S" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="CARMEN JIMENEZ GARCIA" tipo="P" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="ROSARIO BARJAU TORRES" tipo="S" numero="01" partido="PRI" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="15" nomMunicipio="TACOTALPA" partido="PRI">
+    <regidor nomRegidor="ULISES SOLIS GARCIA" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ZULEMA YOLANDA PINTADO PEREZ" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIA DE GUADALUPE RAMOS MENDEZ" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GREGORIA LOPEZ LOPEZ" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ANTONIO MORALES RODRIGUEZ" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOEL CALCANEO PEREZ" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE CECILIO LOPEZ ESQUIVEL" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARYSTEL TORRES MENDOZA" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="RODRIGO ALBERTO DE LA CRUZ CAMPOS" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSEFA BALCAZAR LOPEZ" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ORBELIN CRUZ MENDEZ" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MELESIO MENDEZ GUZMAN" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LORENZO ANTONIO LOPEZ REYES" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARITZA DEL CARMEN ASENCIO ALCOCER" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="SILVIA YOLANDA TORRES UTRILLA" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JAVIER SARAO ALVAREZ" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GABRIELA COUTIÑO BALBOA" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MORAIMA DOMINGUEZ FIGUEROA" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LUCRECIA EDITH PEREZ MENDEZ" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FELIPE DE JESUS COCOM SABIDO" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MOISES BENITES LOPEZ" tipo="P" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="ROSA NELLY SANCHEZ HERNANDEZ" tipo="S" numero="01" partido="PAN" principio="RP" />
+    <regidor nomRegidor="ARCELIS DE LA TORRES ZURITA" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="JOSE ALFREDO HERNANDEZ VICENTE" tipo="S" numero="01" partido="PRD" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="16" nomMunicipio="TEAPA" partido="PRI">
+    <regidor nomRegidor="HECTOR RAUL CABRERA PASCACIO" tipo="P" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JULIO CESAR PEDRERO MEDINA" tipo="S" numero="01" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARGARITA GARDUZA SOLIS" tipo="P" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MIGUEL PEREZ GARCIA" tipo="S" numero="02" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIA DOLORES PEDRERO RAMIREZ" tipo="P" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LILIA ALVARADO DIAZ" tipo="S" numero="03" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ADA LILA JIMENEZ DOMINGUEZ" tipo="P" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="RAMON SOSA SANCHEZ" tipo="S" numero="04" partido="PRI" principio="MR" />
+    <regidor nomRegidor="FERNANDO GENAREZ BRINDIS" tipo="P" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="CARLOS ENOC SANCHEZ ALOR" tipo="S" numero="05" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MIGUEL ANGEL PEREZ VERA" tipo="P" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="LLUVIA QUEVEDO HERNANDEZ" tipo="S" numero="06" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE ANGEL PEREZ ALVAREZ" tipo="P" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARIA JESUS VEGA HERNANDEZ" tipo="S" numero="07" partido="PRI" principio="MR" />
+    <regidor nomRegidor="TANIA DOLORES ZETINA PEREZ" tipo="P" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="JOSE  ALVAREZ" tipo="S" numero="08" partido="PRI" principio="MR" />
+    <regidor nomRegidor="MARICELA BELTRAN GOMEZ" tipo="P" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="ESTHER VAZQUEZ GOMEZ" tipo="S" numero="09" partido="PRI" principio="MR" />
+    <regidor nomRegidor="GUADALUPE CRUZ PEREZ" tipo="P" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="KARINA MIRELES VALAY" tipo="S" numero="10" partido="PRI" principio="MR" />
+    <regidor nomRegidor="BERTHA PATRICIA BAUTISTA WADE" tipo="P" numero="01" partido="PRD" principio="RP" />
+    <regidor nomRegidor="GUADALUPE AYALA CASTELLANOS" tipo="S" numero="01" partido="PRD" principio="RP" />
+  </municipio>
+  <municipio noMunicipio="17" nomMunicipio="TENOSIQUE" partido="PRD">
+    <regidor nomRegidor="RAUL GUSTAVO GUTIERREZ CORTES" tipo="P" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARCO ANTONIO DE LA TORRE GUTIERREZ" tipo="S" numero="01" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JORGE ANTONIO VILLANUEVA CELORIO" tipo="P" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MIGUEL ANGEL PONCE RAMIREZ" tipo="S" numero="02" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARIA VICTORIA PEREZ CHAN" tipo="P" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ELISA GUTIERREZ LUNA" tipo="S" numero="03" partido="PRD" principio="MR" />
+    <regidor nomRegidor="LORENZO LOPEZ ROMERO" tipo="P" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JORGE ALBERTO MENDOZA BLANCAS" tipo="S" numero="04" partido="PRD" principio="MR" />
+    <regidor nomRegidor="KARINA GONZALEZ RODRIGUEZ" tipo="P" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="SAUDI OVANDO GUZMAN" tipo="S" numero="05" partido="PRD" principio="MR" />
+    <regidor nomRegidor="CARLOS ALONSO ALMEIDA FERNANDEZ" tipo="P" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ANACLETO LOPEZ MORALES" tipo="S" numero="06" partido="PRD" principio="MR" />
+    <regidor nomRegidor="REYNA HERNANDEZ MAY" tipo="P" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="GLORIA ESTAÑOL CASTILLEJOS" tipo="S" numero="07" partido="PRD" principio="MR" />
+    <regidor nomRegidor="RUBEN GRAILLET ARAMBURO" tipo="P" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="LUIS JAVIER GUTIERREZ SANCHEZ" tipo="S" numero="08" partido="PRD" principio="MR" />
+    <regidor nomRegidor="IRMA MORALES HERNANDEZ" tipo="P" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="ROSAURA BAUTISTA SANCHEZ" tipo="S" numero="09" partido="PRD" principio="MR" />
+    <regidor nomRegidor="JOSE PEREZ DIAZ" tipo="P" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="FERNANDO VELUETA GUTIERREZ" tipo="S" numero="10" partido="PRD" principio="MR" />
+    <regidor nomRegidor="MARITZA MALLELY JIMENEZ PEREZ" tipo="P" numero="01" partido="PRI" principio="RP" />
+    <regidor nomRegidor="ATILANO ALVAREZ ESPINOSA" tipo="S" numero="01" partido="PRI" principio="RP" />
+  </municipio>
+</presidentesRegidores>

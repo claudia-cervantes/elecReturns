@@ -1,0 +1,37 @@
+﻿<legislatura>
+  <diputado idDiputado="1" nombre="JUAN FRANCISCO CACERES DE LA FUENTE" cargo="DIPUTADO PLURINOMINAL 1a. CIRCUNSCRIPCION" partido="PAN" />
+  <diputado idDiputado="2" nombre="JAVIER CALDERON MENA" cargo="DIPUTADO DISTRITO VIII EMILIANO ZAPATA" partido="PAN" />
+  <diputado idDiputado="3" nombre="ALBERTO DE LA CRUZ POZO" cargo="DIPUTADO DISTRITO I BALANCAN" partido="PAN" />
+  <diputado idDiputado="4" nombre="LORENA BEAURREGARD DE LOS SANTOS" cargo="DIPUTADA PLURINOMINAL 2a. CIRCUNSCRIPCION" partido="PRI" />
+  <diputado idDiputado="5" nombre="ARMANDO BELTRAN TENORIO" cargo="DIPUTADO DISTRITO XIX CARDENAS" partido="PRI" />
+  <diputado idDiputado="6" nombre="OSCAR CASTILLO MOHA" cargo="DIPUTADO DISTRITO III CENTLA" partido="PRI" />
+  <diputado idDiputado="7" nombre="CARLOS MANUEL DE LA CRUZ ALCUDIA" cargo="DIPUTADO DISTRITO XXI CENTRO PONIENTE" partido="PRI" />
+  <diputado idDiputado="8" nombre="LUCILA DOMINGUEZ SANCHEZ" cargo="DIPUTADA DISTRITO XIV NACAJUCA" partido="PRI" />
+  <diputado idDiputado="9" nombre="JOSE DOLORES ESPINOZA MAY" cargo="DIPUTADO DISTRITO V CENTRO SUR" partido="PRI" />
+  <diputado idDiputado="10" nombre="MARCELA DE JESUS GONZALEZ GARCIA" cargo="DIPUTADA PLURINOMINAL 1a. CIRCUNSCRIPCION" partido="PRI" />
+  <diputado idDiputado="11" nombre="JAIME HERNANDEZ CORDOVA" cargo="DIPUTADO DISTRITO VI COMALCALCO" partido="PRI" />
+  <diputado idDiputado="12" nombre="ALFONSO ROLANDO IZQUIERDO BUSTAMANTE" cargo="DIPUTADO PLURINOMINAL 1a. CIRCUNSCRIPCION" partido="PRI" />
+  <diputado idDiputado="13" nombre="ELDA MARIA LLERGO ASMITIA" cargo="DIPUTADA DISTRITO XVII TEAPA" partido="PRI" />
+  <diputado idDiputado="14" nombre="LUIS FELIPE MADRIGAL HERNANDEZ" cargo="DIPUTADO DISTRITO IX HUIMANGUILLO" partido="PRI" />
+  <diputado idDiputado="15" nombre="MIGUEL ANGEL MOHENO PIÑERA" cargo="DIPUTADO DISTRITO II CARDENAS" partido="PRI" />
+  <diputado idDiputado="16" nombre="FERNANDO MORALES MATEOS" cargo="DIPUTADO DISTRITO XIII MACUSPANA" partido="PRI" />
+  <diputado idDiputado="17" nombre="JOSE CARLOS OCAÑA BECERRA" cargo="DIPUTADO DISTRITO IV CENTRO NORTE" partido="PRI" />
+  <diputado idDiputado="18" nombre="AURORA PIÑERA FERNANDEZ" cargo="DIPUTADA DISTRITO VII CUNDUACAN" partido="PRI" />
+  <diputado idDiputado="19" nombre="AGUSTIN SOMELLERA PULIDO" cargo="DIPUTADO PLURINOMINAL 2a. CIRCUNSCRIPCION" partido="PRI" />
+  <diputado idDiputado="20" nombre="FERNANDO VALENZUELA PERNAS" cargo="DIPUTADO PLURINOMINAL 2a. CIRCUNSCRIPCION" partido="PRI" />
+  <diputado idDiputado="21" nombre="HUMBERTO VILLEGAS ZAPATA" cargo="DIPUTADO PLURINOMINAL 1a. CIRCUNSCRIPCION" partido="PRI" />
+  <diputado idDiputado="22" nombre="CHRISTIAN SALVADOR AQUINO MENA" cargo="DIPUTADO PLURINOMINAL 2a. CIRCUNSCRIPCION" partido="PRD" />
+  <diputado idDiputado="23" nombre="BERNARDO BARRADA RUIZ" cargo="DIPUTADA DISTRITO XV PARAISO" partido="PRD" />
+  <diputado idDiputado="24" nombre="CLAUDIA ELIZABETH BOJORQUEZ JAVIER" cargo="DIPUTADA PLURINOMINAL 1a. CIRCUNSCRIPCION" partido="PRD" />
+  <diputado idDiputado="25" nombre="FERNANDO ENRIQUE GOMEZ ASCENCIO" cargo="DIPUTADO DISTRITO XII JONUTA" partido="PRD" />
+  <diputado idDiputado="26" nombre="JESUS GONZALEZ GONZALEZ" cargo="DIPUTADO DISTRITO X JALAPA" partido="PRD" />
+  <diputado idDiputado="27" nombre="JULIO ALONSO MANZANO ROSAS" cargo="DIPUTADO DISTRITO XVII TENOSIQUE" partido="PRD" />
+  <diputado idDiputado="28" nombre="JUAN JOSE MARTINEZ PEREZ" cargo="DIPUTADO PLURINOMINAL 1a. CIRCUNSCRIPCION" partido="PRD" />
+  <diputado idDiputado="29" nombre="LORENA MENDEZ DENIS" cargo="DIPUTADA PLURINOMINAL 2a. CIRCUNSCRIPCION" partido="PRD" />
+  <diputado idDiputado="30" nombre="JUAN JOSE PERALTA FOCIL" cargo="DIPUTADO DISTRITO XX CENTRO ORIENTE" partido="PRD" />
+  <diputado idDiputado="31" nombre="ALTERIO RAMOS PEREZ PEREZ" cargo="DIPUTADO DISTRITO XVI TACOTALPA" partido="PRD" />
+  <diputado idDiputado="32" nombre="JESUS SELVAN GARCIA" cargo="DIPUTADO PLURINOMINAL 2a. CIRCUNSCRIPCION" partido="PRD" />
+  <diputado idDiputado="33" nombre="ANDRES CEBALLOS AVALOS" cargo="DIPUTADO PLURINOMINAL 2a. CIRCUNSCRIPCION" partido="PT" />
+  <diputado idDiputado="34" nombre="PASCUAL BELLIZZIA ROSIQUE" cargo="DIPUTADO PLURINOMINAL 1a. CIRCUNSCRIPCION" partido="PVEM" />
+  <diputado idDiputado="35" nombre="MANUEL ANTONIO ULIN BARJAU" cargo="DIPUTADO DISTRITO XI JALPA DE MENDEZ" partido="NA" />
+</legislatura>

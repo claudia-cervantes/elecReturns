@@ -1,0 +1,30 @@
+﻿<diputados>
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="JUAN FRANCISCO CACERES DE LA FUENTE" partido="PAN" tipo="P" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="SOLANGE MARIA SOLER LANZ" partido="PAN" tipo="S" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="HUMBERTO VILLEGAS ZAPATA" partido="PRI" tipo="P" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="CITLALLIN BATILDE DE DIOS CALLES" partido="PRI" tipo="S" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="MARCELA DE JESUS GONZALEZ GARCIA" partido="PRI" tipo="P" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="ROMAN PEREZ MORALES" partido="PRI" tipo="S" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="ALFONSO ROLANDO IZQUIERDO BUSTAMANTE" partido="PRI" tipo="P" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="CLAUDIA ISABEL ROSADO MENDOZA" partido="PRI" tipo="S" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="LORENA BEAURREGARD DE LOS SANTOS" partido="PRI" tipo="P" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="ANA BEATRIZ HERNANDEZ PERALTA" partido="PRI" tipo="S" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="AGUSTIN SOMELLERA PULIDO" partido="PRI" tipo="P" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="GUADALUPE CADENA CARABELI" partido="PRI" tipo="S" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="FERNANDO VALENZUELA PERNAS" partido="PRI" tipo="P" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="MARIA REYES ACOSTA ACOSTA" partido="PRI" tipo="S" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="JUAN JOSE MARTINEZ PEREZ" partido="PRD" tipo="P" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="ANTONIO SOLIS CALVILLO" partido="PRD" tipo="S" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="CLAUDIA ELIZABETH BOJORQUEZ JAVIER" partido="PRD" tipo="P" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="MARIA DE LA CRUZ LLERGO LEON" partido="PRD" tipo="S" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="JESUS SELVAN GARCIA" partido="PRD" tipo="P" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="URBANO OLAN CHABLE" partido="PRD" tipo="S" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="LORENA MENDEZ DENIS" partido="PRD" tipo="P" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="ALMA ROSA JUAREZ CORDOVA" partido="PRD" tipo="S" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="CHRISTIAN SALVADOR AQUINO MENA" partido="PRD" tipo="P" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="ADIEL AQUINO ALMEYDA" partido="PRD" tipo="S" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="ANDRES CEBALLOS AVALOS" partido="PT" tipo="P" />
+  <diputado circunscripcion="2a. CIRCUNSCRIPCION" nombre="ANA LUCIA GONZALEZ GOMEZ" partido="PT" tipo="S" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="PASCUAL BELLIZZIA ROSIQUE" partido="PVEM" tipo="P" />
+  <diputado circunscripcion="1a. CIRCUNSCRIPCION" nombre="CLAUDIA SOLEDAD FERNANDEZ BALBOA" partido="PVEM" tipo="S" />
+</diputados>

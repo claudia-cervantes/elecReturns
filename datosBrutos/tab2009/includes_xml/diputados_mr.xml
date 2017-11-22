@@ -1,0 +1,44 @@
+﻿<diputados>
+  <diputado romano="I" distrito="BALANCAN" nombre="ALBERTO DE LA CRUZ POZO" partido="PAN" tipo="P" />
+  <diputado romano="I" distrito="BALANCAN" nombre="IRMA CASTAÑEDA URBANO" partido="PAN" tipo="S" />
+  <diputado romano="II" distrito="CARDENAS" nombre="MIGUEL ANGEL MOHENO PIÑERA" partido="PRI" tipo="P" />
+  <diputado romano="II" distrito="CARDENAS" nombre="KARLA SAMANTHA PAYAN FRAIJO" partido="PRI" tipo="S" />
+  <diputado romano="III" distrito="CENTLA" nombre="OSCAR CASTILLO MOHA" partido="PRI" tipo="P" />
+  <diputado romano="III" distrito="CENTLA" nombre="ISABEL DE LA CRUZ PEREZ" partido="PRI" tipo="S" />
+  <diputado romano="IV" distrito="CENTRO NORTE" nombre="JOSE CARLOS OCAÑA BECERRA" partido="PRI" tipo="P" />
+  <diputado romano="IV" distrito="CENTRO NORTE" nombre="IDALIA LIMON CORDOBA" partido="PRI" tipo="S" />
+  <diputado romano="V" distrito="CENTRO SUR" nombre="JOSE DOLORES ESPINOZA MAY" partido="PRI" tipo="P" />
+  <diputado romano="V" distrito="CENTRO SUR" nombre="LILIANA IVETTE MADRIGAL MENDEZ" partido="PRI" tipo="S" />
+  <diputado romano="VI" distrito="COMALCALCO" nombre="JAIME HERNANDEZ CORDOVA" partido="PRI" tipo="P" />
+  <diputado romano="VI" distrito="COMALCALCO" nombre="SILVERIA MURILLO PERALTA" partido="PRI" tipo="S" />
+  <diputado romano="VII" distrito="CUNDUACAN" nombre="AURORA PIÑERA FERNANDEZ" partido="PRI" tipo="P" />
+  <diputado romano="VII" distrito="CUNDUACAN" nombre="EDWIN SANCHEZ GOMEZ" partido="PRI" tipo="S" />
+  <diputado romano="VIII" distrito="EMILIANO ZAPATA" nombre="JAVIER CALDERON MENA" partido="PAN" tipo="P" />
+  <diputado romano="VIII" distrito="EMILIANO ZAPATA" nombre="TRINIDAD RAMIREZ GUTIERREZ" partido="PAN" tipo="S" />
+  <diputado romano="IX" distrito="HUIMANGUILLO" nombre="LUIS FELIPE MADRIGAL HERNANDEZ" partido="PRI" tipo="P" />
+  <diputado romano="IX" distrito="HUIMANGUILLO" nombre="RITA DEL CARMEN GALVEZ BONORA" partido="PRI" tipo="S" />
+  <diputado romano="X" distrito="JALAPA" nombre="JESUS GONZALEZ GONZALEZ" partido="PRD" tipo="P" />
+  <diputado romano="X" distrito="JALAPA" nombre="MARITZA DOMINGUEZ GONZALEZ" partido="PRD" tipo="S" />
+  <diputado romano="XI" distrito="JALPA DE MENDEZ" nombre="MANUEL ANTONIO ULIN BARJAU" partido="NA" tipo="P" />
+  <diputado romano="XI" distrito="JALPA DE MENDEZ" nombre="CONCEPCION RICARDEZ RICARDEZ" partido="NA" tipo="S" />
+  <diputado romano="XII" distrito="JONUTA" nombre="FERNANDO ENRIQUE GOMEZ ASCENCIO" partido="PRD" tipo="P" />
+  <diputado romano="XII" distrito="JONUTA" nombre="LUIS ENRIQUE VILLAMAYOR NOTARIO" partido="PRD" tipo="S" />
+  <diputado romano="XIII" distrito="MACUSPANA" nombre="FERNANDO MORALES MATEOS" partido="PRI" tipo="P" />
+  <diputado romano="XIII" distrito="MACUSPANA" nombre="FERNANDO URBANO ALVAREZ" partido="PRI" tipo="S" />
+  <diputado romano="XIV" distrito="NACAJUCA" nombre="LUCILA DOMINGUEZ SANCHEZ" partido="PRI" tipo="P" />
+  <diputado romano="XIV" distrito="NACAJUCA" nombre="JOSE ANTONIO GOMEZ MUÑOZ" partido="PRI" tipo="S" />
+  <diputado romano="XV" distrito="PARAISO" nombre="BERNARDO BARRADA RUIZ" partido="PRD" tipo="P" />
+  <diputado romano="XV" distrito="PARAISO" nombre="JOSE GUADALUPE HERNANDEZ SANTOS" partido="PRD" tipo="S" />
+  <diputado romano="XVI" distrito="TACOTALPA" nombre="ALTERIO RAMOS PEREZ PEREZ" partido="PRD" tipo="P" />
+  <diputado romano="XVI" distrito="TACOTALPA" nombre="MIGUEL ANGEL DE LA CRUZ HERNANDEZ" partido="PRD" tipo="S" />
+  <diputado romano="XVII" distrito="TEAPA" nombre="ELDA MARIA LLERGO ASMITIA" partido="PRI" tipo="P" />
+  <diputado romano="XVII" distrito="TEAPA" nombre="EDGAR DANIEL CANO GOMEZ" partido="PRI" tipo="S" />
+  <diputado romano="XVIII" distrito="TENOSIQUE" nombre="JULIO ALONSO MANZANO ROSAS" partido="PRD" tipo="P" />
+  <diputado romano="XVIII" distrito="TENOSIQUE" nombre="LUIS REY RODRIGUEZ LOPEZ" partido="PRD" tipo="S" />
+  <diputado romano="XIX" distrito="CARDENAS PONIENTE" nombre="ARMANDO BELTRAN TENORIO" partido="PRI" tipo="P" />
+  <diputado romano="XIX" distrito="CARDENAS PONIENTE" nombre="CECILIA JIMENEZ GARCIA" partido="PRI" tipo="S" />
+  <diputado romano="XX" distrito="CENTRO ORIENTE" nombre="JUAN JOSE PERALTA FOCIL" partido="PRD" tipo="P" />
+  <diputado romano="XX" distrito="CENTRO ORIENTE" nombre="FRANCISCO ANTONIO ORTIZ AVALOS" partido="PRD" tipo="S" />
+  <diputado romano="XXI" distrito="CENTRO PONIENTE" nombre="CARLOS M. DE LA CRUZ ALCUDIA" partido="PRI" tipo="P" />
+  <diputado romano="XXI" distrito="CENTRO PONIENTE" nombre="YOLANDA RUEDA DE LA CRUZ" partido="PRI" tipo="S" />
+</diputados>

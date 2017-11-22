@@ -1,0 +1,987 @@
+ord,secn,tipo,mun,localidad,pan,pri,prd,pt,pvem,prs,parmen,pps-ppn-pfrap-pc,nr,nul
+1,1,B,acaponeta,Acaponeta,120,118,10,3,0,2,0,4,0,0
+2,2,B,acaponeta,Acaponeta,54,70,34,2,0,2,1,9,1,4
+3,2,E,acaponeta,El Centenario,8,54,10,4,0,0,1,1,0,0
+4,3,B,acaponeta,Acaponeta,84,222,207,12,0,3,7,11,0,24
+5,4,B,acaponeta,Acaponeta,74,150,41,7,0,2,1,2,0,17
+6,5,B,acaponeta,Acaponeta,104,234,38,13,0,2,0,5,0,12
+7,6,B,acaponeta,Acaponeta,107,166,36,13,0,7,0,1,0,12
+8,7,B,acaponeta,Acaponeta,171,151,32,14,0,1,0,5,0,10
+9,8,B,acaponeta,Acaponeta,201,198,36,7,0,3,1,8,0,9
+10,9,B,acaponeta,Acaponeta,88,107,20,3,0,3,0,12,0,4
+11,10,B,acaponeta,Acaponeta,179,224,26,14,0,2,0,13,0,24
+12,11,B,acaponeta,Acaponeta,103,140,12,5,0,5,0,4,0,5
+13,12,B,acaponeta,Acaponeta,158,212,19,12,0,0,0,13,0,14
+14,13,B,acaponeta,Acaponeta,141,174,14,8,0,1,0,7,0,13
+15,14,B,acaponeta,Acaponeta,61,128,5,10,0,3,0,2,0,2
+16,15,B,acaponeta,Acaponeta,105,178,20,5,0,2,0,2,0,0
+17,16,B,acaponeta,Acaponeta,83,142,26,13,0,0,0,6,0,0
+18,17,B,acaponeta,Acaponeta,85,147,21,10,0,0,0,5,0,8
+19,18,B,acaponeta,Acaponeta,115,152,16,0,0,1,1,4,0,0
+20,19,B,acaponeta,El Tacote,7,39,14,4,0,0,0,0,0,6
+21,20,B,acaponeta,Cerro Bola,12,62,5,1,0,0,0,0,0,6
+22,20,E,acaponeta,La Haciendilla,16,35,1,1,1,0,0,1,0,0
+23,21,B,acaponeta,El Aguaje,24,181,8,7,0,1,1,1,0,10
+24,22,B,acaponeta,Valle de la Urraca,21,62,6,0,0,0,0,0,0,9
+25,23,B,acaponeta,La Bayona,31,138,53,21,0,25,0,3,0,10
+26,23,E,acaponeta,Las Casitas,12,46,3,3,0,1,0,2,0,4
+27,24,B,acaponeta,El Recodo,33,138,69,8,0,0,0,0,0,0
+28,24,E,acaponeta,Llano de Mariquita,3,70,3,1,0,0,0,0,0,0
+29,24,E,acaponeta,La Morita,2,52,2,0,0,0,0,0,0,0
+30,25,B,acaponeta,La Lagunita,10,36,3,5,0,0,0,0,0,0
+31,26,B,acaponeta,San Diego Naranjo,20,50,1,4,0,0,0,0,0,0
+32,27,B,acaponeta,Santa Cruz,1,50,6,11,0,0,0,1,0,2
+33,27,E,acaponeta,El Carrizal,0,66,0,0,0,0,0,0,0,0
+34,28,B,acaponeta,San Diego de Alcala,9,109,17,2,0,0,0,1,0,0
+35,29,B,acaponeta,El Carrizo,11,37,4,2,0,0,0,0,0,0
+36,29,E,acaponeta,El Oro,12,25,1,2,0,0,0,0,0,3
+37,30,B,acaponeta,San Dieguito de Arriba,20,81,5,4,0,0,0,0,0,6
+38,31,B,acaponeta,San Dieguito de Abajo,26,112,11,9,1,1,0,5,0,0
+39,32,B,acaponeta,Casas Coloradas,33,155,2,4,0,1,0,8,0,18
+45,33,B,acaponeta,San JosÚ de Gracia,80,127,39,6,0,5,0,1,0,0
+46,34,B,acaponeta,Buenavista,11,64,7,3,0,0,0,0,0,1
+47,34,E,acaponeta,Los Sandovales,3,21,9,1,0,0,0,0,0,16
+48,35,B,acaponeta,La Higuerita Nueva,10,43,6,3,1,0,0,0,0,0
+49,36,B,acaponeta,El Tigre,20,162,149,7,0,1,0,0,0,17
+50,37,B,acaponeta,El Tej¾n,14,126,0,4,0,0,0,0,0,0
+51,38,B,acaponeta,Sayulilla,126,238,6,14,1,9,1,2,0,12
+52,39,B,acaponeta,Sayulilla,120,233,6,10,0,11,0,0,0,7
+53,40,B,acaponeta,Llano de la Cruz,144,117,11,14,0,0,0,0,0,8
+54,40,E,acaponeta,La Piedra Ancha,25,51,2,8,0,1,0,1,0,1
+55,41,B,acaponeta,La Cortez,28,145,0,2,0,0,0,0,0,14
+56,42,B,acaponeta,San Francisco,6,26,14,11,0,6,0,0,0,1
+57,43,B,acaponeta,El Resbal¾n,4,189,18,164,0,1,0,0,0,10
+58,44,B,acaponeta,Mesa de Pedro y Pablo,5,52,3,7,0,1,0,0,0,0
+59,45,B,acaponeta,El Motaje,47,73,8,9,0,1,0,2,0,1
+60,46,B,acaponeta,La Guasima,92,187,45,13,0,25,0,2,0,5
+61,47,B,acaponeta,San Miguel,82,164,30,29,0,3,0,0,0,13
+62,47,E,acaponeta,Amado Nervo,4,33,11,3,0,0,0,1,0,0
+63,48,B,acaponeta,Paloma Nueva Reforma,33,19,2,1,0,0,1,0,0,4
+70,49,B,ahuacatlan,Ahuacatlßn,83,122,6,3,5,0,1,0,0,11
+71,50,B,ahuacatlan,Ahuacatlßn,112,184,13,3,2,0,0,2,0,0
+72,51,B,ahuacatlan,Ahuacatlßn,144,251,7,0,6,0,0,2,0,12
+73,52,B,ahuacatlan,Ahuacatlßn,151,173,11,4,10,0,0,1,0,0
+74,53,B,ahuacatlan,Ahuacatlßn,183,300,13,2,3,0,0,1,1,7
+75,54,B,ahuacatlan,Ahuacatlßn,229,366,9,5,8,2,0,1,0,9
+76,55,B,ahuacatlan,Santa Isabel,25,66,29,3,1,0,0,0,0,5
+77,56,B,ahuacatlan,Santa Isabel,40,295,45,4,5,0,0,0,0,13
+78,57,B,ahuacatlan,Tetitlßn,96,330,13,6,4,0,0,0,0,19
+79,58,B,ahuacatlan,Valle Verde,98,183,27,2,0,0,0,2,0,0
+80,59,B,ahuacatlan,Uzeta,217,269,15,2,5,0,0,6,0,23
+81,60,B,ahuacatlan,Marquezado,21,201,58,8,2,1,1,2,0,6
+82,61,B,ahuacatlan,Heriberto Jara,70,155,56,30,8,0,0,1,0,22
+83,61,E,ahuacatlan,La Campana,10,74,2,2,2,0,0,0,0,0
+84,62,B,ahuacatlan,La Cienega,14,80,4,3,0,0,0,0,0,0
+85,63,B,ahuacatlan,Zoatlßn,24,116,5,2,1,0,0,0,0,0
+86,64,B,ahuacatlan,Las Palmas,0,92,1,2,1,0,0,0,0,3
+87,65,B,ahuacatlan,Santa Cruz de Camotlßn,18,161,5,2,1,0,0,1,0,10
+88,65,E,ahuacatlan,Las Cebollas,17,50,5,1,3,0,0,0,0,0
+95,66,B,amatlan,Amatlßn de Ca±as,105,77,5,1,0,1,0,1,0,0
+96,67,B,amatlan,Amatlßn de Ca±as,224,71,3,3,1,0,0,1,0,16
+97,68,B,amatlan,Amatlßn de Ca±as,254,130,7,1,0,0,0,1,0,7
+98,69,B,amatlan,Amatlßn de Ca±as,165,96,5,0,0,0,0,0,0,3
+99,70,B,amatlan,Amatlßn de Ca±as,44,79,2,0,0,1,0,0,0,0
+100,71,B,amatlan,Los Cerritos,28,53,0,0,0,0,0,0,0,0
+101,72,B,amatlan,San Valentin,18,31,0,0,0,0,1,0,1,1
+102,73,B,amatlan,Las Anonas,16,22,0,0,0,0,0,0,0,0
+103,74,B,amatlan,Barranca del Oro,56,133,0,0,1,0,0,1,0,8
+104,74,E,amatlan,El Pil¾n,32,37,1,1,0,1,0,0,0,0
+105,75,B,amatlan,Mezquites,57,145,2,3,0,0,0,2,0,6
+106,76,B,amatlan,Los Agrios,36,63,0,2,0,0,0,0,0,1
+107,77,B,amatlan,El Rosario,108,158,3,2,0,0,0,2,0,4
+108,78,B,amatlan,El Rosario,112,190,4,0,0,0,0,0,0,5
+109,79,B,amatlan,Tepuzhuacan,93,295,3,2,0,1,0,1,0,11
+110,80,B,amatlan,Estancia de los L¾pez,97,148,9,9,0,0,2,0,0,17
+111,81,B,amatlan,Estancia de los L¾pez,67,57,6,0,0,0,1,2,2,2
+112,82,B,amatlan,Estancia de los L¾pez,117,80,16,0,0,0,0,0,0,8
+113,83,B,amatlan,Estancia de los L¾pez,118,170,8,3,0,1,4,3,0,6
+114,84,B,amatlan,Pie de la Cuesta,42,36,1,1,1,0,0,0,0,7
+115,85,B,amatlan,Agua Escondida,16,22,0,2,0,0,0,0,0,1
+116,86,B,amatlan,La Yerbabuena,7,140,1,0,0,0,0,0,0,4
+117,87,B,amatlan,El Copalillo,17,45,0,1,0,0,0,0,0,3
+118,88,B,amatlan,San Blasito,45,145,2,2,0,0,0,0,0,0
+119,89,B,amatlan,Jes·s MarÝa,49,122,0,2,0,0,0,0,0,2
+126,90,B,bahia banderas,Mezcales,137,206,12,14,2,4,0,46,0,15
+127,91,B,bahia banderas,Lo de Marcos,122,137,25,9,1,0,1,5,0,5
+128,92,B,bahia banderas,Lo de Marcos,72,44,22,7,0,0,0,3,0,0
+129,93,B,bahia banderas,La Fortuna de Vallejo,13,85,0,1,0,0,0,0,0,6
+130,94,B,bahia banderas,Aguamilpa,51,118,7,4,0,0,0,4,0,25
+131,95,B,bahia banderas,El Coatante,24,82,0,3,0,0,0,1,0,3
+132,95,E,bahia banderas,Los Sauces,32,54,2,4,0,0,0,1,0,5
+133,96,B,bahia banderas,San Francisco,158,170,8,4,1,0,0,1,0,13
+134,97,B,bahia banderas,El Colomo,182,140,16,12,3,0,0,2,0,0
+135,98,B,bahia banderas,Sayulita,52,276,35,5,1,0,0,3,0,8
+136,98,E,bahia banderas,San Ignacio,7,38,3,1,0,0,0,1,0,0
+137,98,E,bahia banderas,El Guamuchil,8,44,4,4,3,0,0,2,0,0
+138,99,B,bahia banderas,San Juan Papachula,99,91,5,11,2,0,0,1,0,10
+139,100,B,bahia banderas,San Juan de Abajo,226,178,8,5,0,0,0,3,0,0
+140,101,B,bahia banderas,San Juan de Abajo,241,138,15,7,1,2,1,7,0,10
+141,102,B,bahia banderas,San Juan de Abajo,211,59,34,8,1,0,0,7,0,10
+142,103,B,bahia banderas,San Juan de Abajo,227,200,28,3,1,2,0,1,0,9
+143,104,B,bahia banderas,San Juan de Abajo,288,260,41,23,1,4,0,1,0,11
+144,105,B,bahia banderas,Valle de Banderas,206,240,3,6,0,2,0,1,0,10
+145,106,B,bahia banderas,Valle de Banderas,105,295,0,5,1,0,0,3,0,6
+146,107,B,bahia banderas,Valle de Banderas,126,233,4,11,1,0,0,2,0,0
+147,107,E,bahia banderas,Sta. Rosa Tapachula,103,65,2,2,1,0,0,2,0,4
+148,108,B,bahia banderas,Valle de Banderas,120,209,0,7,0,4,1,1,0,0
+149,109,B,bahia banderas,Higuera Blanca,46,111,11,5,0,0,0,3,0,2
+150,110,B,bahia banderas,Fracc. Emiliano Zapata (P.Mita),40,121,13,1,0,0,0,0,0,0
+151,110,E,bahia banderas,Nuevo Corral del Risco,33,58,25,1,0,0,0,0,0,0
+152,111,B,bahia banderas,Bucerias,175,240,54,8,5,2,0,6,0,14
+153,112,B,bahia banderas,Bucerias,141,197,45,9,1,2,0,12,0,13
+154,113,B,bahia banderas,Bucerias,152,178,18,2,8,2,0,4,0,10
+155,114,B,bahia banderas,La Cruz de Huanacaxtle,132,232,17,1,1,0,0,5,0,0
+156,115,B,bahia banderas,San JosÚ del Valle,164,310,2,9,1,2,0,2,0,10
+157,116,B,bahia banderas,San JosÚ del Valle,148,301,3,17,0,2,0,0,0,12
+158,117,B,bahia banderas,San JosÚ del Valle,140,203,2,7,0,2,0,5,0,6
+159,118,B,bahia banderas,San Vicente,298,208,4,8,0,13,0,3,0,11
+160,119,B,bahia banderas,San Vicente,100,90,5,12,0,0,0,1,0,7
+161,120,B,bahia banderas,El Porvenir,97,243,3,12,3,3,0,7,0,7
+162,121,B,bahia banderas,Jarretaderas,72,157,4,7,0,0,0,4,0,0
+163,122,B,bahia banderas,Jarretaderas,60,119,7,3,1,1,0,5,0,10
+164,123,B,bahia banderas,Jarretaderas,51,63,2,9,3,0,0,4,0,3
+171,124,B,compostela,Compostela,125,114,9,4,0,0,1,8,0,12
+172,125,B,compostela,Compostela,285,213,7,26,1,0,4,3,0,0
+173,126,B,compostela,Compostela,96,63,4,9,0,0,0,2,0,3
+174,126,E,compostela,Compostela,24,9,0,3,0,0,1,2,0,0
+175,127,B,compostela,Compostela,203,138,6,11,0,0,0,0,0,13
+176,128,B,compostela,Compostela,277,151,3,10,2,0,0,5,0,23
+177,129,B,compostela,Compostela,342,175,4,14,0,0,0,6,0,12
+178,130,B,compostela,Compostela,172,134,0,5,0,0,1,1,0,0
+179,131,B,compostela,Compostela,186,119,3,12,2,1,1,2,0,12
+180,132,B,compostela,Compostela,177,114,3,5,0,0,4,4,0,24
+181,133,B,compostela,Compostela,187,176,0,20,19,1,2,19,0,18
+182,134,B,compostela,Compostela,240,178,0,9,0,1,0,1,0,14
+183,135,B,compostela,Compostela,244,181,9,18,1,1,0,1,0,21
+184,136,B,compostela,Compostela,250,150,0,8,1,0,0,1,0,12
+185,137,B,compostela,Compostela,142,78,0,6,0,0,0,1,0,7
+186,137,E,compostela,Compostela,51,56,2,4,0,0,0,1,0,11
+187,138,B,compostela,Compostela,72,68,3,8,1,5,0,3,0,8
+188,139,B,compostela,Otates y Cantarranas,29,87,35,12,2,2,0,2,0,0
+189,140,B,compostela,Cumbres de Huicicila,29,184,9,5,0,0,0,0,0,12
+190,141,B,compostela,Miravalles,61,152,0,5,0,0,0,5,0,0
+191,142,B,compostela,El Refili¾n,12,61,1,3,1,0,1,1,0,2
+192,143,B,compostela,Tepique±os,6,73,25,3,1,0,0,1,0,4
+193,143,E,compostela,Vizcarra,4,64,1,1,1,0,0,1,0,0
+194,144,B,compostela,Ixtapa de la Concepci¾n,54,95,4,155,2,0,0,0,0,0
+195,145,B,compostela,Ixtapa de la Concepci¾n,45,108,3,90,0,2,2,0,0,0
+196,145,E,compostela,San Isidro,15,37,3,4,0,0,0,1,0,1
+197,146,B,compostela,Cuastecomatillo,44,73,1,10,0,0,1,0,0,5
+198,147,B,compostela,El Paranal,28,107,4,21,0,2,1,0,0,10
+199,148,B,compostela,Zacualpan,136,225,2,23,1,0,0,2,0,4
+200,149,B,compostela,Zacualpan,121,137,3,20,4,1,1,2,0,0
+201,150,B,compostela,Zacualpan,92,125,2,18,0,0,0,1,0,0
+202,151,B,compostela,Zacualpan,129,159,11,44,0,1,0,6,0,12
+203,152,B,compostela,Zacualpan,109,132,0,24,1,0,1,4,0,0
+204,153,B,compostela,Paso de las Mesillas,12,75,0,0,0,0,0,0,0,3
+205,154,B,compostela,Paso de las Palmas,15,115,9,8,0,0,1,2,0,0
+206,155,B,compostela,Juan Escutia,50,119,14,10,0,1,0,1,0,9
+207,156,B,compostela,Juan Escutia,43,135,16,8,0,1,0,0,0,0
+208,157,B,compostela,Las Piedras,43,148,17,9,0,1,0,4,0,0
+209,158,B,compostela,Las Varas,64,75,44,21,1,1,0,3,0,8
+215,159,B,compostela,Las Varas,41,60,25,15,0,0,3,1,0,4
+216,160,B,compostela,Las Varas,89,86,23,15,0,2,0,3,0,10
+217,161,B,compostela,Las Varas,104,100,21,57,0,2,6,2,0,6
+218,162,B,compostela,Las Varas,34,82,20,8,0,1,1,0,0,0
+219,163,B,compostela,Las Varas,56,71,38,11,2,0,0,1,0,8
+220,164,B,compostela,Las Varas,78,80,17,12,2,0,3,2,0,8
+221,165,B,compostela,Las Varas,134,81,11,4,0,2,1,2,0,4
+222,166,B,compostela,Las Varas,79,74,19,36,0,1,1,0,0,10
+223,167,B,compostela,Las Varas,114,106,31,36,2,5,2,1,0,0
+224,168,B,compostela,Las Varas,163,103,33,30,0,7,1,4,0,8
+225,169,B,compostela,Las Varas,135,76,17,9,1,0,3,6,0,6
+226,170,B,compostela,Chacala,11,75,1,2,1,0,0,1,0,3
+227,171,B,compostela,Mazatßn,141,237,7,8,2,0,0,6,0,14
+228,172,B,compostela,Divisadero,8,33,4,4,0,0,0,0,0,0
+229,173,B,compostela,El Capomo,120,240,34,26,1,0,0,4,0,13
+230,174,B,compostela,Mamey Grande de Arriba,5,44,3,1,0,1,1,3,0,1
+231,175,B,compostela,Felipe Carrillo Puerto,13,257,3,3,0,1,0,1,0,5
+232,176,B,compostela,Felipe Carrillo Puerto,24,320,1,1,0,0,0,3,0,7
+233,177,B,compostela,Zapotan,175,184,3,19,2,1,0,12,0,23
+234,178,B,compostela,Altavista,21,101,42,13,1,0,0,0,0,2
+235,179,B,compostela,Puerta de la Lima,7,143,4,2,0,0,0,0,0,2
+236,180,B,compostela,Lima de Abajo,16,158,58,8,2,1,0,0,0,5
+237,181,B,compostela,Bella Uni¾n,8,48,4,2,0,0,0,0,0,1
+238,181,E,compostela,Candido Salazar,3,74,7,1,0,0,0,0,0,0
+239,182,B,compostela,El Tonino,14,106,0,0,0,0,0,0,0,0
+240,183,B,compostela,Pe±ita de Jaltemba,163,85,10,4,5,0,0,3,0,0
+241,184,B,compostela,Pe±ita de Jaltemba,140,92,11,5,3,0,0,3,0,0
+242,185,B,compostela,Pe±ita de Jaltemba,140,90,3,14,1,0,0,1,0,0
+243,186,B,compostela,Pe±ita de Jaltemba,131,80,10,5,0,0,0,4,0,0
+244,187,B,compostela,Pe±ita de Jaltemba,138,82,8,4,1,1,0,0,0,0
+245,188,B,compostela,Pe±ita de Jaltemba,138,140,11,8,3,0,0,1,0,16
+246,189,B,compostela,Pe±ita de Jaltemba,146,76,5,10,1,0,0,3,0,8
+247,190,B,compostela,Rinc¾n de Guallabitos,104,97,17,4,0,1,1,4,4,8
+248,190,E,compostela,Paraiso Escondido,107,54,6,8,10,0,0,8,0,0
+249,190,E,compostela,Los Ayala,12,28,1,1,0,0,0,2,0,0
+250,191,B,compostela,Nuevo Ixtlßn,8,58,5,2,0,0,0,0,0,2
+251,191,E,compostela,El Tamarindo,2,17,2,1,0,0,0,0,0,0
+252,192,B,compostela,El Monte¾n,144,126,2,16,0,0,2,4,0,13
+253,193,B,compostela,Chulavista,7,46,2,3,0,0,0,0,0,0
+259,194,B,compostela,Villa Morelos,31,69,1,5,1,0,0,1,0,0
+260,195,B,compostela,Ursulo Galvßn,24,93,18,2,0,0,0,0,0,0
+267,257,B,nayar,Jes·s MarÝa,3,97,53,0,0,0,0,0,0,4
+268,258,B,nayar,Jes·s MarÝa,3,150,90,0,0,0,0,0,0,25
+269,259,B,nayar,Santa Teresa,8,142,23,13,0,1,0,2,0,15
+270,259,E,nayar,Linda Vista,3,25,6,1,0,0,0,0,0,0
+271,260,B,nayar,San Juan Peyotßn,20,154,12,0,0,0,0,0,0,10
+272,260,E,nayar,El Saucito Peyotßn,0,82,0,0,0,0,0,0,0,0
+273,261,B,nayar,San Francisco,9,83,51,0,0,0,0,0,0,0
+274,262,B,nayar,Dolores,10,108,19,2,0,0,0,0,0,0
+275,262,E,nayar,San Vicente,0,137,0,3,0,0,0,0,0,1
+276,263,B,nayar,Arroyo de Santiago,2,17,23,1,0,0,0,0,0,1
+277,264,B,nayar,Santa Rosa,0,43,21,4,1,0,0,0,0,0
+278,264,E,nayar,La Guerra,1,32,9,0,0,0,0,0,1,3
+279,265,B,nayar,Santa Barbara,0,64,0,0,0,0,0,0,0,0
+280,266,B,nayar,Arroyo de Camarones,0,40,20,2,0,0,0,0,0,8
+281,267,B,nayar,Mesa del Nayar,10,91,30,0,0,1,0,0,0,0
+282,267,E,nayar,El Coyunque,3,75,2,0,0,0,0,0,0,16
+283,267,E,nayar,Arroyo de Ca±averal,0,42,6,0,0,0,0,0,0,0
+284,268,B,nayar,Santa Cruz de Guaybel,0,133,5,0,0,0,0,0,0,0
+285,268,E,nayar,Las Estrellas,0,93,0,2,0,0,0,3,0,9
+286,268,E,nayar,El Maguey,0,62,0,0,0,0,0,0,0,1
+287,269,B,nayar,Gavilanes,1,54,6,0,0,0,0,0,0,0
+288,270,B,nayar,Zoquipan,1,147,8,0,0,1,0,0,0,47
+289,270,E,nayar,Jazmines de Coyultita,0,57,1,0,0,0,0,0,0,0
+290,271,B,nayar,San Miguel del Zapote,1,103,4,2,0,0,0,0,0,5
+291,271,E,nayar,JazmÝn el Coquito,1,88,13,0,0,0,0,0,0,1
+292,272,B,nayar,Potrero de la Palmita,3,57,1,1,0,0,0,0,0,0
+293,273,B,nayar,Huaynamota,6,97,1,4,0,0,0,0,0,4
+294,273,E,nayar,Las Higueras,0,60,6,17,0,1,0,0,1,0
+295,274,B,nayar,San Rafael,4,155,3,0,0,0,0,0,0,7
+296,275,B,nayar,San Pablo,0,67,0,0,0,0,0,0,0,0
+297,275,E,nayar,Higuera Gorda,2,44,7,0,0,0,0,0,0,0
+298,276,B,nayar,Naranjito del Copal,5,109,7,0,0,0,0,0,0,0
+299,276,E,nayar,Paso de Alica,2,58,11,1,0,0,0,0,0,3
+306,196,B,huajicori,Huajicori,9,300,25,7,0,0,0,1,0,15
+307,197,B,huajicori,Huajicori,29,370,31,4,0,0,3,11,0,18
+308,198,B,huajicori,El Contadero,0,88,0,0,0,0,0,0,0,0
+309,199,B,huajicori,Mesa de Cucharas,0,78,2,1,0,0,0,0,0,1
+310,200,B,huajicori,Huitalota,1,67,2,0,0,0,0,0,0,4
+311,201,B,huajicori,Las Campanas,0,23,0,0,0,0,0,0,0,1
+312,201,E,huajicori,El SaltoMesa de Coco,0,38,0,0,0,1,0,0,0,3
+313,202,B,huajicori,San Andres Milpillas,3,111,1,2,0,0,0,0,0,3
+314,202,E,huajicori,El Colomo,0,33,3,0,0,0,0,0,0,0
+315,203,B,huajicori,Mesa de los Ricos,0,66,3,0,0,0,0,0,0,2
+316,203,E,huajicori,Llano Grande,1,54,1,6,0,0,0,0,0,2
+317,203,E,huajicori,La Murallita,1,24,7,0,0,0,0,1,0,1
+318,204,B,huajicori,Acatita,2,58,3,0,0,0,0,1,0,0
+319,205,B,huajicori,Guamuchilar,3,72,3,3,0,1,0,0,0,3
+320,206,B,huajicori,San Francisco del Caiman,5,95,1,3,0,0,0,0,0,3
+321,207,B,huajicori,El Zapotillo,0,59,2,0,0,0,0,1,0,0
+322,207,E,huajicori,El Tepehuaje,1,58,1,1,0,0,0,3,0,5
+323,208,B,huajicori,Quiviquinta,5,107,4,1,0,0,0,1,0,0
+324,209,B,huajicori,Providencia,2,40,4,1,0,0,1,0,0,0
+325,209,E,huajicori,La Quebrada,2,39,1,1,0,0,0,0,0,1
+326,210,B,huajicori,Santa MarÝa de Picachos,3,49,9,0,0,0,0,8,0,4
+327,210,E,huajicori,El Colorado,1,25,2,7,0,0,0,4,0,0
+328,211,B,huajicori,Riyito,1,57,3,3,0,0,0,2,0,1
+329,212,B,huajicori,La Guasima,2,28,2,0,0,0,0,0,0,0
+330,212,E,huajicori,Las Sillas del Puyeque,2,37,1,0,0,0,0,0,0,0
+331,213,B,huajicori,El Rodeo,1,50,4,4,0,0,0,6,0,2
+332,214,B,huajicori,La Estancia,5,78,0,3,1,0,0,3,0,0
+333,214,E,huajicori,Valle Morelos,0,40,1,1,0,0,0,1,0,3
+340,215,B,ixtlan,Ixtlßn del Rio,415,175,10,1,1,0,0,5,0,0
+341,216,B,ixtlan,Ixtlßn del Rio,241,118,13,0,0,0,0,0,0,32
+342,217,B,ixtlan,Ixtlßn del Rio,247,150,5,0,1,0,1,1,0,16
+343,218,B,ixtlan,Ixtlßn del Rio,379,154,3,0,0,0,0,5,0,21
+344,219,B,ixtlan,Ixtlßn del Rio,163,151,1,0,0,0,0,2,0,17
+345,220,B,ixtlan,Ixtlßn del Rio,303,210,7,0,1,0,0,1,0,20
+346,221,B,ixtlan,Ixtlßn del Rio,325,194,1,3,1,0,0,2,0,13
+347,222,B,ixtlan,Ixtlßn del Rio,358,256,2,0,1,0,0,0,0,14
+348,223,B,ixtlan,Ixtlßn del Rio,289,261,3,1,1,0,0,0,0,0
+349,224,B,ixtlan,Ixtlßn del Rio,189,138,2,0,0,0,0,1,0,0
+350,225,B,ixtlan,Ixtlßn del Rio,234,149,4,2,1,1,0,1,0,20
+351,226,B,ixtlan,Ixtlßn del Rio,260,208,3,1,0,0,0,2,0,18
+352,227,B,ixtlan,Ixtlßn del Rio,166,173,3,0,0,0,0,0,0,15
+353,228,B,ixtlan,Ixtlßn del Rio,206,156,1,2,0,1,0,1,0,0
+354,229,B,ixtlan,Ixtlßn del Rio,258,158,5,2,0,0,0,1,0,18
+355,230,B,ixtlan,Ixtlßn del Rio,82,95,15,1,0,0,0,9,0,0
+356,231,B,ixtlan,Ixtlßn del Rio,252,191,1,2,0,0,1,4,0,19
+357,232,B,ixtlan,Los Mezquites,38,79,0,1,0,0,0,0,0,5
+358,232,E,ixtlan,La Higuerita,18,46,0,0,0,0,0,0,6,4
+359,232,E,ixtlan,El Aguacate,4,36,0,0,0,0,0,0,0,0
+360,233,B,ixtlan,Cacalutan,11,128,1,2,0,0,0,0,0,0
+361,234,B,ixtlan,Rancho de Arriba,95,71,0,1,0,0,0,0,0,0
+362,235,B,ixtlan,San JosÚ de Gracia,98,89,0,3,0,0,2,0,0,8
+363,236,B,ixtlan,Mexpan,335,141,6,6,0,1,1,1,0,18
+364,237,B,ixtlan,San Clemente,27,56,2,0,2,0,0,0,0,0
+365,238,B,ixtlan,El Terrero,85,91,10,1,1,0,0,0,0,0
+372,239,B,jala,Jala,79,142,6,6,2,0,1,1,0,9
+373,240,B,jala,Jala,148,140,12,3,2,0,1,1,0,14
+374,241,B,jala,Jala,226,227,9,5,12,0,0,0,0,0
+375,242,B,jala,Jala,216,190,2,3,2,0,0,2,0,8
+376,243,B,jala,Jala,195,127,4,4,1,1,0,0,0,6
+377,244,B,jala,Jala,201,160,11,3,0,0,0,3,0,0
+378,245,B,jala,Santa Fe,8,92,0,0,0,0,0,0,0,0
+379,246,B,jala,El Ciruelo,4,56,0,0,0,0,0,0,0,0
+380,246,E,jala,Cofradia de Buenos A.,8,61,0,1,0,0,0,0,0,0
+381,247,B,jala,Coapan,42,102,9,3,0,1,0,0,0,1
+382,248,B,jala,Rosa Blanca,26,261,3,0,0,0,0,1,0,25
+383,249,B,jala,Rosa Blanca,25,223,1,0,1,0,0,0,0,0
+384,250,B,jala,Cofradia de Juanacatlßn,17,204,0,1,0,0,0,0,0,9
+385,251,B,jala,Francisco I. Madero,22,143,1,2,0,0,0,1,0,0
+386,252,B,jala,Los Aguajes,15,355,4,2,0,0,0,0,0,10
+387,252,E,jala,San Miguel de Buena Vista,10,111,3,1,0,0,0,0,0,0
+388,253,B,jala,Jomulco,194,309,14,4,2,0,0,5,0,19
+389,254,B,jala,Jomulco,109,160,11,4,6,0,0,3,0,21
+390,255,B,jala,Jomulco,60,178,5,2,1,0,0,8,1,5
+391,256,B,jala,Jomulco,99,197,4,2,5,0,0,3,0,7
+398,866,B,yesca,La Yesca,16,151,0,4,0,0,0,1,0,4
+399,867,B,yesca,Guadalupe Ocotlßn,44,93,0,1,3,0,4,2,0,12
+400,868,B,yesca,Puente de Camotlßn,13,85,1,0,0,0,0,0,0,11
+401,869,B,yesca,Puente de Camotlßn,126,251,0,0,0,0,0,0,0,8
+402,870,B,yesca,Huajimic,68,227,0,0,0,0,0,0,0,16
+403,871,B,yesca,Portezuelo,0,0,0,0,0,0,0,0,0,0
+404,872,B,yesca,Cortapico,2,72,0,0,0,0,0,0,0,4
+405,873,B,yesca,Amatlßn de Jora,4,73,0,0,0,0,0,0,0,3
+406,873,E,yesca,Ambas Aguas,1,29,0,0,0,0,0,0,0,2
+407,873,E,yesca,San Pelayo,17,23,0,0,0,0,0,0,0,0
+408,874,B,yesca,La Manga,15,44,0,1,0,0,0,0,0,5
+409,874,E,yesca,El Pinal,2,35,0,0,0,0,0,0,0,0
+410,875,B,yesca,El Roble,18,76,0,1,0,0,0,0,0,9
+411,876,B,yesca,Huanacaxtle,4,13,0,0,0,0,0,0,0,0
+412,877,B,yesca,Platanar de los Herrera,0,0,0,0,0,0,0,0,0,0
+413,878,B,yesca,Apozolco,9,136,4,4,0,0,0,0,0,3
+420,277,B,rosamorada,Rosamorada,98,216,11,2,0,12,0,0,0,0
+421,277,E,rosamorada,Minitas,26,48,5,0,0,2,0,0,0,1
+422,278,B,rosamorada,Rosamorada,27,95,2,1,0,2,0,1,0,7
+423,278,E,rosamorada,Providencia,21,53,7,1,0,0,0,0,0,0
+424,279,B,rosamorada,Rosamorada,23,82,3,1,1,7,0,0,0,4
+425,280,B,rosamorada,Rosamorada,34,72,2,0,0,3,0,1,0,4
+426,281,B,rosamorada,Rosamorada,63,173,5,2,0,15,0,3,0,11
+427,282,B,rosamorada,Rosamorada,85,202,2,2,0,7,0,2,0,8
+428,283,B,rosamorada,Francisco Villa,50,126,4,6,0,2,0,2,0,11
+429,284,B,rosamorada,Bonita,13,64,1,2,0,1,0,0,0,1
+430,285,B,rosamorada,Teponohuaxtla,10,92,18,3,2,0,0,31,0,2
+431,286,B,rosamorada,Pescadero,18,212,5,2,1,0,0,0,0,0
+432,286,E,rosamorada,Abelardo L. RodrÝguez,5,64,2,0,0,1,0,0,0,0
+433,287,B,rosamorada,San Miguelito,62,136,4,12,2,0,0,1,0,0
+434,288,B,rosamorada,Llano del Tigre,120,218,39,14,0,2,0,5,0,9
+435,289,B,rosamorada,Zomatlßn (Caimanero),41,323,80,4,0,8,0,0,0,11
+436,290,B,rosamorada,Paramita,31,209,33,1,0,10,0,1,0,7
+437,291,B,rosamorada,San Juan Bautista,84,196,10,7,0,0,0,1,0,11
+438,291,E,rosamorada,Rosarito,18,19,0,0,0,0,0,0,0,9
+439,291,E,rosamorada,El Bßlsamo,8,18,1,1,0,0,0,0,0,0
+440,292,B,rosamorada,Mojocuahutla,12,76,2,3,0,2,0,0,0,5
+441,292,E,rosamorada,Agua Aceda,15,31,3,1,2,0,0,1,0,0
+442,293,B,rosamorada,Los Arrayanes,8,71,12,2,0,0,0,0,0,0
+443,294,B,rosamorada,San Marcos Coyutlßn,9,68,3,1,0,0,0,0,0,0
+444,295,B,rosamorada,Cofradia de Coyutlßn,54,238,12,8,2,3,0,0,0,0
+445,296,B,rosamorada,Las Pilas,30,236,22,8,0,0,0,0,0,5
+446,297,B,rosamorada,Paso Real del Bejuco,53,195,23,2,0,0,0,0,0,0
+447,298,B,rosamorada,Chilapa,53,202,10,6,0,0,0,0,0,0
+448,299,B,rosamorada,Chilapa,62,174,20,3,2,1,1,0,0,0
+449,300,B,rosamorada,Chilapa,124,160,20,8,3,0,0,0,0,0
+450,301,B,rosamorada,Colonia 18 de Marzo,135,318,17,5,1,2,0,1,0,35
+451,302,B,rosamorada,Pericos,61,342,11,2,0,0,0,0,0,22
+452,303,B,rosamorada,Pericos,36,217,15,0,0,0,0,0,0,0
+453,304,B,rosamorada,Pericos,49,267,26,0,0,0,0,0,0,0
+454,305,B,rosamorada,Pimientillo,100,217,2,1,0,0,1,0,0,0
+455,306,B,rosamorada,Pimientillo,142,255,4,1,0,0,0,0,0,4
+456,307,B,rosamorada,Los Medina,105,133,3,2,0,0,0,0,0,6
+457,308,B,rosamorada,Vicente Guerrero,53,209,4,0,0,1,0,0,0,13
+458,309,B,rosamorada,La Boquita,96,237,6,7,2,1,0,1,0,3
+464,310,B,rosamorada,San Vicente,67,144,126,5,1,0,0,1,0,10
+465,311,B,rosamorada,San Vicente,40,168,104,2,0,1,0,0,0,16
+466,311,E,rosamorada,San Vicente,15,74,47,1,0,0,0,6,0,7
+467,311,E,rosamorada,La Loma,42,57,15,2,1,0,0,2,0,4
+468,312,B,rosamorada,San Vicente,32,165,21,4,0,1,0,0,0,11
+469,313,B,rosamorada,San Vicente,59,122,41,7,0,0,0,1,0,0
+470,314,B,rosamorada,El Tamarindo,114,175,2,3,4,0,0,1,1,2
+471,315,B,rosamorada,El Tamarindo,104,126,3,4,1,0,0,3,0,3
+472,316,B,rosamorada,El Ochenta,17,25,1,3,0,0,0,1,0,0
+473,316,E,rosamorada,Los Leandros,19,31,4,2,0,2,1,1,0,1
+474,316,E,rosamorada,Puente del Bejuco,10,34,1,3,0,1,0,1,0,1
+475,317,B,rosamorada,Santa Fe,17,145,4,2,1,0,0,0,0,7
+476,318,B,rosamorada,San Diego del Naranjo,26,88,4,3,0,0,0,0,0,3
+477,319,B,rosamorada,San Juan Coroapan,3,75,0,0,0,4,1,2,0,12
+484,320,B,ruiz,Ruiz,201,293,13,0,0,9,0,4,0,0
+485,321,B,ruiz,Ruiz,226,220,4,3,0,15,0,3,0,9
+486,322,B,ruiz,Ruiz,244,201,16,3,0,5,0,4,0,10
+487,323,B,ruiz,Ruiz,127,140,32,3,0,3,0,23,0,14
+488,324,B,ruiz,Ruiz,220,194,4,0,0,14,0,2,0,4
+489,325,B,ruiz,Ruiz,137,136,8,2,3,1,0,1,0,4
+490,326,B,ruiz,Ruiz,159,252,2,0,0,2,0,0,0,5
+491,327,B,ruiz,Ruiz,135,141,8,2,0,3,0,0,0,17
+492,328,B,ruiz,Ruiz,155,216,8,4,0,1,0,1,0,0
+493,329,B,ruiz,Ruiz,189,209,9,2,1,6,0,3,0,10
+494,330,B,ruiz,Ruiz,97,145,10,1,0,2,0,0,0,0
+495,331,B,ruiz,Ruiz,121,124,4,3,0,2,0,4,0,0
+496,332,B,ruiz,El Huicot,0,42,1,0,0,0,0,0,0,0
+497,333,B,ruiz,San Pedro Ixcatßn,29,138,3,4,0,0,0,1,0,7
+498,333,E,ruiz,Presidio de los Reyes,8,135,4,4,1,0,0,0,0,1
+499,334,B,ruiz,El Naranjo,3,71,0,0,0,0,0,1,0,1
+500,334,E,ruiz,Chimaltita,2,45,2,0,0,0,0,0,0,3
+501,335,B,ruiz,El Carrizo,1,49,0,0,0,1,0,0,0,1
+502,336,B,ruiz,El Zopilote,25,112,2,2,0,0,0,0,0,0
+503,336,E,ruiz,Pozolillo,13,11,1,0,0,0,0,0,0,0
+504,337,B,ruiz,El Venado,93,151,20,3,1,0,0,5,0,12
+505,338,B,ruiz,El Venado,95,81,6,3,1,0,0,1,0,6
+506,339,B,ruiz,La Jarretadera,18,57,0,2,0,0,0,0,0,1
+507,340,B,ruiz,Laguna del Mar,44,90,4,3,0,0,0,0,0,0
+508,341,B,ruiz,San Lorenzo,62,126,0,1,0,2,0,0,0,0
+509,342,B,ruiz,Juan Escutia,33,92,15,3,0,1,0,6,0,8
+510,343,B,ruiz,Vado de San Pedro,120,221,7,9,0,2,0,3,0,0
+511,344,B,ruiz,H. Batall¾n de San Blas,58,111,4,20,0,3,0,3,0,0
+512,345,B,ruiz,Puerta de Platanares,32,110,2,2,0,2,0,0,0,10
+513,346,B,ruiz,Cord¾n del Jilguero,18,107,0,0,0,0,0,0,0,1
+514,346,E,ruiz,La Bolita,9,72,2,2,1,0,0,0,0,3
+515,346,E,ruiz,El Refugio,6,42,0,0,0,0,0,1,0,0
+522,347,B,san blas,San Blas,429,206,3,3,2,1,0,1,0,18
+523,348,B,san blas,San Blas,209,108,9,12,0,1,2,1,0,8
+524,349,B,san blas,San Blas,279,136,13,2,3,0,0,0,0,0
+525,350,B,san blas,San Blas,441,182,5,3,1,0,0,1,0,0
+526,351,B,san blas,San Blas,366,164,9,1,4,5,0,0,2,17
+527,352,B,san blas,San Blas,297,101,4,2,2,0,0,0,0,0
+528,353,B,san blas,La Goma,63,116,81,8,0,1,0,0,0,7
+529,354,B,san blas,La Culebra,45,75,21,4,0,11,0,3,0,8
+530,355,B,san blas,El Carle±o,57,101,7,2,0,0,0,0,0,0
+531,356,B,san blas,Autan,111,213,29,6,2,1,0,13,0,6
+532,357,B,san blas,Autan,119,152,45,2,1,1,0,13,0,15
+533,358,B,san blas,El Madrigale±o,89,133,10,6,0,4,1,0,0,7
+534,359,B,san blas,Guadalupe Victoria,122,70,3,7,4,0,0,1,0,6
+535,360,B,san blas,Guadalupe Victoria,203,120,7,5,1,0,0,0,0,0
+536,361,B,san blas,Guadalupe Victoria,181,146,15,3,0,1,0,0,0,0
+537,362,B,san blas,Pimientillo,74,75,2,1,1,1,0,0,0,0
+538,363,B,san blas,Playa de RamÝrez,42,55,0,2,0,1,0,1,0,0
+539,364,B,san blas,El Capomo,2,41,51,0,0,0,0,0,0,0
+540,365,B,san blas,Reforma Agraria,37,60,58,6,0,0,0,0,0,0
+541,366,B,san blas,Huaristemba,88,124,19,15,1,4,0,2,0,6
+542,367,B,san blas,Navarrete,231,231,23,7,3,2,3,4,0,18
+543,368,B,san blas,Isla del Conde,52,93,3,0,2,18,0,1,0,5
+544,369,B,san blas,L. y Gongora (El Ciruelo),133,196,3,5,1,2,0,3,0,0
+545,370,B,san blas,El Lim¾n,90,113,2,0,6,0,0,3,0,3
+546,371,B,san blas,Boca del Asadero,23,19,2,0,0,0,0,0,0,0
+547,372,B,san blas,La Chiripa,35,53,0,0,0,0,0,1,0,0
+548,373,B,san blas,Chacalilla,54,101,2,1,0,0,1,0,0,0
+549,374,B,san blas,Las Palmas,43,47,2,2,0,0,0,1,0,2
+550,375,B,san blas,La Chiltera,19,47,3,1,0,0,0,1,0,2
+551,376,B,san blas,La Libertad,188,183,3,7,1,1,0,1,2,11
+552,377,B,san blas,Singayta,41,23,2,1,0,0,0,0,0,2
+553,378,B,san blas,Pintade±o,35,35,5,1,1,3,0,3,0,2
+554,379,B,san blas,Puerto Lindavista,4,18,5,0,0,0,0,0,0,1
+555,380,B,san blas,Huaynamota,3,75,6,2,3,1,0,0,0,2
+556,381,B,san blas,JosÚ MarÝa Mercado,15,57,33,1,0,0,0,3,0,0
+557,382,B,san blas,Mecatan,38,275,127,2,2,3,0,0,0,17
+558,383,B,san blas,Mecatan,30,195,112,0,0,0,0,0,0,0
+559,384,B,san blas,La Bajada,99,73,34,4,1,0,0,0,0,9
+560,385,B,san blas,La Palma,175,179,24,4,0,1,1,3,0,12
+566,386,B,san blas,Aticama,175,142,87,4,1,4,0,2,0,9
+567,387,B,san blas,Jalcocotßn,108,182,77,4,0,1,0,0,3,13
+568,388,B,san blas,Jalcocotßn,70,82,105,6,3,1,0,2,0,11
+569,389,B,san blas,Jalcocotßn,55,73,129,7,0,3,0,0,0,0
+570,390,B,san blas,Jalcocotßn,119,174,68,8,4,1,2,0,0,15
+571,391,B,san blas,Tecuitata,22,83,10,3,0,0,0,3,0,0
+572,392,B,san blas,Santa Cruz,173,168,10,0,1,0,0,0,0,0
+573,393,B,san blas,Santa Cruz,52,80,13,1,0,0,0,2,0,0
+574,394,B,san blas,El Cora,2,69,87,1,0,0,0,0,0,0
+575,395,B,san blas,El Llano,96,192,29,5,0,0,0,4,0,16
+576,396,B,san blas,Jolotemba,8,59,11,0,0,0,0,2,0,0
+577,397,B,san blas,El Espino,5,52,2,1,0,0,0,0,0,3
+584,398,B,sn pedro,San Pedro Lagunillas,162,293,3,5,1,1,0,13,0,7
+585,399,B,sn pedro,San Pedro Lagunillas,175,278,4,1,2,0,0,1,0,0
+586,400,B,sn pedro,San Pedro Lagunillas,100,225,2,5,0,0,0,2,0,3
+587,401,B,sn pedro,San Pedro Lagunillas,99,237,8,1,4,4,1,0,0,8
+588,402,B,sn pedro,Tepetiltic,7,109,0,0,0,0,0,0,0,0
+589,403,B,sn pedro,Milpillas Bajas,10,97,2,2,0,0,0,0,0,3
+590,404,B,sn pedro,Las Guasimas,53,96,1,4,0,0,0,3,0,1
+591,404,E,sn pedro,La Puerta del Rio,30,12,1,0,0,0,0,1,0,1
+592,405,B,sn pedro,Cerro Pel¾n,8,33,0,0,0,0,0,2,0,2
+593,406,B,sn pedro,Tequilita,91,133,3,1,0,0,1,1,0,8
+594,407,B,sn pedro,Amado Nervo,69,65,1,0,0,0,0,1,0,6
+595,408,B,sn pedro,Amado Nervo,179,79,1,2,0,0,0,0,0,8
+596,409,B,sn pedro,Amado Nervo,116,71,2,1,0,0,0,3,0,7
+597,410,B,sn pedro,Cuastecomate,31,292,9,3,0,1,0,6,0,5
+604,411,B,sta maria,Santa MarÝa del Oro,11,172,233,20,0,5,0,4,0,22
+605,411,E,sta maria,La Laguna,0,28,7,0,0,0,0,0,0,0
+606,412,B,sta maria,Santa MarÝa del Oro,28,365,289,3,0,1,0,0,0,0
+607,413,B,sta maria,Las Cuevas,0,37,34,4,0,0,0,0,0,1
+608,414,B,sta maria,Buckingham,8,88,16,2,0,0,1,0,0,4
+609,414,E,sta maria,Miguel Hidalgo,3,110,13,5,0,0,0,2,0,0
+610,415,B,sta maria,Colonia Moderna,6,200,65,7,0,1,0,0,0,11
+611,416,B,sta maria,San JosÚ de Mojarras,18,356,116,8,0,2,1,1,0,8
+612,417,B,sta maria,Rinc¾n de Colimayo,14,30,4,3,0,0,0,0,0,0
+613,417,E,sta maria,El Huanacaxtle,0,50,12,0,0,0,0,0,0,0
+614,418,B,sta maria,El Buruato,1,106,48,1,0,1,0,0,0,0
+615,419,B,sta maria,Cerro Blanco,6,148,68,2,1,4,0,0,0,9
+616,420,B,sta maria,La Labor,0,65,73,1,0,0,0,0,0,0
+617,421,B,sta maria,La Labor,10,287,224,8,0,6,1,0,0,28
+618,422,B,sta maria,El Lim¾n,8,175,75,7,2,0,0,0,0,5
+619,422,E,sta maria,La Galinda,1,34,26,1,0,0,0,0,0,0
+620,423,B,sta maria,Cofradia de Acuitapilco,3,186,20,4,0,1,0,2,0,2
+621,423,E,sta maria,Platanitos,0,55,5,2,0,0,0,0,0,7
+622,424,B,sta maria,Real de Acuitapilco,1,87,28,4,0,0,0,2,0,0
+623,424,E,sta maria,La Estanzuela La Hiedra,2,25,6,1,0,0,0,0,0,2
+624,425,B,sta maria,San Leonel,9,138,60,8,0,0,0,1,0,7
+625,426,B,sta maria,El Ermita±o,0,70,6,1,0,0,0,1,0,3
+626,427,B,sta maria,Zapotanito,2,165,203,6,1,0,1,1,0,11
+627,428,B,sta maria,Ocotillo,14,55,6,5,0,1,0,0,0,5
+628,429,B,sta maria,Tequepexpan,24,193,49,13,2,0,1,13,0,12
+629,430,B,sta maria,Chapalilla,88,126,30,5,1,1,19,1,0,15
+630,431,B,sta maria,Chapalilla,71,112,18,2,2,0,6,1,0,0
+631,432,B,sta maria,El Torre¾n,22,55,12,0,0,0,1,2,0,4
+632,433,B,sta maria,El Ahualamo,25,316,96,4,0,1,1,41,0,30
+633,434,B,sta maria,Las Mesitas,1,47,17,1,0,0,0,0,0,2
+640,435,B,santiago,Santiago Ixcuintla,55,107,32,33,1,3,1,1,0,13
+641,436,B,santiago,Santiago Ixcuintla,109,252,17,23,4,0,0,1,0,11
+642,437,B,santiago,Santiago Ixcuintla,115,288,45,44,3,0,1,0,0,12
+643,438,B,santiago,Santiago Ixcuintla,64,199,15,33,1,3,0,0,0,11
+644,439,B,santiago,Santiago Ixcuintla,55,144,7,11,0,5,0,0,0,6
+645,440,B,santiago,Santiago Ixcuintla,125,121,11,5,0,2,0,0,0,0
+646,441,B,santiago,Santiago Ixcuintla,99,178,31,22,2,1,0,0,0,10
+647,442,B,santiago,Santiago Ixcuintla,63,147,16,40,5,0,2,0,0,0
+648,443,B,santiago,Santiago Ixcuintla,53,210,12,23,0,0,0,3,0,4
+649,444,B,santiago,Santiago Ixcuintla,38,165,10,10,0,1,0,1,0,10
+650,445,B,santiago,Santiago Ixcuintla,45,125,6,8,1,0,0,0,0,0
+651,446,B,santiago,Santiago Ixcuintla,61,240,9,18,1,0,0,1,0,2
+652,447,B,santiago,Santiago Ixcuintla,82,252,15,32,3,0,0,14,0,0
+653,448,B,santiago,Santiago Ixcuintla,54,215,34,37,0,3,0,3,0,13
+654,449,B,santiago,Santiago Ixcuintla,31,104,3,12,0,2,0,0,0,3
+655,450,B,santiago,Santiago Ixcuintla,41,179,19,20,2,0,0,1,0,6
+656,451,B,santiago,Santiago Ixcuintla,94,220,16,35,2,0,0,3,0,0
+657,452,B,santiago,Santiago Ixcuintla,42,155,32,9,0,5,0,1,0,8
+658,453,B,santiago,Santiago Ixcuintla,32,150,5,6,2,2,0,1,0,5
+659,454,B,santiago,Santiago Ixcuintla,18,108,8,5,0,0,0,3,0,2
+660,455,B,santiago,Santiago Ixcuintla,29,219,13,14,0,0,0,0,0,0
+661,456,B,santiago,Santiago Ixcuintla,18,112,7,13,0,0,0,0,0,8
+662,457,B,santiago,Palmar de Cuautla,18,207,14,19,0,0,0,0,0,0
+663,458,B,santiago,Puerta de Palapares,5,197,3,91,0,1,0,0,0,2
+664,459,B,santiago,Santa Cruz,19,369,8,64,0,2,0,1,0,0
+665,460,B,santiago,San Andres,29,154,1,155,0,0,0,0,0,0
+666,460,E,santiago,Ca±ada Grande,1,25,1,24,0,0,0,0,0,0
+667,461,B,santiago,Mayorquin,5,143,24,67,0,0,0,0,0,0
+668,462,B,santiago,El Mezcal,28,61,5,3,0,1,0,0,0,0
+669,463,B,santiago,Mezcaltitßn,20,348,4,17,9,2,2,0,0,0
+670,464,B,santiago,Las Labores,42,68,10,31,0,0,0,0,0,10
+671,465,B,santiago,La Higuerita,34,121,12,78,0,2,0,4,0,15
+672,466,B,santiago,Rancho Nuevo,6,108,2,119,0,0,0,0,0,16
+673,467,B,santiago,Aztlßn de las Garzas,35,91,10,15,0,0,0,1,0,1
+674,468,B,santiago,San Miguel No. 2,45,149,6,9,2,0,0,3,0,0
+675,469,B,santiago,El Lim¾n,13,135,44,9,0,1,0,0,0,0
+676,470,B,santiago,Valle Morelos,73,242,19,44,1,2,0,0,0,11
+677,471,B,santiago,Pozo de Ibarra,13,47,49,6,1,11,0,0,0,6
+678,472,B,santiago,Pozo de Ibarra,23,120,113,19,1,13,0,0,0,0
+684,473,B,santiago,Pozo de Ibarra,14,150,95,15,1,8,0,1,0,14
+685,474,B,santiago,Pozo de Ibarra,14,115,111,22,0,7,0,0,0,0
+686,475,B,santiago,Paredones,61,59,29,15,0,0,0,0,0,2
+687,476,B,santiago,Pantano Grande,48,42,7,20,1,1,0,1,0,5
+688,477,B,santiago,Acaponetilla,27,102,12,15,1,1,2,0,0,8
+689,478,B,santiago,Las Parejas,8,121,4,22,1,1,0,0,0,0
+690,478,E,santiago,Emerita,9,26,4,10,0,1,0,0,0,2
+691,479,B,santiago,El Cant¾n de Lozada,2,45,1,0,0,0,0,0,0,3
+692,480,B,santiago,Acatan de las Pi±as,10,90,5,6,0,0,0,0,0,4
+693,480,E,santiago,Paso Real de Cahuipa,24,67,4,6,0,0,0,0,0,2
+694,480,E,santiago,Hacienda Vieja,14,32,1,6,0,0,0,0,0,0
+695,481,B,santiago,Redenci¾n,7,48,7,20,0,0,0,0,0,0
+696,482,B,santiago,Estaci¾n Yago,35,108,27,81,0,1,0,0,0,0
+697,483,B,santiago,Estaci¾n Yago,49,198,26,149,3,1,0,3,0,0
+698,484,B,santiago,Estaci¾n Yago,43,168,12,141,0,10,0,3,0,0
+699,485,B,santiago,El Capomal,36,154,36,24,2,0,0,1,0,15
+700,485,E,santiago,Col. H. Provincia,3,48,1,1,0,0,0,0,0,0
+701,486,B,santiago,El Capomal,10,86,12,14,1,0,0,0,0,2
+702,487,B,santiago,Puerta Azul,85,160,22,18,0,0,0,0,0,10
+703,487,E,santiago,Ojos de Agua,22,47,8,24,1,0,0,2,0,1
+704,488,B,santiago,El Puente,98,112,14,7,0,3,0,1,0,0
+705,489,B,santiago,Colonia Emiliano Zapata,78,71,15,11,0,1,0,1,0,0
+706,489,E,santiago,El Novillero,27,44,2,5,1,0,0,0,0,2
+707,490,B,santiago,Colonia Emiliano Zapata,65,89,26,7,0,0,0,1,0,9
+708,491,B,santiago,Pozo de Villa,20,72,76,8,0,2,0,0,3,16
+709,492,B,santiago,El Gavilßn Chico,42,88,28,2,0,0,0,2,0,10
+710,493,B,santiago,Sentispac,77,221,65,32,1,1,0,2,0,9
+711,494,B,santiago,Sentispac,54,118,43,22,0,0,0,0,0,0
+712,495,B,santiago,Sentispac,62,102,36,52,0,0,0,4,0,6
+713,496,B,santiago,Campo de los Limones,39,161,48,19,0,1,0,0,0,8
+714,497,B,santiago,Boca de Camichin,19,115,5,91,0,1,0,2,0,4
+715,498,B,santiago,Los Corchos,46,135,32,35,1,28,0,2,0,13
+716,499,B,santiago,Toro Mocho,7,128,3,8,0,0,0,0,0,1
+717,500,B,santiago,Pueblo Nuevo,21,94,30,11,1,1,0,0,0,8
+718,501,B,santiago,Cerritos,32,118,19,15,0,0,0,0,0,7
+719,502,B,santiago,Gavilßn Grande,48,115,23,40,0,0,0,1,0,9
+720,503,B,santiago,Amapa,39,236,29,75,1,1,0,1,0,21
+721,504,B,santiago,Amapa,33,175,31,25,4,2,0,1,0,10
+722,505,B,santiago,La Presa,74,163,6,95,0,2,0,0,0,16
+728,506,B,santiago,La Presa,49,111,5,48,1,0,0,2,0,2
+729,507,B,santiago,La Presa,32,98,3,91,0,0,0,0,0,31
+730,508,B,santiago,La Presa,36,136,9,151,1,0,0,0,0,12
+731,509,B,santiago,San Isidro,41,140,3,46,0,0,0,0,0,4
+732,510,B,santiago,Valle Zaragoza,27,113,10,58,0,0,0,1,0,0
+733,511,B,santiago,El Tizate,58,248,49,72,1,0,0,2,0,17
+734,512,B,santiago,Valle Lerma,94,205,21,31,3,2,0,2,0,0
+735,513,B,santiago,El Nanche,20,127,20,92,1,0,0,1,0,8
+736,514,B,santiago,Corral de Piedra,2,51,4,15,0,1,0,1,0,2
+737,514,E,santiago,El Colomo,2,35,3,5,0,0,0,0,0,0
+738,515,B,santiago,Vado del Cora,13,127,20,74,0,0,0,0,0,0
+739,516,B,santiago,El Tambor,80,133,7,13,0,0,0,2,0,6
+740,517,B,santiago,Mojarritas,11,81,15,68,0,1,0,0,0,0
+741,518,B,santiago,Las Higueras,8,72,3,3,0,0,0,0,0,0
+742,519,B,santiago,El Papalote,26,74,5,24,1,0,0,0,0,0
+743,520,B,santiago,Patrone±o,5,111,11,172,1,2,0,2,0,0
+744,521,B,santiago,Villa Hidalgo,39,138,63,34,0,0,0,0,0,0
+745,522,B,santiago,Villa Hidalgo,92,185,46,91,1,3,0,1,0,0
+746,523,B,santiago,Villa Hidalgo,94,237,44,94,5,0,0,4,0,0
+747,524,B,santiago,Villa Hidalgo,51,126,30,75,0,0,0,0,0,0
+748,525,B,santiago,Villa Hidalgo,30,135,31,46,0,0,0,0,0,13
+749,526,B,santiago,Villa Hidalgo,95,214,27,28,1,0,0,1,0,28
+750,527,B,santiago,Villa Hidalgo,69,170,36,35,0,0,0,1,0,0
+751,528,B,santiago,Villa Hidalgo,48,197,48,118,0,1,0,1,0,0
+752,529,B,santiago,Villa Hidalgo,18,104,54,58,0,0,0,0,0,0
+753,530,B,santiago,Villa Hidalgo,35,148,39,40,1,0,0,1,0,6
+754,531,B,santiago,Villa Hidalgo,34,217,58,89,1,0,0,3,0,14
+755,532,B,santiago,El Botadero,29,255,175,23,1,1,0,1,0,17
+756,533,B,santiago,El Turco,19,39,13,7,0,0,0,0,0,0
+757,534,B,santiago,Puerta de Mangos,48,53,21,10,0,0,0,1,0,4
+758,535,B,santiago,Puerta de Mangos,63,115,12,19,1,1,0,4,0,0
+759,536,B,santiago,Puerta de Mangos,34,135,6,14,0,0,0,0,0,4
+760,537,B,santiago,Ca±ada del Tabaco,33,133,60,6,0,2,0,0,0,9
+761,538,B,santiago,Ca±ada del Tabaco,37,193,71,12,0,1,0,1,0,5
+762,539,B,santiago,Villa Jußrez,60,116,18,38,0,1,0,0,0,6
+763,540,B,santiago,Villa Jußrez,68,107,22,65,1,1,0,1,0,9
+764,541,B,santiago,Villa Jußrez,71,175,18,52,0,0,0,1,0,7
+765,542,B,santiago,Los Otates,146,164,11,20,3,1,0,2,0,13
+766,542,E,santiago,Santa Rosa,25,58,5,4,0,0,0,0,0,1
+772,543,B,santiago,El Corte,39,205,16,224,3,1,0,2,0,0
+773,544,B,santiago,El Corte,14,144,3,75,0,0,0,2,0,0
+774,545,B,santiago,Sauta,72,135,37,85,0,2,0,0,0,23
+775,546,B,santiago,Sauta,66,109,12,55,0,1,0,0,0,5
+782,547,B,tecuala,Tecuala,1,87,176,2,0,0,0,2,0,6
+783,548,B,tecuala,Tecuala,3,127,155,4,0,7,0,0,0,5
+784,549,B,tecuala,Tecuala,3,172,216,0,8,0,0,0,0,5
+785,550,B,tecuala,Tecuala,3,107,203,1,3,5,0,2,0,12
+786,550,E,tecuala,Agua Verde (El Salto),0,72,62,1,0,1,0,0,0,0
+787,551,B,tecuala,Tecuala,2,162,226,5,0,1,0,0,0,5
+788,552,B,tecuala,Tecuala,1,246,143,7,4,0,0,3,0,5
+789,553,B,tecuala,Tecuala,0,156,169,1,2,2,0,0,0,8
+790,554,B,tecuala,Tecuala,2,195,230,2,3,2,0,2,0,7
+791,555,B,tecuala,Tecuala,4,187,150,1,1,0,0,1,0,9
+792,556,B,tecuala,Tecuala,1,130,111,1,0,1,0,7,0,1
+793,557,B,tecuala,Tecuala,2,91,83,0,0,0,0,0,0,5
+794,558,B,tecuala,Tecuala,2,111,139,1,0,0,0,0,0,0
+795,559,B,tecuala,Tecuala,5,74,146,0,0,1,0,2,0,11
+796,560,B,tecuala,Tecuala,5,123,144,0,0,0,0,1,0,0
+797,561,B,tecuala,Tecuala,2,125,173,1,1,2,0,0,0,0
+798,562,B,tecuala,Tecuala,0,162,165,0,0,3,0,1,0,6
+799,563,B,tecuala,Tecuala,2,139,181,1,0,0,0,0,0,10
+800,564,B,tecuala,Tecuala,4,143,213,2,0,3,0,0,0,7
+801,565,B,tecuala,El Roblito,0,60,49,2,0,0,0,0,0,4
+802,566,B,tecuala,Las Arenitas,0,0,0,0,0,0,0,0,0,0
+803,567,B,tecuala,San Cayetano,1,298,91,2,0,0,0,1,0,3
+804,567,E,tecuala,La Puntilla,0,0,0,0,0,0,0,0,0,0
+805,568,B,tecuala,Pajaritos,2,261,209,2,0,2,0,0,0,0
+806,569,B,tecuala,Huajuquilla,2,45,159,1,0,0,0,0,0,2
+807,570,B,tecuala,Camalotita,7,290,244,9,4,3,0,2,0,16
+808,571,B,tecuala,Huachotita,2,236,188,1,0,6,0,0,0,0
+809,572,B,tecuala,San Felipe Aztatan,4,234,106,3,2,14,0,0,0,20
+810,573,B,tecuala,San Felipe Aztatan,2,295,100,3,2,0,0,1,0,6
+811,574,B,tecuala,San Felipe Aztatan,21,227,157,4,0,1,0,0,0,0
+812,575,B,tecuala,San Felipe Aztatan,6,246,131,2,0,9,0,0,0,11
+813,576,B,tecuala,El Filo,2,228,197,12,0,4,0,1,0,19
+814,577,B,tecuala,Milpas Viejas,0,205,132,2,0,0,0,0,0,0
+815,578,B,tecuala,Milpas Viejas,0,284,171,1,1,1,0,0,0,9
+816,579,B,tecuala,Atotonilco,2,111,288,6,0,7,0,0,0,12
+817,580,B,tecuala,Rio Viejo,3,309,131,5,0,2,0,0,0,17
+818,581,B,tecuala,Paso Hondo,0,267,54,0,0,0,0,0,0,0
+819,582,B,tecuala,El Novillero,2,193,196,31,0,6,0,3,0,12
+820,583,B,tecuala,Quimichis,9,211,214,5,1,3,0,2,0,3
+826,584,B,tecuala,Quimichis,7,217,213,5,0,1,0,0,0,8
+827,585,B,tecuala,Quimichis,4,135,141,7,0,1,0,1,0,4
+828,586,B,tecuala,Quimichis,0,206,99,5,1,5,1,0,0,0
+829,587,B,tecuala,El Arrayan,3,155,150,5,2,0,0,4,0,8
+830,588,B,tecuala,La Presa,2,152,244,7,0,2,0,2,0,9
+831,589,B,tecuala,Tierras Generosas,8,106,34,3,1,0,0,0,0,6
+832,590,B,tecuala,Palos Blancos,0,26,30,2,0,1,1,0,0,1
+833,590,E,tecuala,Guamuchilillo,0,0,0,0,0,0,0,0,0,0
+834,591,B,tecuala,El Lim¾n,3,161,221,20,3,5,2,1,0,25
+835,592,B,tecuala,Colonia Xochimilco,2,87,39,1,0,2,0,0,0,9
+836,593,B,tecuala,Pozo de Higueras,0,143,34,1,0,1,0,0,0,1
+837,594,B,tecuala,Los Morillos,2,100,40,4,0,9,0,1,0,1
+838,595,B,tecuala,Antonio R. Laureles,3,139,55,5,0,0,0,0,0,7
+839,596,B,tecuala,Las Lumbres,2,78,45,2,0,1,0,0,0,6
+846,597,B,tepic,Tepic,32,64,59,2,2,0,0,3,0,11
+847,598,B,tepic,Tepic,153,385,185,39,34,5,0,4,0,39
+848,599,B,tepic,Tepic,21,91,32,2,5,0,0,0,0,3
+849,600,B,tepic,Tepic,68,158,74,17,0,4,0,6,0,0
+850,601,B,tepic,Tepic,132,184,82,16,9,2,0,1,0,20
+851,602,B,tepic,Tepic,215,216,93,9,7,1,1,4,0,12
+852,603,B,tepic,Tepic,103,174,69,11,3,3,1,3,0,16
+853,604,B,tepic,Tepic,34,115,40,8,4,1,0,12,0,4
+854,605,B,tepic,Tepic,32,163,64,6,1,0,0,12,0,0
+855,606,B,tepic,Tepic,57,198,60,16,4,0,0,3,0,0
+856,607,B,tepic,Tepic,81,214,93,20,4,2,2,2,0,18
+857,608,B,tepic,Tepic,87,257,173,25,2,5,0,4,0,22
+858,609,B,tepic,Tepic,121,292,184,14,3,1,1,5,0,32
+859,609,E,tepic,Tepic,49,134,49,13,1,11,0,26,0,12
+860,610,B,tepic,Tepic,330,392,92,10,9,0,4,3,0,14
+861,611,B,tepic,Tepic,151,367,208,23,9,9,2,18,0,34
+862,612,B,tepic,Tepic,147,257,115,13,8,5,0,0,0,0
+863,612,E,tepic,Tepic,44,50,33,2,1,0,1,2,0,3
+864,613,B,tepic,Tepic,182,203,78,13,6,2,1,1,0,22
+865,614,B,tepic,Tepic,108,170,38,4,1,0,4,7,0,4
+866,615,B,tepic,Tepic,155,243,60,23,6,0,0,5,0,11
+867,616,B,tepic,Tepic,134,254,129,14,6,5,1,8,0,22
+868,617,B,tepic,Tepic,246,307,104,22,7,1,2,1,0,0
+869,618,B,tepic,Tepic,71,112,89,9,5,1,0,3,0,12
+870,619,B,tepic,Tepic,60,105,54,6,1,2,1,4,0,8
+871,620,B,tepic,Tepic,150,161,70,14,4,2,1,4,0,21
+872,621,B,tepic,Tepic,138,158,92,8,4,2,0,0,0,16
+873,622,B,tepic,Tepic,118,169,63,4,10,2,0,8,0,0
+874,623,B,tepic,Tepic,135,210,82,17,7,1,2,5,0,27
+875,624,B,tepic,Tepic,95,148,59,5,2,2,1,2,0,0
+876,625,B,tepic,Tepic,61,149,34,8,1,1,0,2,0,5
+877,626,B,tepic,Tepic,162,216,89,22,6,2,2,15,0,24
+878,627,B,tepic,Tepic,133,230,130,23,9,2,1,5,0,18
+879,628,B,tepic,Tepic,125,207,83,17,13,0,0,7,0,0
+880,629,B,tepic,Tepic,74,134,180,11,5,2,3,3,0,0
+881,630,B,tepic,Tepic,94,210,159,19,7,4,1,1,0,22
+882,631,B,tepic,Tepic,163,243,157,18,13,3,0,7,0,17
+883,632,B,tepic,Tepic,127,185,127,17,17,1,0,2,0,27
+884,633,B,tepic,Tepic,82,214,95,15,10,1,0,2,0,9
+890,633,E,tepic,Tepic,102,107,41,3,2,0,0,3,0,7
+891,634,B,tepic,Tepic,168,317,188,2,10,1,2,4,0,18
+892,634,E,tepic,Tepic,57,112,44,3,3,1,0,3,0,3
+893,635,B,tepic,Tepic,124,241,102,11,12,0,0,1,0,21
+894,636,B,tepic,Tepic,99,164,60,5,3,1,1,6,0,20
+895,637,B,tepic,Tepic,117,149,82,8,7,3,7,2,0,10
+896,638,B,tepic,Tepic,94,119,55,12,6,2,2,1,0,18
+897,639,B,tepic,Tepic,121,232,48,9,8,0,0,6,0,10
+898,640,B,tepic,Tepic,151,275,62,10,3,1,2,7,0,18
+899,641,B,tepic,Tepic,90,155,45,7,2,3,0,1,0,10
+900,642,B,tepic,Tepic,88,183,36,4,3,2,0,1,0,0
+901,643,B,tepic,Tepic,170,249,85,11,3,1,0,2,0,0
+902,644,B,tepic,Tepic,189,169,81,12,5,6,1,0,0,13
+903,645,B,tepic,Tepic,181,187,80,7,11,3,3,2,0,19
+904,646,B,tepic,Tepic,187,263,130,10,6,4,5,5,0,16
+905,647,B,tepic,Tepic,89,139,56,7,6,2,1,8,0,7
+906,648,B,tepic,Tepic,91,146,113,5,6,0,1,3,0,8
+907,649,B,tepic,Tepic,82,154,60,4,0,0,2,3,0,7
+908,650,B,tepic,Tepic,71,127,88,7,1,0,0,4,0,11
+909,651,B,tepic,Tepic,181,227,111,8,4,9,3,2,0,22
+910,652,B,tepic,Tepic,149,167,66,9,10,2,0,5,0,11
+911,653,B,tepic,Tepic,149,130,63,6,0,2,0,3,0,2
+912,654,B,tepic,Tepic,148,145,58,4,6,8,4,2,0,12
+913,655,B,tepic,Tepic,107,156,65,10,9,6,2,9,0,25
+914,656,B,tepic,Tepic,132,257,63,12,4,2,2,7,0,16
+915,657,B,tepic,Tepic,138,187,50,7,3,4,1,1,0,7
+916,658,B,tepic,Tepic,156,210,104,10,4,4,1,4,0,0
+917,659,B,tepic,Tepic,97,143,69,6,10,2,0,3,0,6
+918,660,B,tepic,Tepic,115,124,66,9,6,0,3,0,0,11
+919,661,B,tepic,Tepic,70,126,24,3,1,2,0,0,0,4
+920,662,B,tepic,Tepic,123,257,77,2,6,5,1,0,0,12
+921,663,B,tepic,Tepic,206,161,65,5,4,3,2,2,0,8
+922,664,B,tepic,Tepic,269,128,74,5,4,1,1,0,0,11
+923,665,B,tepic,Tepic,262,195,96,8,4,0,0,4,1,16
+924,666,B,tepic,Tepic,225,165,52,2,4,2,0,2,0,11
+925,667,B,tepic,Tepic,142,179,67,5,2,3,0,2,0,0
+926,668,B,tepic,Tepic,145,138,48,7,5,0,5,4,0,0
+927,669,B,tepic,Tepic,169,196,70,4,2,0,1,2,0,12
+928,670,B,tepic,Tepic,171,122,63,2,0,1,1,5,1,11
+934,671,B,tepic,Tepic,111,63,49,2,1,1,0,0,0,4
+935,672,B,tepic,Tepic,43,44,22,4,0,0,0,1,0,3
+936,673,B,tepic,Tepic,130,146,48,3,2,0,0,0,0,11
+937,674,B,tepic,Tepic,125,117,37,6,1,0,2,3,0,4
+938,675,B,tepic,Tepic,110,89,39,1,3,4,0,1,0,0
+939,676,B,tepic,Tepic,218,270,61,11,3,2,3,13,0,21
+940,677,B,tepic,Tepic,135,165,76,6,4,0,1,3,0,14
+941,678,B,tepic,Tepic,135,167,63,14,3,6,0,1,0,12
+942,679,B,tepic,Tepic,77,242,63,86,7,3,0,3,0,23
+943,680,B,tepic,Tepic,101,147,65,11,8,0,0,3,0,0
+944,681,B,tepic,Tepic,227,180,63,4,5,0,0,3,0,22
+945,682,B,tepic,Tepic,113,74,23,1,1,1,0,2,0,4
+946,683,B,tepic,Tepic,68,66,32,2,0,1,2,2,0,2
+947,684,B,tepic,Tepic,80,68,15,1,0,1,0,1,0,4
+948,685,B,tepic,Tepic,141,123,46,9,3,0,2,1,0,6
+949,686,B,tepic,Tepic,98,64,28,0,0,0,2,1,0,1
+950,687,B,tepic,Tepic,152,283,59,4,3,1,0,3,0,15
+951,688,B,tepic,Tepic,150,152,67,4,2,1,3,4,0,11
+952,689,B,tepic,Tepic,148,148,45,3,3,0,2,0,0,11
+953,690,B,tepic,Tepic,140,91,42,6,2,3,0,0,2,6
+954,691,B,tepic,Tepic,135,193,47,5,1,0,0,1,0,9
+955,692,B,tepic,Tepic,148,181,50,5,4,0,0,21,0,0
+956,693,B,tepic,Tepic,101,174,74,2,3,0,3,3,0,28
+957,694,B,tepic,Tepic,46,174,96,36,3,0,0,5,0,26
+958,695,B,tepic,Tepic,150,290,67,17,9,1,1,3,0,0
+959,696,B,tepic,Tepic,242,247,70,7,9,2,0,3,0,20
+960,697,B,tepic,Tepic,126,178,49,9,9,0,2,4,0,8
+961,698,B,tepic,Tepic,132,121,40,1,3,4,0,0,0,7
+962,699,B,tepic,Tepic,131,113,30,6,4,1,0,0,0,6
+963,700,B,tepic,Tepic,228,150,72,2,0,14,0,0,0,19
+964,701,B,tepic,Tepic,266,268,101,5,6,3,1,1,0,12
+965,702,B,tepic,Tepic,190,167,74,10,12,7,1,1,0,15
+966,703,B,tepic,Tepic,232,128,50,5,3,3,0,0,0,13
+967,704,B,tepic,Tepic,126,76,23,2,1,0,0,4,0,2
+968,705,B,tepic,Tepic,196,188,50,9,2,9,5,4,0,4
+969,706,B,tepic,Tepic,166,228,60,1,4,3,3,2,0,15
+970,707,B,tepic,Tepic,124,178,32,8,3,0,0,4,0,13
+971,708,B,tepic,Tepic,175,242,49,10,4,1,2,1,0,0
+972,709,B,tepic,Tepic,270,266,96,19,9,12,5,5,0,23
+978,710,B,tepic,Tepic,182,222,70,9,8,4,0,1,0,17
+979,711,B,tepic,Tepic,140,257,91,10,3,3,3,2,0,20
+980,712,B,tepic,Tepic,39,139,75,30,0,1,0,0,0,0
+981,713,B,tepic,Tepic,172,107,47,7,1,1,0,0,0,3
+982,714,B,tepic,Tepic,110,174,44,5,6,1,0,8,0,0
+983,715,B,tepic,Tepic,186,258,71,12,7,2,2,0,0,0
+984,716,B,tepic,Tepic,171,115,21,3,0,0,0,1,0,9
+985,717,B,tepic,Tepic,72,126,35,5,7,0,1,2,0,0
+986,718,B,tepic,Tepic,127,151,42,12,2,7,1,11,0,16
+987,719,B,tepic,Tepic,254,275,59,10,6,7,0,2,0,28
+988,720,B,tepic,Tepic,74,142,26,12,3,0,0,4,0,16
+989,721,B,tepic,Tepic,161,137,41,12,2,1,1,2,0,0
+990,722,B,tepic,Tepic,129,227,47,6,5,3,0,9,0,13
+991,723,B,tepic,Tepic,261,335,103,28,18,6,1,9,0,0
+992,724,B,tepic,Tepic,287,347,105,19,9,2,1,4,0,32
+993,725,B,tepic,Tepic,286,227,97,6,5,3,0,1,0,16
+994,726,B,tepic,Tepic,188,163,56,4,3,1,2,0,0,7
+995,727,B,tepic,Tepic,125,150,31,4,0,0,1,2,0,11
+996,728,B,tepic,Tepic,211,145,46,4,4,1,1,1,0,5
+997,729,B,tepic,Tepic,131,169,59,6,2,1,0,2,0,0
+998,730,B,tepic,Tepic,158,204,72,9,9,1,1,3,0,17
+999,731,B,tepic,Tepic,139,145,29,11,0,0,0,0,0,15
+1000,732,B,tepic,Tepic,44,90,13,3,0,1,0,0,0,13
+1001,733,B,tepic,Tepic,172,222,93,10,7,1,7,3,0,22
+1002,734,B,tepic,Tepic,135,232,31,2,0,1,0,2,0,18
+1003,735,B,tepic,Tepic,118,227,42,18,2,3,1,4,0,11
+1004,736,B,tepic,Tepic,91,242,175,18,4,3,0,1,0,28
+1005,737,B,tepic,Tepic,72,171,312,13,5,6,1,0,0,17
+1006,737,E,tepic,Tepic,68,50,16,3,0,0,0,0,0,2
+1007,738,B,tepic,Tepic,56,238,320,16,6,1,1,2,0,31
+1008,739,B,tepic,Tepic,160,437,96,16,4,1,0,0,0,0
+1009,740,B,tepic,Tepic,124,249,68,13,2,2,0,3,0,13
+1010,741,B,tepic,Tepic,118,177,42,5,5,0,2,1,0,9
+1011,742,B,tepic,Tepic,150,167,88,7,1,1,1,3,0,19
+1012,743,B,tepic,Tepic,106,110,58,14,2,1,1,4,2,11
+1013,744,B,tepic,Tepic,140,142,71,13,4,6,0,5,0,11
+1014,745,B,tepic,Tepic,183,194,113,7,2,4,1,3,0,18
+1015,746,B,tepic,Tepic,158,297,129,6,2,5,0,2,0,14
+1016,747,B,tepic,Tepic,96,147,221,6,1,3,0,0,0,11
+1022,748,B,tepic,Tepic,91,157,142,12,2,2,2,1,0,18
+1023,749,B,tepic,Tepic,138,200,72,6,8,1,1,0,0,0
+1024,750,B,tepic,Tepic,168,130,84,4,4,0,1,2,0,8
+1025,751,B,tepic,Tepic,115,151,58,6,3,1,0,3,0,12
+1026,752,B,tepic,Tepic,168,261,82,7,5,1,1,6,3,15
+1027,753,B,tepic,Tepic,148,145,48,7,3,24,0,8,0,0
+1028,754,B,tepic,Tepic,109,190,55,10,4,2,0,13,0,14
+1029,755,B,tepic,Tepic,104,152,46,12,2,1,2,2,0,11
+1030,756,B,tepic,Tepic,193,211,58,8,5,5,4,3,0,11
+1031,757,B,tepic,Tepic,100,183,46,2,4,1,0,3,0,10
+1032,758,B,tepic,Tepic,173,305,99,24,5,26,2,18,0,43
+1033,759,B,tepic,Tepic,75,195,59,15,1,1,0,5,0,0
+1034,760,B,tepic,Tepic,62,113,39,8,4,0,2,3,0,14
+1035,761,B,tepic,Tepic,120,149,42,4,2,1,0,0,0,0
+1036,762,B,tepic,Tepic,166,225,45,7,0,1,1,1,0,14
+1037,763,B,tepic,Tepic,71,186,140,12,4,2,2,1,0,0
+1038,764,B,tepic,Tepic,159,335,124,26,7,6,0,20,0,0
+1039,765,B,tepic,Tepic,173,310,97,11,3,4,1,5,0,0
+1040,766,B,tepic,Tepic,67,151,98,19,4,1,0,2,0,0
+1041,767,B,tepic,Tepic,103,151,39,9,4,0,1,0,0,6
+1042,768,B,tepic,La Esperanza,8,60,3,1,0,0,0,1,0,0
+1043,769,B,tepic,Mesa de Picachos,1,49,3,2,0,0,0,0,0,0
+1044,769,E,tepic,Carret¾n de Cerritos,12,66,10,8,0,1,0,0,0,3
+1045,770,B,tepic,El Jicote,74,224,106,20,2,5,0,4,0,30
+1046,770,E,tepic,Col. 14 de Marzo,4,30,15,0,0,0,0,0,0,0
+1047,771,B,tepic,Salazares,9,70,23,5,0,0,0,0,0,2
+1048,771,E,tepic,Las Pilas,5,44,5,1,0,1,0,0,0,1
+1049,772,B,tepic,Jes·s MarÝa Corte,5,72,31,4,1,2,0,1,0,0
+1050,772,E,tepic,Salvador Allende,0,42,13,0,0,1,0,0,0,1
+1051,773,B,tepic,Cinco de Mayo,21,76,33,4,0,1,1,0,0,8
+1052,774,B,tepic,Atonalisco,13,145,138,7,1,1,0,1,0,0
+1053,775,B,tepic,Jumatßn,8,61,4,4,1,1,0,0,0,0
+1054,775,E,tepic,El Pajuelazo,7,31,4,1,0,1,0,0,0,2
+1055,776,B,tepic,El Lim¾n,4,29,5,3,1,0,0,0,0,0
+1056,777,B,tepic,La Herradura,10,34,14,1,0,0,0,3,0,3
+1057,778,B,tepic,San Andres,13,82,24,0,2,1,0,0,0,0
+1058,779,B,tepic,Francisco I. Madero,77,174,86,36,3,0,0,0,0,0
+1059,780,B,tepic,Francisco I. Madero,78,234,223,21,2,3,0,2,0,48
+1060,781,B,tepic,Francisco I. Madero,26,124,97,16,2,1,0,1,0,0
+1066,782,B,tepic,Francisco I. Madero,31,189,103,21,1,0,0,0,0,17
+1067,783,B,tepic,Francisco I. Madero,55,217,107,23,2,1,0,1,0,19
+1068,784,B,tepic,Calera de Cofrados,6,36,27,6,0,0,0,0,0,0
+1069,784,E,tepic,Colorado de la Mora,0,47,0,0,0,0,0,0,0,0
+1070,785,B,tepic,Pochotitßn,28,138,102,20,1,2,1,0,0,15
+1071,786,B,tepic,San Fernando,7,59,73,1,1,0,0,0,0,7
+1072,787,B,tepic,La Escondida,7,90,25,5,0,2,1,1,0,5
+1073,788,B,tepic,Bellavista,96,236,54,3,1,10,19,2,0,25
+1074,789,B,tepic,Bellavista,90,203,41,14,2,8,4,0,0,0
+1075,790,B,tepic,Benito Jußrez (Las Chivas),16,55,13,6,0,0,2,0,0,0
+1076,791,B,tepic,El Espino,5,60,7,1,0,0,0,0,0,0
+1077,792,B,tepic,El Trapichillo,18,124,42,16,0,0,0,14,0,7
+1078,793,B,tepic,La Barranca Blanca,21,105,19,7,0,0,0,1,0,6
+1079,794,B,tepic,El Rinc¾n,7,83,31,6,0,0,3,3,0,5
+1080,795,B,tepic,La Fortuna,16,158,30,16,6,0,0,2,0,0
+1081,796,B,tepic,Colonia 6 de Enero,10,150,67,25,0,0,2,0,0,0
+1082,797,B,tepic,San Luis de Lozada,38,173,40,12,1,1,0,6,0,0
+1083,798,B,tepic,Mora,8,88,97,0,2,1,0,4,0,6
+1084,799,B,tepic,La Cantera,17,131,87,5,2,4,0,2,0,10
+1085,800,B,tepic,Las Delicias,24,122,19,6,0,0,0,0,0,8
+1086,801,B,tepic,Lo de Lamedo,75,119,52,12,0,0,0,3,0,10
+1087,802,B,tepic,La Yerba,33,86,56,26,2,1,0,1,0,9
+1088,803,B,tepic,Venustiano Carranza,7,120,15,2,1,0,0,0,0,8
+1089,803,E,tepic,Platanitos,14,57,29,14,2,2,0,0,1,1
+1090,803,E,tepic,El Izote,11,51,12,5,1,1,0,0,0,0
+1091,804,B,tepic,San Cayetano,167,312,39,21,6,1,1,33,0,29
+1092,805,B,tepic,San Cayetano,84,202,30,15,0,0,0,7,0,0
+1093,806,B,tepic,El Aguacate,38,70,47,11,6,1,0,0,0,5
+1094,807,B,tepic,Camichin de Jauja,61,367,133,13,6,6,0,2,0,15
+1095,808,B,tepic,El Refugio,27,136,23,27,2,0,4,0,0,19
+1096,809,B,tepic,Tepic,141,145,58,9,4,2,1,3,0,10
+1103,810,B,tuxpan,Tuxpan,152,197,27,1,0,3,0,1,2,10
+1104,811,B,tuxpan,Tuxpan,161,134,31,0,0,1,0,0,0,11
+1105,812,B,tuxpan,Tuxpan,203,171,51,0,5,2,0,5,0,10
+1106,813,B,tuxpan,Tuxpan,161,178,76,0,2,0,0,5,0,7
+1107,814,B,tuxpan,Tuxpan,136,170,25,2,0,3,1,3,0,13
+1108,815,B,tuxpan,Tuxpan,112,110,15,3,2,3,2,1,0,13
+1109,816,B,tuxpan,Tuxpan,159,129,32,3,0,10,0,1,0,4
+1110,817,B,tuxpan,Tuxpan,70,63,57,1,0,0,0,0,0,2
+1111,818,B,tuxpan,Tuxpan,125,82,53,0,1,0,3,0,0,3
+1112,819,B,tuxpan,Tuxpan,99,179,62,0,0,0,3,1,0,8
+1113,820,B,tuxpan,Tuxpan,85,105,45,0,0,0,0,2,0,13
+1114,821,B,tuxpan,Tuxpan,113,143,74,0,2,0,0,7,0,3
+1115,822,B,tuxpan,Tuxpan,100,141,36,1,1,3,0,4,2,17
+1116,823,B,tuxpan,Tuxpan,155,120,43,0,2,0,1,1,0,7
+1117,824,B,tuxpan,Tuxpan,135,199,52,3,2,3,2,2,0,22
+1118,825,B,tuxpan,Tuxpan,141,195,42,1,2,1,0,0,0,15
+1119,826,B,tuxpan,Tuxpan,80,102,42,0,1,1,0,1,0,3
+1120,827,B,tuxpan,Tuxpan,155,119,61,0,2,3,1,1,0,3
+1121,828,B,tuxpan,Tuxpan,99,108,34,1,1,1,6,4,0,2
+1122,829,B,tuxpan,Tuxpan,85,82,43,0,0,3,0,1,0,5
+1123,830,B,tuxpan,Tuxpan,156,135,47,1,0,0,0,9,0,10
+1124,831,B,tuxpan,Tuxpan,44,113,36,0,0,0,0,6,0,5
+1125,832,B,tuxpan,Tuxpan,89,150,31,4,1,1,1,8,0,10
+1126,833,B,tuxpan,Tuxpan,108,131,28,0,1,0,6,2,5,5
+1127,834,B,tuxpan,Tuxpan,110,107,22,2,1,0,1,1,0,8
+1128,835,B,tuxpan,Tuxpan,120,135,36,2,2,2,1,1,0,10
+1129,836,B,tuxpan,Uni¾n de Corrientes,215,335,4,1,3,0,1,2,0,5
+1130,837,B,tuxpan,Palma Grande,183,259,16,4,1,0,1,0,0,9
+1131,837,E,tuxpan,Tecomate,0,43,0,1,0,0,0,0,0,3
+1132,838,B,tuxpan,Palma Grande,167,266,15,3,1,0,0,1,0,9
+1133,839,B,tuxpan,Pe±itas,114,182,13,6,0,1,0,3,0,7
+1134,840,B,tuxpan,Pe±as,117,124,21,0,0,0,0,0,0,0
+1135,841,B,tuxpan,Coamiles,121,106,8,0,2,0,0,1,0,9
+1136,842,B,tuxpan,Coamiles,202,141,7,1,1,1,0,2,0,7
+1137,843,B,tuxpan,Coamiles,123,180,4,2,0,0,0,3,0,4
+1144,844,B,xalisco,Xalisco,66,231,67,28,8,2,1,6,3,18
+1145,845,B,xalisco,Xalisco,83,284,172,49,33,8,0,5,0,28
+1146,846,B,xalisco,Xalisco,77,271,250,21,4,2,0,4,0,17
+1147,847,B,xalisco,Xalisco,60,324,204,18,9,0,0,23,0,24
+1148,848,B,xalisco,Xalisco,50,309,231,11,5,3,1,0,0,20
+1149,849,B,xalisco,Xalisco,29,222,112,10,1,2,0,0,0,8
+1150,850,B,xalisco,Xalisco,23,116,110,5,1,1,0,1,0,0
+1151,851,B,xalisco,Xalisco,31,121,151,9,1,0,0,1,0,4
+1152,852,B,xalisco,Xalisco,30,142,284,4,1,4,0,1,0,9
+1153,853,B,xalisco,Xalisco,18,145,182,9,1,0,0,0,0,20
+1154,854,B,xalisco,Xalisco,46,205,223,13,1,5,0,0,0,18
+1155,855,B,xalisco,Xalisco,27,179,121,4,3,2,0,0,0,10
+1156,856,B,xalisco,El Cuarente±o,2,212,8,0,0,0,0,1,0,6
+1157,856,E,xalisco,Palapitas,2,92,61,1,0,1,0,0,0,0
+1158,857,B,xalisco,Pantanal,63,180,121,13,2,1,0,3,0,9
+1159,858,B,xalisco,Pantanal,64,184,59,16,4,5,0,2,0,25
+1160,859,B,xalisco,Testerazo,35,306,223,17,3,20,0,2,0,22
+1161,860,B,xalisco,Trigomil,12,130,26,8,0,0,0,1,0,6
+1162,861,B,xalisco,Aquiles Serdan,9,144,85,14,3,55,0,0,0,7
+1163,862,B,xalisco,El Malinal,8,120,93,6,0,1,0,0,0,0
+1164,862,E,xalisco,San Antonio,0,115,10,2,1,0,0,0,0,6
+1165,862,E,xalisco,Tepozal,1,80,6,1,0,0,0,0,0,2
+1166,863,B,xalisco,Cofradia de Chocol¾n,1,124,11,11,5,0,0,0,0,10
+1167,864,B,xalisco,Emiliano Zapata,43,303,68,18,3,12,0,2,0,0
+1168,864,E,xalisco,Adolfo L¾pez Mateos,3,58,5,2,1,0,0,0,0,2
+1169,865,B,xalisco,La Curva,11,216,85,4,1,3,0,2,0,6
+1170,865,E,xalisco,San JosÚ de Costilla,5,69,17,7,2,1,0,0,0,0

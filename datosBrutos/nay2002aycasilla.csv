@@ -1,0 +1,994 @@
+ord,secn,mun,localidad,tipo,pan,pri,prd,pt,pvem,prs,medp,conve,psn,pas,efec,nr,nul,tot
+1,1,Acaponeta,Acaponeta,Básica,90,149,16,10,0,0,0,0,0,0,265,0,0,265
+2,2,Acaponeta,Acaponeta,Básica,67,110,6,24,0,4,0,0,0,0,211,0,0,211
+3,2,Acaponeta,El Centenario,Extraordinaria,29,90,13,14,0,0,0,0,0,0,146,0,0,146
+4,3,Acaponeta,Acaponeta,Básica,191,293,38,55,0,5,0,1,0,3,586,0,0,586
+5,4,Acaponeta,Acaponeta,Básica,111,168,13,24,0,0,0,1,0,0,317,0,10,327
+6,5,Acaponeta,Acaponeta,Básica,99,278,18,14,0,1,0,0,0,0,410,0,20,430
+7,6,Acaponeta,Acaponeta,Básica,152,168,9,14,0,1,0,0,0,0,344,0,12,356
+8,7,Acaponeta,Acaponeta,Básica,162,197,9,5,0,1,0,1,0,0,375,0,3,378
+9,8,Acaponeta,Acaponeta,Básica,190,226,7,27,0,1,0,0,0,0,451,0,0,451
+10,9,Acaponeta,Acaponeta,Básica,149,242,17,9,0,2,0,2,0,0,421,0,9,430
+11,10,Acaponeta,Acaponeta,Básica,194,317,20,18,0,1,0,0,0,1,551,0,11,562
+12,11,Acaponeta,Acaponeta,Básica,115,122,6,10,0,3,0,0,0,0,256,0,5,261
+13,12,Acaponeta,Acaponeta,Básica,196,240,10,18,0,2,0,0,0,0,466,0,7,473
+14,13,Acaponeta,Acaponeta,Básica,202,193,7,5,0,2,0,0,0,0,409,0,5,414
+15,14,Acaponeta,Acaponeta,Básica,84,107,12,7,0,2,0,0,0,0,212,0,5,217
+16,15,Acaponeta,Acaponeta,Básica,99,155,8,26,0,1,0,0,0,0,289,0,5,294
+17,16,Acaponeta,Acaponeta,Básica,118,207,10,20,0,1,0,0,0,0,356,0,4,360
+18,17,Acaponeta,Acaponeta,Básica,131,204,5,23,0,4,1,0,0,0,368,0,3,371
+19,18,Acaponeta,Acaponeta,Básica,162,200,3,10,1,1,0,0,0,0,377,0,10,387
+20,19,Acaponeta,El Tacote,Básica,44,24,1,2,0,0,0,0,0,0,71,0,4,75
+21,20,Acaponeta,Cerro Bola,Básica,11,83,0,5,0,1,0,0,0,0,100,0,4,104
+22,20,Acaponeta,La Haciendilla,Extraordinaria,30,37,0,1,0,1,0,0,0,0,69,0,0,69
+23,21,Acaponeta,El Aguaje,Básica,104,146,0,9,0,0,0,0,0,0,259,0,0,259
+24,22,Acaponeta,Valle de la Urraca,Básica,38,64,1,7,0,0,0,0,0,0,110,0,0,110
+25,23,Acaponeta,La Bayona,Básica,54,225,6,2,0,19,0,0,0,0,306,0,0,306
+26,23,Acaponeta,Las Casitas,Extraordinaria,43,38,2,0,0,2,0,0,0,0,85,0,0,85
+27,24,Acaponeta,El Recodo,Básica,78,234,7,5,0,1,0,0,0,0,325,0,13,338
+28,24,Acaponeta,Llano de Mariquita,Extraordinaria,7,80,0,2,0,0,0,0,0,0,89,0,0,89
+29,25,Acaponeta,La Lagunita 1,Básica,19,47,1,7,0,0,0,0,0,1,75,0,2,77
+30,26,Acaponeta,San Diego Naranjo,Básica,18,87,1,5,0,1,0,0,1,0,113,0,0,113
+31,27,Acaponeta,Santa Cruz,Básica,28,79,1,5,2,1,0,2,0,1,119,0,2,121
+32,27,Acaponeta,El Carrizal,Extraordinaria,17,37,0,5,0,1,0,0,0,0,60,0,0,60
+33,28,Acaponeta,San Dieguito de Alcalá,Básica,52,102,5,11,0,0,0,1,0,0,171,0,6,177
+34,29,Acaponeta,El Carrizo 1,Básica,9,45,1,2,0,0,0,0,0,0,57,0,0,57
+35,29,Acaponeta,El Oro,Extraordinaria,2,25,1,5,0,0,0,0,0,0,33,0,0,33
+36,30,Acaponeta,San Dieguito de Arriba,Básica,18,73,0,4,0,0,0,0,0,0,95,0,0,95
+37,31,Acaponeta,San Dieguito de Abajo,Básica,25,165,1,4,0,0,0,0,0,0,195,0,6,201
+38,32,Acaponeta,Casas Coloradas,Básica,37,176,2,13,0,1,0,0,0,0,229,0,0,229
+39,33,Acaponeta,San José de Gracia,Básica,106,146,32,29,0,2,0,0,0,0,315,0,10,325
+40,34,Acaponeta,Buenavista,Básica,30,57,1,4,0,0,0,0,0,0,92,0,4,96
+41,34,Acaponeta,Los Sandovales,Extraordinaria,23,15,1,6,0,0,0,0,0,0,45,0,3,48
+42,35,Acaponeta,La Higuerita Nueva,Básica,10,55,1,3,0,1,0,0,0,0,70,0,0,70
+43,36,Acaponeta,El Tigre,Básica,107,181,34,10,0,0,0,0,0,0,332,0,46,378
+44,37,Acaponeta,El Tejón,Básica,61,102,4,5,0,1,0,0,0,0,173,0,2,175
+45,38,Acaponeta,Sayulita,Básica,189,293,10,60,0,0,0,0,0,1,553,0,13,566
+46,39,Acaponeta,Sayulita,Básica,175,222,15,62,0,1,0,0,0,0,475,0,0,475
+47,40,Acaponeta,Llano de la Cruz,Básica,103,192,5,24,0,5,0,0,0,0,329,0,6,335
+48,40,Acaponeta,La Piedra Ancha,Extraordinaria,21,26,0,64,0,0,0,0,0,0,111,0,4,115
+49,41,Acaponeta,La Cortez,Básica,41,167,1,5,0,1,0,0,0,1,216,0,0,216
+50,42,Acaponeta,San Francisco,Básica,9,30,4,3,1,6,0,0,0,1,54,0,0,54
+51,43,Acaponeta,El Resbalón,Básica,116,217,33,5,2,5,0,0,0,0,378,0,8,386
+52,44,Acaponeta,Mesa de Pedro y Pablo,Básica,14,57,2,2,0,0,0,0,0,0,75,0,2,77
+53,45,Acaponeta,El Motaje,Básica,41,63,0,6,0,1,0,0,0,0,111,0,0,111
+54,46,Acaponeta,La Guasima,Básica,147,273,11,7,0,39,0,0,0,0,477,0,6,483
+55,47,Acaponeta,San Miguel,Básica,147,207,18,25,0,0,0,0,0,0,397,0,12,409
+56,47,Acaponeta,Amado Nervo,Extraordinaria,19,26,3,4,0,0,0,0,0,0,52,0,0,52
+57,48,Acaponeta,Paloma Nueva Reforma,Básica,13,64,0,3,0,0,0,0,0,0,80,0,2,82
+59,49,Ahuacatlán,Ahuacatlán,Básica,141,64,9,3,0,0,1,41,0,1,260,0,4,264
+60,50,Ahuacatlán,Ahuacatlán,Básica,184,104,12,0,0,0,1,52,0,0,353,0,0,353
+61,51,Ahuacatlán,Ahuacatlán,Básica,227,128,6,0,0,0,2,49,0,0,412,0,11,423
+62,52,Ahuacatlán,Ahuacatlán,Básica,229,130,6,1,0,1,0,42,0,1,410,0,0,410
+63,53,Ahuacatlán,Ahuacatlán,Básica,262,210,3,0,0,0,0,55,1,0,531,0,23,554
+64,54,Ahuacatlán,Ahuacatlán,Básica,292,223,37,4,0,0,0,94,0,0,650,0,18,668
+65,55,Ahuacatlán,Sta. Isabel,Básica,49,64,8,1,0,1,0,39,0,0,162,0,2,164
+66,56,Ahuacatlán,Sta. Isabel,Básica,102,208,9,0,0,0,1,107,0,0,427,0,0,427
+67,57,Ahuacatlán,Tetitlán,Básica,45,228,4,3,2,0,3,234,0,0,519,0,0,519
+68,58,Ahuacatlán,Valle Verde,Básica,51,153,0,2,0,0,0,134,0,0,340,0,9,349
+69,59,Ahuacatlán,Uzeta,Básica,236,370,8,3,0,0,1,99,0,0,717,0,9,726
+70,60,Ahuacatlán,Marquezado,Básica,31,141,27,1,1,0,2,134,0,1,338,0,16,354
+71,61,Ahuacatlán,Heriberto Jara,Básica,200,109,20,5,0,0,2,41,0,2,379,0,0,379
+72,61,Ahuacatlán,La Campana,Extraordinaria,29,43,2,0,0,0,0,24,0,0,98,0,0,98
+73,62,Ahuacatlán,La Ciénega,Básica,37,48,1,0,0,0,5,27,0,0,118,0,0,118
+74,63,Ahuacatlán,Zoatlán,Básica,59,42,5,3,0,0,3,31,0,0,143,0,0,143
+75,64,Ahuacatlán,Las Palmas,Básica,21,89,0,0,1,0,0,23,0,0,134,0,2,136
+76,65,Ahuacatlán,Santa Cruz de Camotlán,Básica,49,132,4,1,0,0,0,81,0,0,267,0,12,279
+77,65,Ahuacatlán,Las Cebollas,Extraordinaria,22,16,0,0,0,0,0,50,0,0,88,0,6,94
+79,66,Amatlán de Cañas,Amatlán de Cañas,Básica,115,102,7,7,0,0,0,0,0,0,231,0,10,241
+80,67,Amatlán de Cañas,Amatlán de Cañas,Básica,251,90,11,5,1,0,1,0,0,0,359,0,29,388
+81,68,Amatlán de Cañas,Amatlán de Cañas,Básica,308,96,6,3,0,0,0,0,0,0,413,0,4,417
+82,69,Amatlán de Cañas,Amatlán de Cañas,Básica,158,115,5,0,0,0,0,0,0,0,278,0,5,283
+83,70,Amatlán de Cañas,Amatlán de Cañas,Básica,61,82,2,0,0,0,0,0,0,0,145,0,4,149
+84,71,Amatlán de Cañas,Los Cerritos,Básica,63,30,1,3,0,0,0,0,0,0,97,0,0,97
+85,72,Amatlán de Cañas,San Valentín,Básica,33,12,5,7,0,0,0,0,0,0,57,0,4,61
+86,73,Amatlán de Cañas,Las Anonas,Básica,35,27,1,0,0,0,0,0,0,0,63,0,0,63
+87,74,Amatlán de Cañas,Barranca del Oro,Básica,81,108,2,1,0,0,0,0,0,0,192,0,0,192
+88,74,Amatlán de Cañas,El Pilón,Extraordinaria,36,30,1,2,0,0,0,0,0,0,69,0,1,70
+89,75,Amatlán de Cañas,Los Mezquites,Básica,122,159,5,4,0,0,0,0,0,0,290,0,0,290
+90,76,Amatlán de Cañas,Los Agrios,Básica,40,42,1,1,0,0,0,0,0,0,84,0,1,85
+91,77,Amatlán de Cañas,El Rosario,Básica,200,88,18,4,0,0,2,0,0,0,312,0,7,319
+92,78,Amatlán de Cañas,El Rosario,Básica,186,117,16,1,0,0,6,0,0,0,326,0,2,328
+93,79,Amatlán de Cañas,Tepuzhuacan,Básica,236,215,7,2,0,0,1,0,0,0,461,0,2,463
+94,80,Amatlán de Cañas,Estancia de los López,Básica,124,91,45,9,0,0,0,0,0,0,269,0,2,271
+95,81,Amatlán de Cañas,Estancia de los López,Básica,56,27,43,2,0,0,0,0,0,0,128,0,7,135
+96,82,Amatlán de Cañas,Estancia de los López,Básica,145,49,33,2,0,0,1,0,0,0,230,0,3,233
+97,83,Amatlán de Cañas,Estancia de los López,Básica,147,89,38,20,0,0,0,0,0,0,294,0,6,300
+98,84,Amatlán de Cañas,Pie de la Cuesta,Básica,52,30,3,3,0,0,0,0,0,0,88,0,3,91
+99,85,Amatlán de Cañas,Agua Escondida,Básica,14,11,1,2,0,0,0,0,0,0,28,0,0,28
+100,86,Amatlán de Cañas,La Yerbabuena,Básica,86,85,1,8,0,0,0,0,0,0,180,0,4,184
+101,87,Amatlán de Cañas,El Copalillo,Básica,46,28,0,3,0,0,0,0,0,0,77,0,5,82
+102,88,Amatlán de Cañas,San Blasito,Básica,102,99,0,0,0,0,0,0,0,0,201,0,4,205
+103,89,Amatlán de Cañas,Jesús María,Básica,79,116,3,4,0,0,1,0,0,0,203,0,7,210
+105,90,Bahía de Banderas,Mezcales,Básica,439,329,9,5,6,7,8,3,0,2,808,0,17,825
+106,90,Bahía de Banderas,Mezcalitos,Extraordinaria,79,93,2,1,1,1,0,1,0,1,179,0,1,180
+107,91,Bahía de Banderas,Lo de Marcos,Básica,159,216,0,8,3,3,0,0,1,2,392,0,0,392
+108,92,Bahía de Banderas,Lo de Marcos,Básica,132,105,4,7,1,1,0,2,0,0,252,0,4,256
+109,93,Bahía de Banderas,La Fortuna de Vallejo,Básica,40,64,1,0,0,0,0,0,0,0,105,0,0,105
+110,94,Bahía de Banderas,Aguamilpa,Básica,131,152,2,2,0,1,0,0,0,0,288,0,10,298
+111,95,Bahía de Banderas,El Coatante,Básica,61,68,0,1,1,1,0,0,1,0,133,1,1,135
+112,95,Bahía de Banderas,Los Sauces,Extraordinaria,59,73,1,0,0,1,0,0,1,0,135,0,6,141
+113,96,Bahía de Banderas,San Francisco,Básica,228,264,11,3,1,0,0,0,1,0,508,0,0,508
+114,97,Bahía de Banderas,El Colomo,Básica,179,359,5,0,2,3,0,0,1,1,550,0,13,563
+115,98,Bahía de Banderas,Sayulita,Básica,338,342,9,4,1,2,0,0,0,0,696,0,12,708
+116,98,Bahía de Banderas,San ignacio,Extraordinaria,43,14,0,0,0,0,0,0,0,0,57,0,0,57
+117,98,Bahía de Banderas,El Guamuchil,Extraordinaria,28,59,2,1,1,1,0,4,0,0,96,0,15,111
+118,99,Bahía de Banderas,San Juan Papachula,Básica,116,166,4,4,0,0,0,0,1,1,292,0,6,298
+119,100,Bahía de Banderas,San Juan de Abajo,Básica,240,315,9,6,2,0,0,1,0,0,573,0,0,573
+120,101,Bahía de Banderas,San Juan de Abajo,Básica,250,322,12,1,2,3,1,1,0,1,593,0,0,593
+121,102,Bahía de Banderas,San Juan de Abajo,Básica,201,366,6,2,1,2,0,0,0,0,578,0,10,588
+122,103,Bahía de Banderas,San Juan de Abajo,Básica,254,335,14,1,1,1,0,0,0,1,607,0,10,617
+123,104,Bahía de Banderas,San Juan de Abajo,Básica,281,527,12,3,0,0,0,0,0,0,823,0,7,830
+124,105,Bahía de Banderas,Valle de Banderas,Básica,280,344,5,6,2,1,3,5,1,0,647,0,0,647
+125,106,Bahía de Banderas,Valle de Banderas,Básica,287,330,6,5,3,2,8,0,0,0,641,0,24,665
+126,107,Bahía de Banderas,Valle de Banderas,Básica,207,296,1,8,1,2,6,0,0,1,522,0,24,546
+127,107,Bahía de Banderas,Sta. Rosa Tapachula,Extraordinaria,119,103,3,4,1,1,1,0,0,0,232,0,4,236
+128,108,Bahía de Banderas,Valle de Banderas,Básica,193,320,5,4,3,1,14,3,0,0,543,0,0,543
+129,109,Bahía de Banderas,Higuera Blanca,Básica,87,137,4,3,1,0,0,0,0,1,233,0,0,233
+130,110,Bahía de Banderas,Fracc. Emiliano Zapata,Básica,147,137,2,3,1,0,0,3,0,0,293,0,0,293
+131,110,Bahía de Banderas,Nuevo Corral del Risco,Extraordinaria,112,80,4,2,0,0,0,3,0,0,201,0,0,201
+132,111,Bahía de Banderas,Bucerias,Básica,517,441,32,6,3,2,0,3,0,1,1005,0,43,1048
+133,112,Bahía de Banderas,Bucerias,Básica,363,357,17,5,3,1,0,2,0,0,748,0,30,778
+134,113,Bahía de Banderas,Bucerias,Básica,231,236,12,0,2,4,0,1,0,0,486,0,10,496
+135,114,Bahía de Banderas,Cruz de Huanacaxtle,Básica,264,355,8,7,5,0,1,2,0,0,642,0,23,665
+136,115,Bahía de Banderas,San José del Valle,Básica,497,314,4,18,6,4,0,1,0,2,846,0,41,887
+137,116,Bahía de Banderas,San José del Valle,Básica,462,286,2,7,2,2,0,0,0,0,761,0,0,761
+138,117,Bahía de Banderas,San José del Valle,Básica,316,226,7,2,0,3,4,0,0,0,558,0,12,570
+139,118,Bahía de Banderas,San Vicente,Básica,541,356,2,7,2,0,8,0,0,1,917,0,0,917
+140,119,Bahía de Banderas,San Vicente,Básica,247,115,4,5,0,0,0,2,0,0,373,0,0,373
+141,120,Bahía de Banderas,El Porvenir,Básica,326,330,0,4,0,8,6,0,0,1,675,4,17,696
+142,121,Bahía de Banderas,Jarretaderas,Básica,243,164,6,6,1,1,0,1,0,0,422,0,7,429
+143,122,Bahía de Banderas,Jarretaderas,Básica,209,115,7,2,1,1,1,0,0,0,336,0,14,350
+144,123,Bahía de Banderas,Jarretaderas,Básica,144,53,6,2,1,0,1,0,0,0,207,0,4,211
+146,124,Compostela,Compostela,Básica,128,153,20,32,2,2,0,6,0,0,343,0,17,360
+147,125,Compostela,Compostela,Básica,256,296,22,25,1,2,1,6,2,0,611,0,0,611
+148,126,Compostela,Compostela,Básica,180,102,27,46,2,1,0,1,2,0,361,0,12,373
+149,127,Compostela,Compostela,Básica,215,168,16,29,1,0,2,25,0,0,456,0,9,465
+150,128,Compostela,Compostela,Básica,228,220,13,29,2,1,0,8,0,1,502,0,13,515
+151,129,Compostela,Compostela,Básica,351,295,11,24,4,1,0,6,2,1,695,0,19,714
+152,130,Compostela,Compostela,Básica,144,172,5,23,3,1,0,11,0,0,359,0,5,364
+153,131,Compostela,Compostela,Básica,167,166,10,30,2,2,0,7,3,0,387,0,15,402
+154,132,Compostela,Compostela,Básica,212,168,25,23,0,1,0,0,0,0,429,0,21,450
+155,133,Compostela,Compostela,Básica,240,219,28,44,2,0,0,3,0,0,536,0,30,566
+156,134,Compostela,Compostela,Básica,195,245,25,30,3,0,1,1,0,1,501,0,17,518
+157,135,Compostela,Compostela,Básica,196,248,22,32,1,0,0,5,2,1,507,0,0,507
+158,136,Compostela,Compostela,Básica,204,230,7,41,0,0,4,6,0,0,492,0,11,503
+159,137,Compostela,Compostela,Básica,137,142,11,15,3,0,1,2,0,0,311,0,0,311
+160,137,Compostela,Compostela,Extraordinaria,77,123,23,10,2,0,0,3,0,0,238,0,6,244
+161,138,Compostela,Compostela,Básica,84,116,15,7,2,1,2,4,0,0,231,0,5,236
+162,139,Compostela,Otates y Cantarranas,Básica,68,75,80,8,2,0,1,2,0,0,236,0,8,244
+163,140,Compostela,Cumbres de Huicicila,Básica,70,89,74,34,2,0,0,4,0,0,273,0,12,285
+164,141,Compostela,Miravalles,Básica,64,158,12,12,2,0,0,13,1,0,262,0,16,278
+165,142,Compostela,El Refilión,Básica,25,22,13,3,2,1,1,7,0,0,74,0,11,85
+166,143,Compostela,Tepiqueños,Básica,8,43,39,7,0,0,0,3,0,0,100,0,3,103
+167,143,Compostela,Vizcarra,Extraordinaria,14,55,4,1,0,0,0,1,0,0,75,0,1,76
+168,144,Compostela,Ixtapa de la Concepción,Básica,106,122,54,28,1,1,0,1,0,1,314,0,0,314
+169,145,Compostela,Ixtapa de la Concepción,Básica,74,117,54,28,1,0,0,0,0,0,274,0,0,274
+170,145,Compostela,San Isidro,Extraordinaria,40,9,2,23,0,0,0,2,0,0,76,0,4,80
+171,146,Compostela,Cuastecomatillo,Básica,55,43,5,10,0,2,0,0,0,0,115,0,5,120
+172,147,Compostela,Paranal,Básica,77,64,45,17,0,1,0,3,0,1,208,0,9,217
+173,148,Compostela,Zacualpan,Básica,72,129,10,156,1,0,0,0,0,0,368,0,6,374
+174,149,Compostela,Zacualpan,Básica,54,92,4,148,0,1,0,0,0,0,299,0,3,302
+175,150,Compostela,Zacualpan,Básica,48,79,10,143,0,0,0,0,0,0,280,0,12,292
+176,151,Compostela,Zacualpan,Básica,69,143,17,298,2,2,0,4,0,0,535,0,0,535
+177,152,Compostela,Zacualpan,Básica,48,130,9,173,2,1,0,3,0,0,366,0,7,373
+178,153,Compostela,Paso de las Mesillas,Básica,53,30,4,5,0,0,0,0,0,0,92,0,2,94
+179,154,Compostela,Paso de las Palmas,Básica,95,77,6,27,2,3,0,0,0,0,210,0,4,214
+180,155,Compostela,Juan Escutia,Básica,119,72,23,5,0,0,1,0,0,2,222,0,0,222
+181,156,Compostela,Juan Escutia,Básica,61,87,53,5,1,1,0,1,0,0,209,0,11,220
+182,157,Compostela,Las Piedras,Básica,47,78,26,96,2,3,0,2,0,0,254,0,10,264
+183,157,Compostela,La Cuata,Extraordinaria,41,10,4,8,0,0,0,0,0,0,63,0,3,66
+184,158,Compostela,Las Varas,Básica,119,81,41,80,2,3,1,0,0,1,328,0,8,336
+185,159,Compostela,Las Varas,Básica,90,86,14,74,0,3,0,0,0,0,267,0,0,267
+186,160,Compostela,Las Varas,Básica,165,55,15,75,4,0,1,1,0,1,317,0,0,317
+187,161,Compostela,Las Varas,Básica,169,130,24,154,3,0,0,0,0,1,481,0,0,481
+188,162,Compostela,Las Varas,Básica,60,65,16,74,0,1,0,0,0,0,216,0,2,218
+189,163,Compostela,Las Varas,Básica,40,76,48,92,0,0,0,4,1,1,262,0,6,268
+190,164,Compostela,Las Varas,Básica,77,88,13,127,1,2,0,0,0,0,308,0,4,312
+191,165,Compostela,Las Varas,Básica,92,114,21,98,0,1,0,0,0,1,327,0,7,334
+192,166,Compostela,Las Varas,Básica,74,73,53,100,0,0,0,1,0,0,301,0,8,309
+193,167,Compostela,Las Varas,Básica,84,97,38,194,1,2,0,1,1,1,419,0,0,419
+194,168,Compostela,Las Varas,Básica,89,85,51,214,0,9,0,1,0,0,449,0,31,480
+195,169,Compostela,Las Varas,Básica,59,124,48,117,1,2,0,0,0,0,351,0,13,364
+196,170,Compostela,Chacala,Básica,30,67,6,17,1,1,0,0,0,0,122,0,0,122
+197,171,Compostela,Mazatán,Básica,109,181,122,13,1,4,0,3,0,1,434,0,21,455
+198,172,Compostela,Divisadero,Básica,30,12,12,2,0,1,0,1,0,0,58,0,1,59
+199,173,Compostela,El Capomo,Básica,74,149,157,50,2,2,0,1,0,0,435,0,15,450
+200,174,Compostela,Mamey Grande de Arriba,Básica,11,27,9,7,0,0,0,0,0,0,54,0,1,55
+201,175,Compostela,Felipe Carrillo Puerto,Básica,51,181,28,5,0,1,0,2,0,1,269,0,2,271
+202,176,Compostela,Felipe Carrillo Puerto,Básica,99,185,31,3,0,1,0,6,0,0,325,0,13,338
+203,177,Compostela,Zapotán,Básica,107,140,88,72,0,2,0,2,1,0,412,0,16,428
+204,178,Compostela,Altavista,Básica,61,67,116,6,0,0,0,0,0,0,250,0,0,250
+205,179,Compostela,Puerta de la Lima,Básica,81,69,63,4,1,0,0,2,1,0,221,0,10,231
+206,180,Compostela,Lima de Abajo,Básica,88,78,64,6,0,2,0,0,2,1,241,0,10,251
+207,181,Compostela,Bella Unión,Básica,24,55,52,31,0,0,1,0,0,0,163,0,4,167
+208,182,Compostela,El Tonino,Básica,36,51,1,8,0,0,0,3,0,0,99,0,0,99
+209,183,Compostela,Peñita de Jaltemba,Básica,54,142,48,28,5,0,1,0,0,0,278,0,8,286
+210,184,Compostela,Peñita de Jaltemba,Básica,56,158,53,37,0,2,4,1,0,2,313,0,10,323
+211,185,Compostela,Peñita de Jaltemba,Básica,68,113,58,33,0,1,1,0,0,0,274,0,0,274
+212,186,Compostela,Peñita de Jaltemba,Básica,92,91,42,48,1,0,1,7,1,0,283,0,0,283
+213,187,Compostela,Peñita de Jaltemba,Básica,58,100,35,45,1,3,0,1,0,0,243,0,15,258
+214,188,Compostela,Peñita de Jaltemba,Básica,59,150,52,46,2,2,2,2,0,0,315,0,10,325
+215,189,Compostela,Peñita de Jaltemba,Básica,64,132,44,40,1,8,2,1,0,0,292,0,0,292
+216,190,Compostela,Rincón de Guayabitos,Básica,37,176,85,27,2,6,2,1,1,0,337,0,0,337
+217,190,Compostela,Paraíso Escondido,Extraordinaria,10,61,12,7,1,0,4,0,0,0,95,0,4,99
+218,190,Compostela,Los Ayala,Extraordinaria,32,93,105,22,0,19,3,2,0,0,276,0,0,276
+219,191,Compostela,Nuevo Ixtlán,Básica,37,26,18,6,0,0,0,0,0,0,87,0,0,87
+220,191,Compostela,El Tamarindo,Extraordinaria,2,10,13,3,0,0,0,1,0,0,29,0,0,29
+221,192,Compostela,El Monteón,Básica,145,167,28,19,1,3,0,3,0,0,366,0,0,366
+222,193,Compostela,Chulavista,Básica,38,41,5,3,0,0,0,0,1,0,88,0,0,88
+223,194,Compostela,Villa Morelos,Básica,33,49,7,16,0,0,0,1,0,0,106,0,0,106
+224,195,Compostela,Ursulo Galvan,Básica,58,81,9,7,0,2,0,2,0,0,159,0,0,159
+226,196,Huajicori,Huajicori,Básica,125,262,73,23,0,0,0,0,0,0,483,0,12,495
+227,197,Huajicori,Huajicori,Básica,138,310,90,15,0,0,0,0,0,0,553,0,18,571
+228,198,Huajicori,El Contadero,Básica,28,71,16,7,0,0,0,0,0,0,122,0,0,122
+229,199,Huajicori,Cucharas,Básica,1,113,13,0,0,0,0,0,0,0,127,0,0,127
+230,200,Huajicori,Huitalota,Básica,6,71,1,1,0,0,0,0,0,0,79,0,0,79
+231,201,Huajicori,Las Campanas,Básica,9,19,2,1,0,0,0,0,0,0,31,0,0,31
+232,201,Huajicori,"El Salto, Mesa del Coco",Extraordinaria,6,12,28,1,0,0,0,0,0,0,47,0,8,55
+233,202,Huajicori,San Andrés Milpillas,Básica,26,137,36,5,0,0,0,0,0,0,204,0,19,223
+234,202,Huajicori,El Colomo,Extraordinaria,14,22,1,2,0,0,0,0,0,0,39,0,3,42
+235,203,Huajicori,Mesa de los Ricos,Básica,20,51,1,2,0,0,0,0,0,0,74,0,3,77
+236,203,Huajicori,Llano Grande,Extraordinaria,38,54,4,2,0,0,0,0,0,0,98,0,0,98
+237,203,Huajicori,La Murallita,Extraordinaria,19,41,2,2,0,0,0,0,0,0,64,0,0,64
+238,204,Huajicori,Acatita,Básica,13,71,6,2,0,0,0,0,0,0,92,0,4,96
+239,205,Huajicori,Guamuchilar,Básica,8,87,20,8,0,0,0,0,0,0,123,0,18,141
+240,206,Huajicori,San Francisco del Caimán,Básica,58,54,3,1,0,0,0,0,0,0,116,0,8,124
+241,207,Huajicori,El Zapotillo,Básica,9,59,4,0,0,0,0,0,0,0,72,0,3,75
+242,207,Huajicori,El Tepehuaje,Extraordinaria,7,32,1,0,0,0,0,0,0,0,40,0,2,42
+243,207,Huajicori,El Zonteco,Extraordinaria,12,23,10,0,0,0,0,0,0,0,45,0,0,45
+244,208,Huajicori,Quiviquinta,Básica,54,124,8,5,0,0,0,0,0,0,191,0,16,207
+245,209,Huajicori,Providencia,Básica,11,47,0,6,0,0,0,0,0,0,64,0,1,65
+246,209,Huajicori,La Quebrada,Extraordinaria,14,45,0,7,0,0,0,0,0,0,66,0,0,66
+247,210,Huajicori,Santa María de Picachos,Básica,37,29,23,5,0,0,0,1,1,0,96,0,3,99
+248,210,Huajicori,El Colorado,Extraordinaria,3,15,29,0,0,0,0,0,0,0,47,0,0,47
+249,211,Huajicori,Riyito,Básica,15,86,5,1,0,0,0,0,0,0,107,0,0,107
+250,212,Huajicori,La Guasima,Básica,17,20,5,0,0,0,0,0,0,0,42,0,0,42
+251,212,Huajicori,Las Sillas del Puyeque,Extraordinaria,3,31,7,0,0,0,0,0,0,0,41,0,0,41
+252,213,Huajicori,El Rodeo (de arriba),Básica,10,27,3,2,0,0,0,0,0,0,42,0,44,86
+253,213,Huajicori,Pachecos,Extraordinaria,22,37,8,1,0,0,0,0,0,0,68,0,4,72
+254,214,Huajicori,Estancia,Básica,35,61,12,2,0,0,0,0,0,0,110,0,5,115
+255,214,Huajicori,Valle Morelos,Extraordinaria,5,43,4,2,0,0,0,0,0,0,54,0,1,55
+257,215,Ixtlán del Río,Ixtlán del Río,Básica,201,194,16,12,2,0,81,286,0,1,793,0,28,821
+258,216,Ixtlán del Río,Ixtlán del Río,Básica,142,176,25,9,1,1,77,302,0,0,733,0,24,757
+259,217,Ixtlán del Río,Ixtlán del Río,Básica,83,128,4,22,0,0,39,195,0,0,471,0,6,477
+260,218,Ixtlán del Río,Ixtlán del Río,Básica,136,185,7,29,3,0,119,271,1,1,752,0,21,773
+261,219,Ixtlán del Río,Ixtlán del Río,Básica,92,125,13,3,0,0,36,128,0,0,397,0,17,414
+262,220,Ixtlán del Río,Ixtlán del Río,Básica,120,144,1,11,0,0,32,226,0,0,534,0,19,553
+263,221,Ixtlán del Río,Ixtlán del Río.,Básica,80,123,5,10,0,0,15,226,0,0,459,0,12,471
+264,222,Ixtlán del Río,Ixtlán del Río,Básica,108,212,17,11,0,0,6,250,0,0,604,0,9,613
+265,223,Ixtlán del Río,Ixtlán del Río,Básica,83,245,22,18,0,0,15,256,0,0,639,0,4,643
+266,224,Ixtlán del Río,Ixtlán del Río,Básica,64,168,8,17,0,1,26,130,0,0,414,0,4,418
+267,225,Ixtlán del Río,Ixtlán del Río,Básica,138,122,25,13,2,0,15,84,0,0,399,0,9,408
+268,226,Ixtlán del Río,Ixtlán del Río,Básica,139,162,13,5,2,0,17,144,0,1,483,0,10,493
+269,227,Ixtlán del Río,Ixtlán del Río,Básica,67,106,19,8,1,0,16,126,0,0,343,0,6,349
+270,228,Ixtlán del Río,Ixtlán del Río,Básica,85,122,6,3,0,0,2,148,0,0,366,0,8,374
+271,229,Ixtlán del Río,Ixtlán del Río,Básica,73,139,7,8,0,0,9,223,0,0,459,0,11,470
+272,230,Ixtlán del Río,Ixtlán del Río,Básica,61,122,8,6,0,0,43,81,0,0,321,3,8,332
+273,231,Ixtlán del Río,Ixtlán del Río,Básica,82,135,21,7,1,0,21,203,0,0,470,0,7,477
+274,232,Ixtlán del Río,Los Mezquites,Básica,30,25,0,4,0,0,27,24,0,0,110,0,10,120
+275,232,Ixtlán del Río,La Higuerita,Extraordinaria,30,4,0,1,0,0,18,5,0,0,58,0,2,60
+276,232,Ixtlán del Río,El Aguacate,Extraordinaria,14,8,0,1,0,0,18,8,0,0,49,0,5,54
+277,233,Ixtlán del Río,Cacalután.,Básica,86,39,0,5,2,0,32,27,0,0,191,0,15,206
+278,234,Ixtlán del Río,Rancho de Arriba,Básica,57,46,0,3,0,0,6,45,0,1,158,0,8,166
+279,235,Ixtlán del Río,San José de Gracia,Básica,54,77,2,1,0,0,3,67,0,0,204,0,6,210
+280,236,Ixtlán del Río,Mexpan,Básica,211,149,6,10,0,0,45,137,0,0,558,0,27,585
+281,237,Ixtlán del Río,San Clemente,Básica,37,30,0,4,0,0,9,8,0,0,88,0,2,90
+282,238,Ixtlán del Río,El Terrero,Básica,36,52,2,7,2,1,26,48,0,1,175,0,5,180
+284,239,Jala,Jala,Básica,120,166,0,19,4,0,2,0,0,0,311,0,13,324
+285,240,Jala,Jala,Básica,160,161,2,9,0,0,6,0,0,0,338,0,5,343
+286,241,Jala,Jala,Básica,290,200,1,31,0,0,3,0,0,0,525,0,13,538
+287,242,Jala,Jala,Básica,305,182,2,8,0,0,5,0,0,0,502,0,10,512
+288,243,Jala,Jala,Básica,219,131,0,12,2,0,9,1,0,0,374,0,5,379
+289,244,Jala,Jala,Básica,239,239,2,23,0,0,9,0,0,1,513,0,0,513
+290,245,Jala,Santa Fe,Básica,41,54,0,5,0,0,0,0,0,1,101,0,11,112
+291,246,Jala,El Ciruelo,Básica,5,20,0,26,0,0,0,1,0,0,52,0,2,54
+292,246,Jala,Cofradía de Buenos Aires,Extraordinaria,39,48,1,14,0,0,0,0,0,1,103,0,2,105
+293,247,Jala,Coapan,Básica,57,87,2,33,1,0,0,1,0,0,181,0,5,186
+294,248,Jala,Rosa Blanca,Básica,196,133,5,50,0,2,2,2,0,3,393,0,0,393
+295,249,Jala,Rosa Blanca,Básica,192,107,1,35,0,1,1,0,0,1,338,0,0,338
+296,250,Jala,Cofradía de Juanacatlán,Básica,106,203,3,22,0,0,0,0,0,0,334,0,10,344
+297,251,Jala,Francisco I. Madero,Básica,76,112,0,11,0,0,0,0,0,0,199,0,0,199
+298,252,Jala,Los Aguajes,Básica,147,380,0,2,2,0,0,0,0,1,532,0,15,547
+299,252,Jala,San Miguel de Buenavista,Extraordinaria,51,105,0,1,0,0,0,0,0,0,157,0,7,164
+300,253,Jala,Jomulco,Básica,387,261,6,33,1,0,5,0,0,2,695,0,0,695
+301,254,Jala,Jomulco,Básica,202,141,1,35,0,0,9,0,0,0,388,0,26,414
+302,255,Jala,Jomulco,Básica,157,119,1,22,0,1,2,0,0,0,302,0,6,308
+303,256,Jala,Jomulco,Básica,202,133,5,31,0,1,3,0,0,1,376,0,12,388
+305,257,El Nayar,Jesús María,Básica,70,89,53,13,0,0,0,93,0,0,318,,15,333
+306,258,El Nayar,Jesús María,Básica,89,198,70,19,0,0,0,225,0,0,601,,41,642
+307,259,El Nayar,Santa Teresa,Básica,102,215,16,3,0,0,0,102,0,0,438,,0,438
+308,259,El Nayar,Linda Vista,Extraordinaria,6,136,0,0,0,0,0,80,0,0,222,,0,222
+309,260,El Nayar,San Juan Peyotán,Básica,17,104,34,30,0,0,0,65,0,0,250,,0,250
+310,260,El Nayar,El Saucito Peyotán,Extraordinaria,10,61,19,4,0,0,0,2,0,0,96,,0,96
+311,261,El Nayar,San Francisco,Básica,50,109,26,2,0,0,0,32,0,1,220,,19,239
+312,262,El Nayar,Dolores,Básica,13,154,6,27,0,0,0,75,0,0,275,,12,287
+313,262,El Nayar,San Vicente,Extraordinaria,9,55,8,8,0,0,0,100,0,2,182,,1,183
+314,263,El Nayar,Arroyo de Santiago,Básica,3,7,52,0,0,0,0,24,0,0,86,,0,86
+315,264,El Nayar,Santa Rosa,Básica,12,65,37,0,0,0,0,2,1,1,118,,2,120
+316,264,El Nayar,La Guerra,Extraordinaria,4,27,19,1,0,1,0,4,0,0,56,,0,56
+317,265,El Nayar,Santa Barbara,Básica,62,12,19,3,3,0,0,28,0,2,129,,12,141
+318,266,El Nayar,Arroyo de Camarones,Básica,50,78,20,11,1,1,0,28,0,1,190,,28,218
+319,267,El Nayar,Mesa del Nayar,Básica,62,129,46,7,0,0,0,138,0,0,382,,32,414
+320,267,El Nayar,El Coyunque,Extraordinaria,4,44,1,2,1,0,0,63,0,0,115,,7,122
+321,267,El Nayar,Arroyo de Cañaveral,Extraordinaria,70,22,30,7,0,0,0,5,2,1,137,,10,147
+322,268,El Nayar,Santa Cruz de Guaybel,Básica,83,100,3,2,0,1,0,2,1,0,192,,0,192
+323,268,El Nayar,Las Estrellas,Extraordinaria,13,106,5,1,0,0,0,13,0,1,139,,9,148
+324,268,El Nayar,El Maguey,Extraordinaria,23,111,4,3,0,0,0,21,0,0,162,,16,178
+325,269,El Nayar,Gavilanes,Básica,14,112,2,72,0,0,0,42,0,0,242,,0,242
+326,270,El Nayar,Zoquipan,Básica,88,295,55,8,3,5,0,0,1,1,456,,78,534
+327,270,El Nayar,Jazmines de Coyultita,Extraordinaria,8,94,1,1,0,1,0,0,0,0,105,,1,106
+328,271,El Nayar,San Miguel del Zapote,Básica,14,151,3,3,0,0,0,12,0,0,183,,0,183
+329,271,El Nayar,Jazmín del Coquito,Extraordinaria,3,140,1,2,3,0,0,10,0,1,160,,27,187
+330,272,El Nayar,La Palmita,Básica,55,120,2,6,0,0,0,15,0,0,198,,14,212
+331,273,El Nayar,Huaynamota,Básica,56,139,5,1,3,0,0,1,0,0,205,,16,221
+332,273,El Nayar,Las Higueras,Extraordinaria,89,84,0,4,1,1,0,3,1,1,184,,4,188
+333,274,El Nayar,San Rafael,Básica,102,185,1,8,2,0,0,45,0,0,343,,23,366
+334,275,El Nayar,San Pablo,Básica,1,74,0,2,0,0,0,0,0,0,77,,0,77
+335,275,El Nayar,Higuera Gorda,Extraordinaria,46,54,2,2,1,0,0,1,0,0,106,,6,112
+336,276,El Nayar,Naranjito de Copal,Básica,29,127,0,1,0,0,0,17,1,0,175,,0,175
+337,276,El Nayar,Paso de Alica,Extraordinaria,84,56,0,0,0,0,0,5,0,0,145,,0,145
+338,276,El Nayar,El Roble,Extraordinaria,88,70,0,0,0,0,0,2,0,0,160,,0,160
+340,277,Rosamorada,Rosamorada,Básica,157,237,3,1,0,3,8,0,0,0,409,0,0,409
+341,277,Rosamorada,Minitas,Extraordinaria,44,40,1,0,0,1,0,0,0,0,86,0,0,86
+342,278,Rosamorada,Rosamorada,Básica,47,101,1,1,0,2,0,0,0,0,152,0,2,154
+343,278,Rosamorada,Providencia,Extraordinaria,86,73,0,0,0,0,0,0,0,1,160,0,0,160
+344,279,Rosamorada,Rosamorada,Básica,44,61,1,0,0,1,5,0,0,0,112,0,2,114
+345,280,Rosamorada,Rosamorada,Básica,67,78,0,0,0,4,2,0,0,1,152,0,1,153
+346,281,Rosamorada,Rosamorada,Básica,132,173,5,0,0,13,0,1,0,1,325,0,0,325
+347,282,Rosamorada,Rosamorada,Básica,146,208,1,0,0,0,6,0,0,0,361,0,15,376
+348,283,Rosamorada,Francisco Villa,Básica,101,99,6,0,2,1,0,2,0,2,213,0,0,213
+349,284,Rosamorada,Bonita,Básica,42,48,2,1,0,0,0,0,0,0,93,0,0,93
+350,285,Rosamorada,Teponahuaxtla,Básica,133,78,0,4,0,4,0,0,0,0,219,0,0,219
+351,286,Rosamorada,Pescadero,Básica,101,235,0,0,0,0,0,0,0,0,336,0,11,347
+352,286,Rosamorada,Abelardo L. Rodríguez,Extraordinaria,18,71,0,0,0,0,0,0,0,0,89,0,2,91
+353,287,Rosamorada,San Miguelito,Básica,132,147,5,1,0,0,0,1,0,0,286,0,0,286
+354,288,Rosamorada,Llano del Tigre,Básica,251,203,4,0,0,2,1,1,0,1,463,0,8,471
+355,289,Rosamorada,Zomatlán (Caimanero),Básica,265,275,3,1,0,4,0,0,0,0,548,0,11,559
+356,290,Rosamorada,Paramita,Básica,139,186,5,1,0,4,4,0,0,0,339,0,0,339
+357,291,Rosamorada,San Juan Bautista,Básica,187,231,3,5,0,5,0,2,0,0,433,0,20,453
+358,291,Rosamorada,Rosarito,Extraordinaria,36,19,0,0,0,0,0,1,0,0,56,0,9,65
+359,292,Rosamorada,Mojocuautla,Básica,27,110,0,0,0,0,0,1,0,0,138,0,12,150
+360,292,Rosamorada,Agua Aceda,Extraordinaria,28,45,0,0,0,0,0,0,0,0,73,0,12,85
+361,293,Rosamorada,Los Arrayanes,Básica,53,67,1,1,0,1,0,0,0,0,123,0,5,128
+362,294,Rosamorada,San Marcos Coyutlan,Básica,50,54,0,0,0,0,0,0,0,0,104,0,10,114
+363,295,Rosamorada,Cofradía de Coyutlán,Básica,236,194,0,0,0,1,0,2,0,0,433,0,18,451
+364,296,Rosamorada,Las Pilas,Básica,108,234,3,1,0,5,0,0,0,1,352,0,16,368
+365,297,Rosamorada,Paso Real del Bejuco,Básica,129,199,0,1,2,0,0,0,0,0,331,0,7,338
+366,298,Rosamorada,Chilapa,Básica,137,169,5,2,0,1,0,0,0,0,314,0,0,314
+367,299,Rosamorada,Chilapa,Básica,143,146,2,1,0,0,0,0,0,0,292,0,4,296
+368,300,Rosamorada,Chilapa,Básica,225,137,1,2,0,0,1,0,0,0,366,0,0,366
+369,301,Rosamorada,Colonia 18 de Marzo,Básica,326,313,2,2,2,0,0,0,0,0,645,0,0,645
+370,302,Rosamorada,Pericos,Básica,145,296,1,1,1,1,0,0,0,0,445,0,5,450
+371,303,Rosamorada,Pericos,Básica,118,162,0,2,0,1,0,0,0,3,286,0,2,288
+372,304,Rosamorada,Pericos,Básica,110,223,3,0,0,1,0,0,0,0,337,0,3,340
+373,305,Rosamorada,Pimientillo,Básica,91,188,0,0,0,0,0,0,0,0,279,0,3,282
+374,306,Rosamorada,Pimientillo,Básica,272,197,4,0,0,0,0,0,0,0,473,0,0,473
+375,307,Rosamorada,Los Medina,Básica,149,165,2,0,0,0,0,0,0,0,316,0,6,322
+376,308,Rosamorada,Vicente Guerrero,Básica,138,203,0,0,0,1,0,0,0,0,342,0,0,342
+377,309,Rosamorada,La Boquita,Básica,203,173,3,3,2,0,0,4,1,1,390,0,5,395
+378,310,Rosamorada,San Vicente,Básica,194,240,8,2,0,2,1,0,0,0,447,0,15,462
+379,311,Rosamorada,San Vicente,Básica,231,312,6,6,2,2,0,1,0,4,564,0,0,564
+380,311,Rosamorada,La Loma,Extraordinaria,59,50,0,0,2,0,1,1,0,0,113,0,16,129
+381,312,Rosamorada,San Vicente,Básica,114,208,1,1,0,1,0,0,0,0,325,0,6,331
+382,313,Rosamorada,San Vicente,Básica,138,169,0,0,0,1,0,0,0,0,308,0,6,314
+383,314,Rosamorada,El Tamarindo,Básica,178,192,0,1,0,1,0,1,0,0,373,0,10,383
+384,315,Rosamorada,El Tamarindo,Básica,213,143,1,1,0,1,1,0,0,0,360,0,6,366
+385,316,Rosamorada,El Ochenta,Básica,24,14,0,0,0,0,0,0,0,0,38,0,19,57
+386,316,Rosamorada,Los Leandros,Extraordinaria,38,23,0,1,0,0,0,0,0,0,62,0,7,69
+387,316,Rosamorada,Puente del Bejuco,Extraordinaria,14,31,1,0,0,0,0,0,0,0,46,0,1,47
+388,317,Rosamorada,Santa Fe,Básica,83,116,2,2,0,1,0,0,0,0,204,0,0,204
+389,318,Rosamorada,San Diego Naranjo,Básica,133,87,0,0,1,0,0,1,0,0,222,0,6,228
+390,319,Rosamorada,San Juan Corapan,Básica,21,106,1,3,0,0,0,0,0,0,131,0,0,131
+392,320,Ruiz,Ruiz,Básica,180,281,21,15,0,13,0,131,0,4,645,0,14,659
+393,321,Ruiz,Ruiz,Básica,159,245,20,13,0,19,0,58,0,0,514,0,10,524
+394,322,Ruiz,Ruiz,Básica,120,170,60,5,0,3,0,112,0,1,471,0,0,471
+395,323,Ruiz,Ruiz,Básica,128,181,26,11,0,3,0,120,0,1,470,0,22,492
+396,324,Ruiz,Ruiz,Básica,95,152,13,8,0,4,0,164,0,1,437,0,12,449
+397,325,Ruiz,Ruiz,Básica,119,137,9,8,0,2,0,36,0,0,311,0,0,311
+398,326,Ruiz,Ruiz,Básica,93,223,7,27,0,5,0,52,0,0,407,0,8,415
+399,327,Ruiz,Ruiz,Básica,119,128,4,16,0,15,0,70,0,0,352,0,0,352
+400,328,Ruiz,Ruiz,Básica,150,152,11,16,0,3,0,93,0,0,425,0,9,434
+401,329,Ruiz,Ruiz,Básica,132,151,11,17,1,3,0,85,0,0,400,0,0,400
+402,330,Ruiz,Ruiz,Básica,70,129,6,8,0,1,0,42,0,0,256,0,0,256
+403,331,Ruiz,Ruiz,Básica,99,141,3,7,0,1,0,99,0,0,350,0,0,350
+404,332,Ruiz,El Huicot,Básica,5,56,0,0,0,1,0,2,0,0,64,0,0,64
+405,333,Ruiz,San Pedro Ixcatan,Básica,63,142,3,3,0,0,0,34,0,1,246,0,9,255
+406,333,Ruiz,Presidio de los Reyes,Extraordinaria,41,143,2,0,1,0,0,42,0,0,229,0,10,239
+407,334,Ruiz,El Naranjo,Básica,12,51,2,0,1,0,0,22,0,1,89,0,0,89
+408,334,Ruiz,Chimaltita,Extraordinaria,4,36,0,0,0,0,0,20,0,2,62,0,4,66
+409,335,Ruiz,El Carrizo,Básica,15,69,3,2,0,2,0,8,0,0,99,0,9,108
+410,336,Ruiz,El Zopilote,Básica,133,60,0,3,1,0,0,30,0,0,227,0,0,227
+411,337,Ruiz,El Venado,Básica,100,159,11,3,0,0,0,46,0,0,319,0,13,332
+412,338,Ruiz,El Venado,Básica,112,82,5,5,0,2,0,20,0,0,226,0,17,243
+413,339,Ruiz,La Jarretadera,Básica,21,56,3,0,0,0,1,8,0,0,89,0,7,96
+414,340,Ruiz,Laguna del Mar,Básica,48,69,5,5,0,1,0,47,0,0,175,0,3,178
+415,341,Ruiz,San Lorenzo,Básica,59,96,8,1,0,10,0,54,0,2,230,0,5,235
+416,342,Ruiz,Juan Escutia,Básica,56,76,13,6,1,2,1,9,0,0,164,0,11,175
+417,343,Ruiz,Vado de San Pedro,Básica,83,212,13,8,1,5,1,79,1,0,403,0,8,411
+418,344,Ruiz,H. Batallón de San Blas,Básica,15,120,9,18,0,4,0,49,0,0,215,0,6,221
+419,345,Ruiz,Puerta de Platanares,Básica,32,128,3,2,0,0,0,40,0,0,205,0,1,206
+420,346,Ruiz,Cordón del Jilgero,Básica,46,64,2,2,0,0,0,6,0,1,121,0,0,121
+421,346,Ruiz,La Bolita,Extraordinaria,18,49,2,2,0,0,0,24,0,0,95,0,6,101
+422,346,Ruiz,El Refugio,Extraordinaria,14,37,2,0,0,0,0,7,0,0,60,0,0,60
+424,347,San Blas,San Blas,Básica,96,346,98,74,2,2,3,176,4,7,808,0,0,808
+425,348,San Blas,San Blas,Básica,64,194,102,37,0,0,7,99,0,4,507,0,0,507
+426,349,San Blas,San Blas,Básica,76,192,112,39,0,0,2,92,1,4,518,0,9,527
+427,350,San Blas,San Blas,Básica,76,220,123,88,0,1,0,132,7,3,650,0,13,663
+428,351,San Blas,San Blas,Básica,57,212,87,42,1,1,2,120,3,12,537,0,0,537
+429,352,San Blas,San Blas,Básica,54,215,114,43,0,0,3,66,2,10,507,0,0,507
+430,353,San Blas,La Goma,Básica,83,131,74,3,1,0,0,10,0,0,302,0,20,322
+431,354,San Blas,La Culebra,Básica,29,94,35,10,1,12,1,7,0,1,190,0,0,190
+432,355,San Blas,El Carleño,Básica,18,88,28,5,0,0,3,12,1,5,160,0,8,168
+433,356,San Blas,Autan,Básica,49,121,131,11,1,1,29,30,1,2,376,0,0,376
+434,357,San Blas,Autan,Básica,39,66,169,4,0,4,14,22,1,4,323,0,0,323
+435,358,San Blas,El Madrigaleño,Básica,22,92,53,10,0,1,1,65,2,0,246,0,8,254
+436,359,San Blas,Guadalupe Victoria,Básica,27,62,93,13,1,1,2,69,0,1,269,0,10,279
+437,360,San Blas,Guadalupe Victoria,Básica,51,93,138,33,0,0,3,75,2,1,396,0,0,396
+438,361,San Blas,Guadalupe Victoria,Básica,29,116,166,24,0,1,6,62,0,3,407,0,20,427
+439,362,San Blas,Pimientillo,Básica,21,61,28,7,0,1,0,50,1,1,170,0,5,175
+440,363,San Blas,Playa de Ramírez,Básica,29,6,18,3,0,0,1,18,1,2,78,0,1,79
+441,364,San Blas,El Capomo,Básica,13,38,39,7,1,0,1,3,2,1,105,0,4,109
+442,365,San Blas,Reforma Agraria,Básica,53,66,32,5,1,0,7,4,0,1,169,0,0,169
+443,366,San Blas,Huaristemba,Básica,60,66,153,7,0,0,0,3,0,5,294,0,8,302
+444,367,San Blas,Navarrete,Básica,153,250,50,13,0,2,4,22,3,3,500,0,8,508
+445,368,San Blas,Isla del Conde,Básica,28,95,16,11,0,0,1,72,3,1,227,0,4,231
+446,369,San Blas,Laureles y Góngora (El Ciruelo),Básica,12,135,34,21,0,3,6,84,8,0,303,0,27,330
+447,370,San Blas,Laureles y Góngora (El Limón),Básica,22,72,23,5,2,2,8,76,2,0,212,0,15,227
+448,371,San Blas,Boca del Asadero,Básica,6,4,1,9,0,0,0,39,0,0,59,0,3,62
+449,372,San Blas,La Chiripa,Básica,43,30,37,5,1,0,1,5,0,1,123,0,0,123
+450,373,San Blas,Chacalilla,Básica,30,140,12,2,0,0,0,8,1,0,193,0,5,198
+451,374,San Blas,Las Palmas,Básica,33,35,4,8,0,0,0,4,0,0,84,0,5,89
+452,375,San Blas,La Chiltera,Básica,5,55,14,1,0,0,0,7,0,0,82,0,0,82
+453,376,San Blas,La Libertad,Básica,150,213,30,29,0,1,1,113,0,2,539,0,13,552
+454,377,San Blas,Singayta,Básica,20,19,5,6,0,1,1,18,2,2,74,0,6,80
+455,378,San Blas,Pintadeño,Básica,17,44,11,3,0,0,0,12,0,0,87,0,0,87
+456,379,San Blas,Puerta de Lindavista,Básica,2,14,14,1,0,0,0,5,0,0,36,0,0,36
+457,380,San Blas,Huaynamota,Básica,0,68,11,2,0,0,0,3,0,0,84,0,0,84
+458,381,San Blas,José María Mercado,Básica,5,55,12,2,1,0,2,19,0,0,96,0,0,96
+459,382,San Blas,Mecatán,Básica,62,253,156,6,1,2,2,20,0,1,503,0,6,509
+460,383,San Blas,Mecatán,Básica,90,165,118,7,0,1,1,18,1,0,401,0,7,408
+461,384,San Blas,La Bajada,Básica,26,50,31,14,0,0,3,84,1,2,211,0,0,211
+462,385,San Blas,La Palma,Básica,19,140,138,14,0,0,3,101,0,1,416,0,19,435
+463,386,San Blas,Aticama,Básica,35,171,166,13,0,3,1,87,2,3,481,0,22,503
+464,387,San Blas,Jalcocotán,Básica,36,216,221,2,0,0,1,11,0,1,488,0,9,497
+465,388,San Blas,Jalcocotán,Básica,27,141,139,5,1,1,5,13,0,1,333,0,10,343
+466,389,San Blas,Jalcocotán,Básica,15,118,165,6,0,1,0,25,0,2,332,0,12,344
+467,390,San Blas,Jalcocotán,Básica,18,274,174,3,0,3,0,15,2,1,490,0,16,506
+468,391,San Blas,Tecuitata,Básica,7,50,55,1,1,0,0,10,0,0,124,0,0,124
+469,392,San Blas,Santa Cruz,Básica,70,176,91,7,0,1,5,59,2,1,412,0,7,419
+470,393,San Blas,Santa Cruz,Básica,12,62,62,3,0,0,2,67,1,0,209,0,0,209
+471,394,San Blas,El Cora,Básica,3,64,100,1,0,1,0,5,1,0,175,0,0,175
+472,395,San Blas,El Llano,Básica,60,156,62,31,1,1,0,51,3,4,369,0,14,383
+473,396,San Blas,Jolotemba,Básica,23,29,17,12,0,1,0,1,0,0,83,0,6,89
+474,397,San Blas,El Espino,Básica,2,29,18,2,0,1,0,2,0,0,54,0,0,54
+476,398,San Pedro Lagunillas,San Pedro Lagunillas,Básica,256,250,8,11,0,2,0,0,0,0,527,0,11,538
+477,399,San Pedro Lagunillas,San Pedro Lagunillas,Básica,309,196,2,5,0,1,0,0,0,0,513,0,0,513
+478,400,San Pedro Lagunillas,San Pedro Lagunillas,Básica,228,177,1,3,0,7,0,0,0,1,417,0,10,427
+479,401,San Pedro Lagunillas,San Pedro Lagunillas,Básica,227,149,9,3,0,1,0,0,0,0,389,0,8,397
+480,402,San Pedro Lagunillas,Tepetiltic,Básica,9,110,1,0,0,0,0,0,0,0,120,0,2,122
+481,403,San Pedro Lagunillas,Milpillas Bajas,Básica,54,67,9,1,0,0,0,0,0,0,131,0,5,136
+482,404,San Pedro Lagunillas,Las Guasimas,Básica,61,85,0,3,0,0,0,0,0,1,150,0,1,151
+483,404,San Pedro Lagunillas,La Puerta del Río,Extraordinaria,15,32,0,2,0,1,0,0,0,0,50,0,0,50
+484,405,San Pedro Lagunillas,Cerro Pelón,Básica,32,37,1,1,0,0,0,0,0,0,71,0,0,71
+485,406,San Pedro Lagunillas,Tequilita,Básica,134,143,0,3,1,2,0,1,0,0,284,0,0,284
+486,407,San Pedro Lagunillas,Amado Nervo,Básica,111,64,0,0,0,1,0,0,0,0,176,0,0,176
+487,408,San Pedro Lagunillas,Amado Nervo,Básica,250,84,0,2,0,0,1,0,0,1,338,0,0,338
+488,409,San Pedro Lagunillas,Amado Nervo,Básica,121,102,0,1,0,0,1,0,0,1,226,0,2,228
+489,410,San Pedro Lagunillas,Cuastecomate,Básica,132,274,0,3,2,1,0,0,0,2,414,0,5,419
+491,411,Santa María del Oro,Santa María del Oro,Básica,138,387,50,12,0,2,0,72,0,1,662,0,12,674
+492,411,Santa María del Oro,La Laguna,Extraordinaria,16,17,1,1,0,0,0,11,0,0,46,0,0,46
+493,412,Santa María del Oro,Santa María del Oro,Básica,302,520,62,3,0,1,0,55,0,0,943,0,12,955
+494,413,Santa María del Oro,Las Cuevas,Básica,40,46,12,3,2,0,0,6,0,0,109,0,2,111
+495,414,Santa María del Oro,Buckingham,Básica,90,117,0,3,1,0,0,8,0,1,220,0,6,226
+496,414,Santa María del Oro,Miguel Hidalgo,Extraordinaria,65,115,0,0,0,0,0,2,0,0,182,0,3,185
+497,415,Santa María del Oro,Colonia Moderna,Básica,145,179,11,4,0,0,0,7,0,0,346,0,9,355
+498,416,Santa María del Oro,San José de Mojarras,Básica,412,286,4,5,1,1,0,0,0,0,709,0,10,719
+499,417,Santa María del Oro,Rincón Calimayo,Básica,31,45,2,1,0,0,0,12,0,0,91,0,2,93
+500,417,Santa María del Oro,El Huanacaxtle,Extraordinaria,22,60,1,0,0,0,0,1,0,0,84,0,0,84
+501,418,Santa María del Oro,El Buruato,Básica,121,89,4,1,0,0,0,1,0,0,216,0,2,218
+502,419,Santa María del Oro,Cerro Blanco,Básica,79,192,2,10,1,0,0,6,0,0,290,0,8,298
+503,420,Santa María del Oro,La Labor,Básica,50,90,10,2,0,0,0,49,1,0,202,0,2,204
+504,421,Santa María del Oro,La Labor,Básica,175,357,42,17,0,0,0,159,0,1,751,0,14,765
+505,422,Santa María del Oro,El Limón,Básica,89,216,4,3,0,0,0,24,0,0,336,0,5,341
+506,422,Santa María del Oro,La Galinda,Extraordinaria,11,46,2,1,0,0,0,5,0,0,65,0,0,65
+507,423,Santa María del Oro,Cofradía de Acuitapilco,Básica,99,189,1,2,0,0,0,3,0,0,294,0,0,294
+508,423,Santa María del Oro,Cantiles El Pescuezón,Extraordinaria,62,48,1,0,0,0,0,0,4,0,115,0,0,115
+509,424,Santa María del Oro,Real de Acuitapilco,Básica,43,105,4,0,0,0,0,1,0,0,153,0,4,157
+510,424,Santa María del Oro,La Estanzuela,Extraordinaria,21,48,2,0,0,0,0,1,0,0,72,0,6,78
+511,425,Santa María del Oro,San Leonel,Básica,74,144,22,8,0,0,0,19,0,0,267,0,0,267
+512,426,Santa María del Oro,El Ermitaño,Básica,6,94,1,3,0,1,0,14,0,0,119,0,5,124
+513,427,Santa María del Oro,Zapotanito,Básica,138,322,6,0,1,0,0,23,0,0,490,0,6,496
+514,428,Santa María del Oro,Ocotillo.,Básica,29,46,2,2,0,0,0,3,0,0,82,0,6,88
+515,429,Santa María del Oro,Tequepexpan,Básica,126,233,3,11,3,3,0,53,0,2,434,3,19,456
+516,430,Santa María del Oro,Chapalilla,Básica,109,188,8,1,0,0,0,15,0,0,321,0,5,326
+517,431,Santa María del Oro,Chapalilla,Básica,149,140,7,2,1,5,0,23,0,1,328,0,5,333
+518,432,Santa María del Oro,El Torreón,Básica,34,66,1,1,0,0,0,11,0,0,113,0,4,117
+519,433,Santa María del Oro,El Ahualamo,Básica,202,398,6,23,0,0,0,60,0,1,690,0,15,705
+520,434,Santa María del Oro,Las Mesitas.,Básica,19,50,2,0,2,0,0,2,0,0,75,0,0,75
+522,435,Santiago Ixcuintla,Santiago Ixc.,Básica,93,230,3,7,0,0,0,1,0,0,334,0,30,364
+523,436,Santiago Ixcuintla,Santiago Ixc.,Básica,176,309,7,6,0,2,0,3,0,0,503,0,11,514
+524,437,Santiago Ixcuintla,Santiago Ixc.,Básica,292,421,9,4,0,2,0,1,0,0,729,1,17,747
+525,438,Santiago Ixcuintla,Santiago Ixc.,Básica,150,264,5,9,0,0,1,1,0,4,434,0,12,446
+526,439,Santiago Ixcuintla,Santiago Ixc.,Básica,111,146,4,3,0,0,0,0,0,0,264,0,5,269
+527,440,Santiago Ixcuintla,Santiago Ixc.,Básica,99,200,1,6,0,1,0,2,0,0,309,0,0,309
+528,441,Santiago Ixcuintla,Santiago Ixc.,Básica,177,223,2,22,1,3,0,1,0,0,429,0,30,459
+529,442,Santiago Ixcuintla,Santiago Ixc.,Básica,151,238,2,21,0,0,0,0,0,0,412,0,24,436
+530,443,Santiago Ixcuintla,Santiago Ixc.,Básica,136,240,3,6,0,0,0,0,0,0,385,0,14,399
+531,444,Santiago Ixcuintla,Santiago Ixc.,Básica,101,142,2,4,0,0,0,0,0,2,251,0,0,251
+532,445,Santiago Ixcuintla,Santiago Ixc.,Básica,63,147,2,7,0,0,0,0,0,0,219,0,0,219
+533,446,Santiago Ixcuintla,Santiago Ixc.,Básica,139,207,7,6,0,4,0,2,0,0,365,0,0,365
+534,447,Santiago Ixcuintla,Santiago Ixc.,Básica,216,259,3,4,0,2,0,0,0,0,484,0,0,484
+535,448,Santiago Ixcuintla,Santiago Ixc.,Básica,154,227,1,4,0,1,0,2,0,0,389,0,0,389
+536,449,Santiago Ixcuintla,Santiago Ixc.,Básica,38,135,1,1,0,0,0,1,0,0,176,0,5,181
+537,450,Santiago Ixcuintla,Santiago Ixc.,Básica,95,226,5,5,2,1,0,0,0,0,334,0,8,342
+538,451,Santiago Ixcuintla,Santiago Ixc.,Básica,158,362,4,9,2,1,1,1,0,0,538,0,17,555
+539,452,Santiago Ixcuintla,Santiago Ixc.,Básica,101,180,3,6,0,4,0,1,0,0,295,0,5,300
+540,453,Santiago Ixcuintla,Santiago Ixc.,Básica,95,90,4,5,0,2,0,1,0,0,197,0,4,201
+541,454,Santiago Ixcuintla,Santiago Ixc.,Básica,72,76,2,2,0,2,0,0,0,0,154,0,3,157
+542,455,Santiago Ixcuintla,Santiago Ixc.,Básica,141,158,1,8,0,4,0,0,0,0,312,0,4,316
+543,456,Santiago Ixcuintla,Santiago Ixc.,Básica,53,130,6,17,0,2,0,0,0,0,208,0,14,222
+544,457,Santiago Ixcuintla,Palmar de Cuautla,Básica,213,281,3,6,0,0,0,0,0,0,503,0,5,508
+545,458,Santiago Ixcuintla,Puerta De Palapares,Básica,175,191,2,1,0,0,0,0,0,0,369,0,6,375
+546,459,Santiago Ixcuintla,Santa Cruz,Básica,241,300,5,4,0,1,0,0,0,0,551,0,17,568
+547,460,Santiago Ixcuintla,San Andrés,Básica,178,239,2,10,0,0,0,0,0,0,429,0,0,429
+548,460,Santiago Ixcuintla,Cañada Grande,Extraordinaria,33,36,0,0,0,0,0,0,0,0,69,0,0,69
+549,460,Santiago Ixcuintla,Sinaloa,Extraordinaria,16,21,1,1,0,0,0,0,0,0,39,0,0,39
+550,461,Santiago Ixcuintla,Mayorquín,Básica,99,179,2,3,0,1,0,0,0,2,286,0,0,286
+551,462,Santiago Ixcuintla,El Mezcal,Básica,49,61,0,1,0,0,0,1,0,0,112,0,0,112
+552,463,Santiago Ixcuintla,Mexcaltitán,Básica,169,345,2,14,1,1,0,0,0,0,532,0,8,540
+553,464,Santiago Ixcuintla,Las Labores,Básica,62,115,2,10,0,0,0,0,0,1,190,0,24,214
+554,465,Santiago Ixcuintla,La Higuerita,Básica,140,251,4,9,1,4,0,1,2,3,415,0,0,415
+555,466,Santiago Ixcuintla,Rancho Nuevo,Básica,148,189,5,1,0,3,0,0,2,2,350,0,9,359
+556,467,Santiago Ixcuintla,Aztlán (El Quemado),Básica,53,92,1,5,0,0,0,0,0,1,152,0,10,162
+557,468,Santiago Ixcuintla,San Miguel 2,Básica,77,153,1,8,0,2,0,0,0,0,241,0,20,261
+558,469,Santiago Ixcuintla,El Limón,Básica,89,183,7,9,0,1,0,0,0,1,290,0,9,299
+559,470,Santiago Ixcuintla,Valle Morelos,Básica,148,247,6,8,1,4,0,4,0,0,418,0,12,430
+560,471,Santiago Ixcuintla,Pozo de Ibarra,Básica,72,117,3,7,0,8,0,0,0,0,207,0,0,207
+561,472,Santiago Ixcuintla,Pozo de Ibarra,Básica,152,182,12,7,0,24,0,0,0,0,377,0,8,385
+562,473,Santiago Ixcuintla,Pozo de Ibarra,Básica,132,195,6,3,0,7,0,0,1,0,344,0,8,352
+563,474,Santiago Ixcuintla,Pozo de Ibarra,Básica,150,168,16,1,0,5,0,0,0,1,341,0,6,347
+564,475,Santiago Ixcuintla,Paredones,Básica,54,125,1,16,0,0,0,0,0,0,196,0,0,196
+565,476,Santiago Ixcuintla,Pantano Grande,Básica,42,115,1,6,0,0,0,2,0,1,167,0,9,176
+566,477,Santiago Ixcuintla,Acaponetilla,Básica,35,109,17,4,0,0,0,0,0,0,165,4,8,177
+567,478,Santiago Ixcuintla,Las Parejas,Básica,36,116,7,4,0,1,0,2,0,1,167,0,0,167
+568,478,Santiago Ixcuintla,Emerita,Extraordinaria,16,35,4,5,0,0,0,0,0,0,60,0,0,60
+569,479,Santiago Ixcuintla,El Cantón,Básica,4,41,1,4,0,0,0,0,0,0,50,0,0,50
+570,480,Santiago Ixcuintla,Acatán de las Piñas,Básica,38,70,1,2,0,0,0,5,0,0,116,0,4,120
+571,480,Santiago Ixcuintla,Paso Real de Cahuipa,Extraordinaria,21,68,1,0,0,0,0,2,0,1,93,0,8,101
+572,480,Santiago Ixcuintla,Hacienda Vieja,Extraordinaria,16,28,2,1,0,0,0,0,0,0,47,0,0,47
+573,481,Santiago Ixcuintla,Redención,Básica,27,56,9,0,0,0,0,2,1,0,95,0,3,98
+574,482,Santiago Ixcuintla,Yago,Básica,117,257,21,5,0,0,0,2,0,0,402,0,0,402
+575,483,Santiago Ixcuintla,Yago,Básica,213,328,20,5,1,0,0,8,1,2,578,0,21,599
+576,484,Santiago Ixcuintla,Yago,Básica,137,253,13,14,0,0,0,5,0,0,422,0,5,427
+577,485,Santiago Ixcuintla,El Capomal,Básica,134,153,6,11,0,0,0,0,0,1,305,0,0,305
+578,486,Santiago Ixcuintla,El Capomal,Básica,43,88,5,7,0,0,0,1,0,1,145,0,0,145
+579,487,Santiago Ixcuintla,Puerta Azul,Básica,118,193,11,12,2,1,0,0,2,2,341,0,3,344
+580,487,Santiago Ixcuintla,Ojo de Agua,Extraordinaria,34,120,1,2,0,0,0,0,0,0,157,0,4,161
+581,487,Santiago Ixcuintla,Loma Bonita,Extraordinaria,14,17,2,3,0,0,0,0,1,0,37,0,0,37
+582,488,Santiago Ixcuintla,El Puente de Tuxpan,Básica,132,196,5,3,0,2,0,0,0,2,340,0,11,351
+583,489,Santiago Ixcuintla,Col. Emiliano Zapata,Básica,83,162,2,6,1,0,0,1,0,1,256,0,13,269
+584,489,Santiago Ixcuintla,El Novillero,Extraordinaria,25,44,1,5,0,0,0,0,0,0,75,0,7,82
+585,490,Santiago Ixcuintla,Col. Emiliano Zapata,Básica,99,143,2,4,1,1,0,0,0,0,250,0,0,250
+586,491,Santiago Ixcuintla,Pozo de Villa,Básica,154,92,1,4,0,1,0,0,0,0,252,0,0,252
+587,492,Santiago Ixcuintla,El Gavilán Chico,Básica,60,95,3,11,0,1,0,0,0,0,170,0,17,187
+588,493,Santiago Ixcuintla,Sentispac,Básica,199,266,6,32,3,0,0,0,0,1,507,0,23,530
+589,494,Santiago Ixcuintla,Sentispac,Básica,107,128,3,25,0,0,0,0,0,0,263,0,10,273
+590,495,Santiago Ixcuintla,Sentispac,Básica,113,174,3,33,0,0,0,0,0,0,323,0,0,323
+591,496,Santiago Ixcuintla,Campo de los Limones,Básica,118,138,1,31,2,1,0,0,1,0,292,0,17,309
+592,497,Santiago Ixcuintla,Boca de Camichin,Básica,147,160,1,109,0,0,0,0,0,2,419,0,28,447
+593,498,Santiago Ixcuintla,Los Corchos,Básica,125,253,6,10,0,2,0,0,0,1,397,0,9,406
+594,499,Santiago Ixcuintla,Toro Mocho,Básica,11,125,1,1,1,0,0,1,0,0,140,0,3,143
+595,500,Santiago Ixcuintla,Pueblo Nuevo,Básica,28,107,5,8,0,0,0,0,0,0,148,0,0,148
+596,501,Santiago Ixcuintla,Cerritos,Básica,62,111,2,38,0,0,0,0,0,0,213,0,0,213
+597,502,Santiago Ixcuintla,Gavilán Grande,Básica,135,200,9,20,2,4,0,1,0,2,373,0,24,397
+598,503,Santiago Ixcuintla,Amapa,Básica,170,198,4,14,1,0,0,1,0,1,389,0,28,417
+599,504,Santiago Ixcuintla,Amapa,Básica,102,198,2,25,0,0,0,3,0,1,331,0,16,347
+600,505,Santiago Ixcuintla,La Presa,Básica,130,311,8,14,0,0,0,4,0,0,467,0,0,467
+601,506,Santiago Ixcuintla,La Presa,Básica,81,135,10,5,0,1,1,1,0,0,234,0,13,247
+602,507,Santiago Ixcuintla,La Presa,Básica,116,206,18,3,0,2,0,0,0,0,345,0,11,356
+603,508,Santiago Ixcuintla,La Presa,Básica,140,284,12,22,1,0,0,2,0,1,462,0,12,474
+604,509,Santiago Ixcuintla,San Isidro,Básica,71,134,6,6,0,0,0,7,0,0,224,0,0,224
+605,510,Santiago Ixcuintla,Valle Zaragoza,Básica,63,138,8,6,0,0,0,5,1,0,221,0,0,221
+606,511,Santiago Ixcuintla,El Tizate,Básica,142,248,27,6,0,0,0,6,0,0,429,0,16,445
+607,512,Santiago Ixcuintla,Valle Lerma,Básica,127,199,16,8,0,0,0,11,0,0,361,0,26,387
+608,513,Santiago Ixcuintla,El Nanche,Básica,76,190,12,3,0,1,0,8,0,1,291,0,10,301
+609,514,Santiago Ixcuintla,Corral de Piedra,Básica,17,70,3,1,0,0,0,0,0,1,92,0,0,92
+610,514,Santiago Ixcuintla,El Colomo,Extraordinaria,16,28,1,0,0,0,0,0,0,1,46,0,0,46
+611,515,Santiago Ixcuintla,Vado del Cora,Básica,47,144,30,18,2,2,0,2,0,0,245,0,0,245
+612,516,Santiago Ixcuintla,El Tambor,Básica,44,131,82,4,0,0,0,2,0,0,263,0,4,267
+613,517,Santiago Ixcuintla,Mojarritas,Básica,86,88,19,12,2,0,0,5,0,0,212,0,0,212
+614,518,Santiago Ixcuintla,Las Higueras,Básica,16,68,1,3,0,1,0,1,0,0,90,0,0,90
+615,519,Santiago Ixcuintla,El Papalote,Básica,30,105,6,18,0,1,0,5,0,0,165,0,7,172
+616,520,Santiago Ixcuintla,Patroneño,Básica,126,157,11,27,0,0,0,0,0,0,321,0,28,349
+617,521,Santiago Ixcuintla,Villa Hidalgo,Básica,48,132,18,52,0,1,0,16,0,0,267,0,16,283
+618,522,Santiago Ixcuintla,Villa Hidalgo,Básica,87,152,27,120,0,1,0,4,0,0,391,0,11,402
+619,523,Santiago Ixcuintla,Villa Hidalgo,Básica,120,214,15,101,0,0,1,18,0,1,470,0,25,495
+620,524,Santiago Ixcuintla,Villa Hidalgo,Básica,31,123,22,74,0,0,0,0,0,0,250,0,0,250
+621,525,Santiago Ixcuintla,Villa Hidalgo,Básica,47,99,9,57,0,1,0,3,0,1,217,0,0,217
+622,526,Santiago Ixcuintla,Villa Hidalgo,Básica,73,187,5,156,0,1,0,11,0,0,433,0,0,433
+623,527,Santiago Ixcuintla,Villa Hidalgo,Básica,92,145,11,70,0,0,0,2,0,0,320,0,8,328
+624,528,Santiago Ixcuintla,Villa Hidalgo,Básica,74,227,26,102,1,5,0,36,0,1,472,0,19,491
+625,529,Santiago Ixcuintla,Villa Hidalgo,Básica,51,113,18,51,1,0,0,22,0,0,256,0,20,276
+626,530,Santiago Ixcuintla,Villa Hidalgo,Básica,32,134,13,45,0,1,0,23,0,0,248,0,19,267
+627,531,Santiago Ixcuintla,Villa Hidalgo,Básica,84,157,18,80,0,2,0,53,0,0,394,0,40,434
+628,532,Santiago Ixcuintla,El Botadero,Básica,157,323,53,38,0,1,0,1,1,0,574,0,45,619
+629,533,Santiago Ixcuintla,El Turco,Básica,14,24,3,16,0,0,0,13,0,0,70,0,6,76
+630,534,Santiago Ixcuintla,Puerta de Mangos,Básica,98,85,5,8,1,0,0,0,0,2,199,0,8,207
+631,535,Santiago Ixcuintla,Puerta de Mangos,Básica,127,126,2,8,0,0,0,0,0,0,263,1,8,272
+632,536,Santiago Ixcuintla,Puerta de Mangos,Básica,69,158,0,9,0,0,0,0,0,1,237,0,0,237
+633,537,Santiago Ixcuintla,Cañada del Tabaco,Básica,131,108,9,10,1,1,0,2,0,0,262,0,0,262
+634,538,Santiago Ixcuintla,Cañada del Tabaco,Básica,141,180,6,4,0,0,0,0,0,0,331,0,0,331
+635,539,Santiago Ixcuintla,Villa Juárez,Básica,114,159,22,26,2,0,0,2,0,2,327,0,15,342
+636,540,Santiago Ixcuintla,Villa Juárez,Básica,145,177,23,17,0,1,0,0,1,2,366,0,21,387
+637,541,Santiago Ixcuintla,Villa Juárez,Básica,131,229,33,20,0,0,0,4,0,0,417,0,0,417
+638,542,Santiago Ixcuintla,Los Otates,Básica,215,232,8,9,0,1,0,1,0,0,466,0,0,466
+639,542,Santiago Ixcuintla,Santa Rosa,Extraordinaria,38,52,4,6,0,0,0,0,0,0,100,0,6,106
+640,543,Santiago Ixcuintla,El Corte,Básica,221,236,68,17,3,1,0,19,2,0,567,0,29,596
+641,544,Santiago Ixcuintla,El Corte,Básica,93,145,12,6,1,1,0,2,0,0,260,0,16,276
+642,545,Santiago Ixcuintla,Sauta,Básica,68,225,42,26,0,1,0,28,0,0,390,0,0,390
+643,546,Santiago Ixcuintla,Sauta,Básica,76,161,13,8,0,0,0,8,1,0,267,1,9,277
+644,546,Santiago Ixcuintla,La Guinea,Extraordinaria,18,33,13,2,0,0,0,5,2,2,75,0,2,77
+646,547,Tecuala,Tecuala,Básica,70,87,91,4,0,0,0,0,0,0,252,0,9,261
+647,548,Tecuala,Tecuala,Básica,93,156,100,12,1,0,0,0,0,0,362,0,9,371
+648,549,Tecuala,Tecuala,Básica,134,145,74,19,10,2,0,0,0,0,384,0,0,384
+649,550,Tecuala,Tecuala,Básica,129,158,124,10,8,1,0,0,0,0,430,0,0,430
+650,550,Tecuala,"Agua Verde, El Salto",Extraordinaria,30,56,41,12,0,0,0,0,0,0,139,0,6,145
+651,551,Tecuala,Tecuala,Básica,108,173,107,28,3,0,2,0,0,0,421,0,17,438
+652,552,Tecuala,Tecuala,Básica,93,228,92,20,0,0,0,0,0,0,433,0,14,447
+653,553,Tecuala,Tecuala,Básica,43,105,91,18,1,0,0,0,0,0,258,0,34,292
+654,554,Tecuala,Tecuala,Básica,91,193,101,20,0,0,0,0,0,0,405,0,0,405
+655,555,Tecuala,Tecuala,Básica,79,165,67,15,0,0,0,0,0,0,326,0,11,337
+656,556,Tecuala,Tecuala,Básica,58,106,46,12,0,0,0,0,0,0,222,0,0,222
+657,557,Tecuala,Tecuala,Básica,65,97,18,4,0,0,0,0,0,0,184,0,5,189
+658,558,Tecuala,Tecuala,Básica,71,114,63,12,0,0,0,0,0,0,260,0,7,267
+659,559,Tecuala,Tecuala,Básica,86,92,56,11,1,0,0,0,0,0,246,0,5,251
+660,560,Tecuala,Tecuala,Básica,76,97,58,35,0,0,0,0,0,0,266,0,5,271
+661,561,Tecuala,Tecuala,Básica,133,116,52,20,0,0,0,0,0,0,321,0,3,324
+662,562,Tecuala,Tecuala,Básica,71,150,61,55,0,1,0,0,0,0,338,0,6,344
+663,563,Tecuala,Tecuala,Básica,138,198,49,9,0,1,0,0,0,0,395,0,8,403
+664,564,Tecuala,Tecuala,Básica,75,192,125,20,1,2,0,0,0,0,415,0,0,415
+665,565,Tecuala,El Roblito,Básica,8,66,23,5,0,0,0,0,0,0,102,0,0,102
+666,566,Tecuala,Las Arenitas,Básica,9,49,6,6,0,0,0,0,0,0,70,0,0,70
+667,567,Tecuala,San Cayetano,Básica,31,259,73,8,1,0,0,0,0,0,372,0,4,376
+668,567,Tecuala,La Puntilla,Extraordinaria,22,37,6,6,0,0,0,0,0,0,71,0,3,74
+669,568,Tecuala,Pajaritos,Básica,59,232,122,12,0,0,0,0,0,0,425,0,4,429
+670,569,Tecuala,Huajuquilla,Básica,59,54,75,20,0,0,0,0,0,0,208,0,4,212
+671,570,Tecuala,Camalotita,Básica,127,153,95,172,0,2,7,0,0,0,556,0,31,587
+672,571,Tecuala,San Felipe Aztatan,Básica,56,110,32,279,0,1,0,0,0,1,479,0,9,488
+673,572,Tecuala,San Felipe Aztatan,Básica,226,195,20,18,0,0,0,0,0,0,459,0,0,459
+674,573,Tecuala,San Felipe Aztatan,Básica,179,219,22,32,0,0,0,0,0,0,452,0,0,452
+675,574,Tecuala,San Felipe Aztatan,Básica,157,217,30,20,1,1,0,0,0,0,426,0,0,426
+676,575,Tecuala,San Felipe Aztatan,Básica,182,187,57,51,0,7,0,0,1,0,485,0,9,494
+677,576,Tecuala,El Filo,Básica,247,149,78,7,0,0,0,0,0,0,481,0,0,481
+678,577,Tecuala,Milpas Viejas,Básica,52,237,57,6,1,0,0,0,0,0,353,0,0,353
+679,578,Tecuala,Milpas Viejas,Básica,187,237,78,16,1,0,0,0,0,0,519,0,0,519
+680,579,Tecuala,Atotonilco,Básica,84,81,128,73,1,1,1,0,0,1,370,0,0,370
+681,580,Tecuala,Río Viejo,Básica,175,197,55,44,0,0,0,1,1,0,473,0,5,478
+682,581,Tecuala,Paso Hondo,Básica,79,175,49,6,0,0,1,0,0,0,310,0,3,313
+683,582,Tecuala,El Novillero,Básica,62,202,168,25,1,3,0,0,0,0,461,0,29,490
+684,583,Tecuala,Quimichis,Básica,38,199,253,8,0,0,0,0,0,0,498,0,0,498
+685,584,Tecuala,Quimichis,Básica,49,165,259,9,0,1,0,0,0,0,483,0,6,489
+686,585,Tecuala,Quimichis,Básica,42,142,119,11,0,0,0,0,0,0,314,0,0,314
+687,586,Tecuala,Quimichis,Básica,31,153,135,26,0,0,0,0,0,0,345,1,9,355
+688,587,Tecuala,El Arrayan,Básica,87,131,67,102,0,2,0,0,0,0,389,0,14,403
+689,588,Tecuala,La Presa,Básica,32,130,239,94,2,1,0,0,0,1,499,0,11,510
+690,589,Tecuala,Tierras Generosas,Básica,6,81,67,1,0,1,0,0,0,0,156,4,0,160
+691,590,Tecuala,Palos Blancos,Básica,13,22,17,2,0,0,0,0,0,1,55,0,6,61
+692,590,Tecuala,Guamuchilillo,Extraordinaria,6,16,8,19,0,0,0,0,0,1,50,0,0,50
+693,591,Tecuala,El Limón,Básica,218,126,88,36,2,3,0,0,0,0,473,0,12,485
+694,592,Tecuala,Colonia Xochimilco,Básica,49,66,26,9,0,4,0,0,0,0,154,0,0,154
+695,593,Tecuala,Pozo de la Higuera,Básica,26,127,14,12,1,1,0,1,0,0,182,0,2,184
+696,594,Tecuala,Los Morillos,Básica,17,80,20,27,0,7,0,0,0,0,151,0,0,151
+697,595,Tecuala,Antonio R. Laureles,Básica,7,64,42,78,0,2,0,0,0,0,193,0,1,194
+698,596,Tecuala,Las Lumbres,Básica,11,73,13,42,0,1,0,0,0,1,141,0,0,141
+700,597,Tepic,Tepic,Básica,61,109,71,6,4,0,1,0,0,0,252,0,19,271
+701,598,Tepic,Tepic,Básica,227,606,201,92,3,0,0,26,0,0,1155,0,91,1246
+702,599,Tepic,Tepic,Básica,39,132,25,20,2,0,0,0,0,0,218,0,8,226
+703,600,Tepic,Tepic,Básica,81,314,56,21,4,3,2,0,0,0,481,0,21,502
+704,601,Tepic,Tepic,Básica,205,372,125,18,11,0,2,4,0,0,737,0,0,737
+705,602,Tepic,Tepic,Básica,150,376,93,11,5,0,1,2,0,0,638,0,14,652
+706,603,Tepic,Tepic,Básica,91,299,48,6,0,0,6,6,0,0,456,0,28,484
+707,604,Tepic,Tepic,Básica,80,236,41,7,2,0,1,2,0,0,369,0,7,376
+708,605,Tepic,Tepic,Básica,99,246,39,13,4,1,1,7,0,1,411,0,11,422
+709,606,Tepic,Tepic,Básica,105,325,39,11,5,0,4,2,0,0,491,0,10,501
+710,607,Tepic,Tepic,Básica,198,383,94,15,4,0,2,14,4,0,714,0,54,768
+711,608,Tepic,Tepic,Básica,128,376,103,45,19,2,1,15,1,2,692,0,14,706
+712,609,Tepic,Tepic,Básica,194,565,115,33,3,0,1,4,2,1,918,0,33,951
+713,609,Tepic,Tepic,Extraordinaria,183,428,89,32,10,1,0,3,1,0,747,0,14,761
+714,609,Tepic,Tepic,Extraordinaria,95,219,80,17,2,3,1,2,0,0,419,0,11,430
+715,610,Tepic,Tepic,Básica,301,561,130,42,9,2,5,3,0,0,1053,0,9,1062
+716,611,Tepic,Tepic,Básica,182,548,157,40,4,3,0,3,1,0,938,0,34,972
+717,611,Tepic,Tepic,Extraordinaria,117,410,80,25,4,0,4,1,1,2,644,0,0,644
+718,612,Tepic,Tepic,Básica,186,433,73,35,4,1,4,0,0,0,736,0,0,736
+719,612,Tepic,Tepic,Extraordinaria,56,138,55,13,2,0,2,0,0,0,266,0,2,268
+720,613,Tepic,Tepic,Básica,193,393,61,23,9,0,3,3,0,1,686,0,27,713
+721,614,Tepic,Tepic,Básica,158,244,53,10,2,1,2,0,0,0,470,0,7,477
+722,615,Tepic,Tepic,Básica,162,360,58,19,3,0,1,0,0,0,603,0,4,607
+723,616,Tepic,Tepic,Básica,176,429,89,18,4,0,0,0,0,0,716,0,14,730
+724,617,Tepic,Tepic,Básica,171,485,108,31,8,1,1,1,0,1,807,0,11,818
+725,618,Tepic,Tepic,Básica,75,185,60,9,3,0,0,0,1,0,333,0,7,340
+726,619,Tepic,Tepic,Básica,60,170,57,12,1,0,0,1,0,0,301,0,0,301
+727,620,Tepic,Tepic,Básica,120,268,65,6,4,1,1,0,0,0,465,0,6,471
+728,621,Tepic,Tepic,Básica,110,327,64,22,2,1,0,0,0,0,526,0,14,540
+729,622,Tepic,Tepic,Básica,102,235,51,10,1,0,1,1,0,1,402,0,0,402
+730,623,Tepic,Tepic,Básica,127,366,55,19,2,0,1,6,1,0,577,0,16,593
+731,624,Tepic,Tepic,Básica,65,254,46,5,2,1,4,3,0,0,380,0,0,380
+732,625,Tepic,Tepic,Básica,65,225,37,11,1,0,0,3,0,0,342,0,6,348
+733,626,Tepic,Tepic,Básica,169,364,79,16,4,0,6,5,0,1,644,0,13,657
+734,627,Tepic,Tepic,Básica,172,364,81,18,11,3,2,1,0,0,652,0,10,662
+735,628,Tepic,Tepic,Básica,132,356,63,14,3,0,0,1,0,0,569,0,0,569
+736,629,Tepic,Tepic,Básica,94,267,129,19,1,0,5,5,0,0,520,0,9,529
+737,630,Tepic,Tepic,Básica,109,341,137,26,2,0,0,1,0,0,616,0,0,616
+738,631,Tepic,Tepic,Básica,170,399,96,31,8,2,1,0,0,0,707,0,0,707
+739,632,Tepic,Tepic,Básica,127,317,75,38,8,0,4,2,1,0,572,0,34,606
+740,633,Tepic,Tepic,Básica,184,426,105,20,9,0,2,10,0,0,756,0,25,781
+741,633,Tepic,Tepic,Extraordinaria,114,276,67,7,4,2,2,2,0,0,474,0,4,478
+742,634,Tepic,Tepic,Básica,290,607,133,13,5,0,0,0,0,0,1048,0,11,1059
+743,634,Tepic,Tepic,Extraordinaria,84,221,46,6,2,0,0,0,0,0,359,0,2,361
+744,635,Tepic,Tepic,Básica,172,429,113,20,8,1,5,8,1,2,759,0,25,784
+745,636,Tepic,Tepic,Básica,80,214,48,11,2,0,1,0,0,0,356,0,24,380
+746,637,Tepic,Tepic,Básica,103,272,40,26,2,0,0,5,0,0,448,0,18,466
+747,638,Tepic,Tepic,Básica,82,206,41,11,0,0,5,5,0,0,350,0,9,359
+748,639,Tepic,Tepic,Básica,144,314,49,17,3,0,6,0,0,0,533,0,0,533
+749,640,Tepic,Tepic,Básica,152,410,39,11,5,1,0,1,0,0,619,0,10,629
+750,641,Tepic,Tepic,Básica,60,230,36,3,0,0,2,0,0,0,331,0,9,340
+751,642,Tepic,Tepic,Básica,104,213,49,13,2,0,3,1,1,0,386,0,9,395
+752,643,Tepic,Tepic,Básica,145,338,105,10,5,0,1,0,0,0,604,0,11,615
+753,644,Tepic,Tepic,Básica,145,298,78,13,3,0,0,0,0,0,537,0,11,548
+754,645,Tepic,Tepic,Básica,146,336,73,12,9,0,0,0,0,0,576,0,12,588
+755,646,Tepic,Tepic,Básica,176,393,103,28,5,2,0,0,0,0,707,0,13,720
+756,647,Tepic,Tepic,Básica,95,186,56,7,2,2,0,0,0,0,348,3,10,361
+757,648,Tepic,Tepic,Básica,100,196,48,9,12,0,6,0,0,0,371,0,9,380
+758,649,Tepic,Tepic,Básica,78,200,44,2,2,0,0,2,1,0,329,0,7,336
+759,650,Tepic,Tepic,Básica,47,240,62,6,3,1,0,0,0,0,359,0,10,369
+760,651,Tepic,Tepic,Básica,199,350,129,18,3,0,8,2,0,2,711,0,0,711
+761,652,Tepic,Tepic,Básica,121,234,75,12,4,1,3,0,0,0,450,0,10,460
+762,653,Tepic,Tepic,Básica,123,174,71,12,5,0,2,0,0,0,387,0,7,394
+763,654,Tepic,Tepic,Básica,118,201,64,7,2,4,2,0,0,0,398,0,7,405
+764,655,Tepic,Tepic,Básica,96,250,58,16,5,2,2,2,0,0,431,0,0,431
+765,656,Tepic,Tepic,Básica,112,345,67,14,2,1,2,0,0,0,543,0,17,560
+766,657,Tepic,Tepic,Básica,122,254,34,10,1,0,2,0,0,0,423,0,0,423
+767,658,Tepic,Tepic,Básica,134,322,96,14,6,1,0,5,1,1,580,0,11,591
+768,659,Tepic,Tepic,Básica,107,178,55,4,3,1,2,1,1,0,352,1,18,371
+769,660,Tepic,Tepic,Básica,97,265,46,8,3,2,4,0,0,0,425,0,15,440
+770,661,Tepic,Tepic,Básica,112,172,66,15,14,0,1,0,13,0,393,0,12,405
+771,662,Tepic,Tepic,Básica,149,394,90,11,3,0,9,0,1,1,658,0,3,661
+772,663,Tepic,Tepic,Básica,268,380,179,8,8,0,0,0,0,0,843,0,7,850
+773,664,Tepic,Tepic,Básica,211,303,213,13,14,4,1,0,0,0,759,1,3,763
+774,665,Tepic,Tepic,Básica,199,269,139,8,6,1,2,0,0,0,624,0,9,633
+775,666,Tepic,Tepic,Básica,184,266,82,3,14,0,0,0,0,0,549,0,7,556
+776,667,Tepic,Tepic,Básica,123,255,77,10,2,0,0,1,0,0,468,0,6,474
+777,668,Tepic,Tepic,Básica,138,205,58,10,1,0,4,0,0,0,416,0,7,423
+778,669,Tepic,Tepic,Básica,148,194,84,17,1,0,0,0,0,0,444,0,5,449
+779,670,Tepic,Tepic,Básica,97,225,81,12,2,0,7,2,1,0,427,0,3,430
+780,671,Tepic,Tepic,Básica,95,94,57,1,2,0,0,0,0,0,249,0,0,249
+781,672,Tepic,Tepic,Básica,35,36,12,1,1,1,0,0,0,0,86,0,0,86
+782,673,Tepic,Tepic,Básica,126,175,38,3,5,0,0,0,0,0,347,0,11,358
+783,674,Tepic,Tepic,Básica,95,161,42,6,2,0,0,0,0,0,306,0,3,309
+784,675,Tepic,Tepic,Básica,56,121,55,7,8,0,1,0,0,0,248,0,0,248
+785,676,Tepic,Tepic,Básica,169,407,81,10,8,1,2,1,0,0,679,0,13,692
+786,677,Tepic,Tepic,Básica,132,255,78,14,6,1,0,0,0,0,486,0,0,486
+787,678,Tepic,Tepic,Básica,144,351,77,11,9,2,1,0,0,1,596,0,12,608
+788,679,Tepic,Tepic,Básica,118,380,72,38,12,3,5,8,1,1,638,0,29,667
+789,680,Tepic,Tepic,Básica,119,248,74,12,5,0,0,0,0,0,458,0,0,458
+790,681,Tepic,Tepic,Básica,169,253,84,7,8,0,1,0,1,0,523,0,9,532
+791,682,Tepic,Tepic,Básica,82,74,42,3,1,1,0,0,0,0,203,0,2,205
+792,683,Tepic,Tepic,Básica,40,91,38,3,5,1,0,0,0,0,178,0,3,181
+793,684,Tepic,Tepic,Básica,63,58,42,5,1,0,0,0,0,0,169,0,2,171
+794,685,Tepic,Tepic,Básica,137,148,39,9,2,1,3,0,0,0,339,0,5,344
+795,686,Tepic,Tepic,Básica,68,91,62,1,0,1,0,0,0,0,223,0,3,226
+796,687,Tepic,Tepic,Básica,129,248,101,28,2,1,0,0,0,0,509,0,14,523
+797,688,Tepic,Tepic,Básica,149,192,73,10,4,0,0,0,0,0,428,0,8,436
+798,689,Tepic,Tepic,Básica,129,176,54,5,6,1,0,0,0,0,371,0,6,377
+799,690,Tepic,Tepic,Básica,79,126,84,2,4,0,2,0,0,0,297,0,5,302
+800,691,Tepic,Tepic,Básica,121,235,59,11,2,4,1,0,0,0,433,0,9,442
+801,692,Tepic,Tepic,Básica,160,259,53,6,4,5,2,0,0,1,490,0,5,495
+802,693,Tepic,Tepic,Básica,119,295,99,15,1,2,1,0,0,0,532,3,23,558
+803,694,Tepic,Tepic,Básica,101,317,79,46,5,1,0,0,0,0,549,0,30,579
+804,695,Tepic,Tepic,Básica,247,604,121,38,7,1,2,0,0,0,1020,0,67,1087
+805,696,Tepic,Tepic,Básica,253,303,114,12,2,2,1,0,0,0,687,0,11,698
+806,697,Tepic,Tepic,Básica,98,183,123,5,10,0,0,0,0,0,419,0,6,425
+807,698,Tepic,Tepic,Básica,88,166,62,8,2,0,1,0,0,0,327,0,3,330
+808,699,Tepic,Tepic,Básica,85,174,41,1,2,0,0,0,0,0,303,0,1,304
+809,700,Tepic,Tepic,Básica,198,221,122,10,4,9,0,1,0,0,565,0,12,577
+810,701,Tepic,Tepic,Básica,227,388,162,20,7,1,1,0,0,0,806,0,4,810
+811,702,Tepic,Tepic,Básica,175,328,104,16,4,3,0,1,0,0,631,0,0,631
+812,703,Tepic,Tepic,Básica,146,188,88,18,7,0,0,0,0,0,447,0,8,455
+813,704,Tepic,Tepic,Básica,58,129,59,3,10,0,0,0,0,0,259,0,3,262
+814,705,Tepic,Tepic,Básica,178,294,93,5,5,1,0,1,0,1,578,0,7,585
+815,706,Tepic,Tepic,Básica,162,275,63,16,3,1,0,0,0,0,520,0,3,523
+816,707,Tepic,Tepic,Básica,83,193,82,8,2,0,0,0,0,0,368,0,6,374
+817,708,Tepic,Tepic,Básica,112,251,146,7,4,0,1,0,0,1,522,0,0,522
+818,709,Tepic,Tepic,Básica,245,460,177,13,5,2,3,2,0,0,907,0,18,925
+819,710,Tepic,Tepic,Básica,145,343,94,12,15,1,1,1,0,0,612,0,5,617
+820,711,Tepic,Tepic,Básica,286,733,226,23,11,2,5,3,0,2,1291,0,0,1291
+821,712,Tepic,Tepic,Básica,82,175,64,32,4,0,2,0,1,1,361,0,0,361
+822,713,Tepic,Tepic,Básica,212,269,106,11,5,1,2,1,0,1,608,0,5,613
+823,714,Tepic,Tepic,Básica,88,225,65,7,2,5,0,0,0,1,393,0,7,400
+824,715,Tepic,Tepic,Básica,243,372,134,16,8,3,5,0,0,0,781,0,13,794
+825,716,Tepic,Tepic,Básica,120,149,74,17,6,0,0,0,0,0,366,0,1,367
+826,717,Tepic,Tepic,Básica,35,100,15,3,1,0,1,0,0,0,155,0,7,162
+827,718,Tepic,Tepic,Básica,78,253,42,7,3,1,2,0,0,0,386,0,0,386
+828,719,Tepic,Tepic,Básica,186,445,80,19,6,0,1,0,0,0,737,0,20,757
+829,720,Tepic,Tepic,Básica,73,238,54,3,6,0,2,0,0,0,376,0,7,383
+830,721,Tepic,Tepic,Básica,100,231,59,8,4,0,0,0,0,0,402,0,14,416
+831,722,Tepic,Tepic,Básica,105,309,49,22,4,0,2,0,0,0,491,0,5,496
+832,723,Tepic,Tepic,Básica,200,576,128,21,12,0,2,0,0,0,939,0,27,966
+833,724,Tepic,Tepic,Básica,236,548,154,22,8,0,4,1,0,0,973,0,0,973
+834,725,Tepic,Tepic,Básica,244,358,176,51,38,1,3,4,0,0,875,0,0,875
+835,726,Tepic,Tepic,Básica,196,239,91,5,2,0,1,0,0,0,534,0,1,535
+836,727,Tepic,Tepic,Básica,113,211,72,4,3,2,0,1,0,0,406,2,3,411
+837,728,Tepic,Tepic,Básica,224,252,114,14,5,0,0,0,0,0,609,0,8,617
+838,729,Tepic,Tepic,Básica,128,213,60,8,5,1,1,1,0,0,417,0,0,417
+839,730,Tepic,Tepic,Básica,171,291,90,22,0,0,0,0,0,0,574,0,0,574
+840,731,Tepic,Tepic,Básica,99,243,54,11,9,1,2,1,0,0,420,0,0,420
+841,732,Tepic,Tepic,Básica,75,159,64,14,9,0,0,0,0,0,321,0,4,325
+842,733,Tepic,Tepic,Básica,173,419,79,18,7,7,16,3,0,0,722,0,15,737
+843,734,Tepic,Tepic,Básica,132,230,89,5,1,3,1,0,0,0,461,0,10,471
+844,735,Tepic,Tepic,Básica,103,225,103,17,4,3,2,0,0,1,458,0,0,458
+845,736,Tepic,Tepic,Básica,186,455,127,25,4,1,3,3,0,0,804,0,21,825
+846,737,Tepic,Tepic,Básica,168,450,193,16,4,3,8,0,0,0,842,0,15,857
+847,737,Tepic,Tepic,Extraordinaria,400,731,193,15,12,0,0,0,0,0,1351,0,8,1359
+848,738,Tepic,Tepic,Básica,97,398,229,16,5,0,0,2,0,0,747,0,27,774
+849,739,Tepic,Tepic,Básica,201,485,101,49,2,1,1,0,0,0,840,0,36,876
+850,740,Tepic,Tepic,Básica,137,277,90,8,2,0,5,0,0,0,519,0,13,532
+851,741,Tepic,Tepic,Básica,124,226,79,4,5,0,1,0,0,0,439,0,4,443
+852,742,Tepic,Tepic,Básica,128,268,89,13,5,0,1,0,0,0,504,0,7,511
+853,743,Tepic,Tepic,Básica,93,209,67,8,2,0,3,1,0,0,383,0,6,389
+854,744,Tepic,Tepic,Básica,159,309,137,12,4,1,16,0,0,0,638,0,0,638
+855,745,Tepic,Tepic,Básica,154,283,135,14,5,2,11,0,1,1,606,0,14,620
+856,746,Tepic,Tepic,Básica,185,399,127,18,9,0,2,0,1,0,741,0,0,741
+857,747,Tepic,Tepic,Básica,88,246,161,12,5,0,4,2,0,2,520,0,16,536
+858,748,Tepic,Tepic,Básica,71,296,122,7,4,4,8,0,0,1,513,0,0,513
+859,749,Tepic,Tepic,Básica,210,431,119,15,8,0,6,0,0,0,789,0,14,803
+860,750,Tepic,Tepic,Básica,110,159,147,7,5,0,0,0,0,0,428,0,3,431
+861,751,Tepic,Tepic,Básica,110,243,55,16,0,0,0,0,0,0,424,0,1,425
+862,752,Tepic,Tepic,Básica,158,325,94,11,8,0,8,2,0,0,606,0,17,623
+863,753,Tepic,Tepic,Básica,144,315,96,9,1,0,6,0,0,0,571,0,8,579
+864,754,Tepic,Tepic,Básica,134,384,87,11,3,0,1,0,0,0,620,0,4,624
+865,755,Tepic,Tepic,Básica,131,249,56,7,5,0,6,3,0,1,458,0,11,469
+866,756,Tepic,Tepic,Básica,163,337,84,13,2,2,0,2,0,0,603,0,9,612
+867,757,Tepic,Tepic,Básica,104,245,60,9,5,1,1,0,0,0,425,0,5,430
+868,758,Tepic,Tepic,Básica,128,410,126,40,10,6,0,11,1,1,733,0,29,762
+869,759,Tepic,Tepic,Básica,74,235,133,12,5,2,0,1,0,1,463,0,17,480
+870,760,Tepic,Tepic,Básica,66,203,62,10,8,0,0,1,0,0,350,0,3,353
+871,761,Tepic,Tepic,Básica,103,256,46,8,3,0,0,0,0,1,417,0,8,425
+872,762,Tepic,Tepic,Básica,145,366,77,10,5,0,0,1,0,0,604,0,0,604
+873,763,Tepic,Tepic,Básica,104,303,156,12,6,0,0,3,0,0,584,0,0,584
+874,764,Tepic,Tepic,Básica,321,621,173,29,6,9,3,6,1,2,1171,0,29,1200
+875,765,Tepic,Tepic,Básica,229,548,127,22,8,0,5,6,0,0,945,0,17,962
+876,766,Tepic,Tepic,Básica,84,240,120,4,2,0,0,0,0,0,450,0,0,450
+877,767,Tepic,Tepic,Básica,87,214,41,5,5,1,0,0,0,0,353,0,3,356
+878,768,Tepic,La Esperanza,Básica,15,32,2,8,2,0,0,0,0,0,59,0,11,70
+879,769,Tepic,Mesa de Picachos,Básica,5,50,1,3,0,0,4,1,0,0,64,0,0,64
+880,769,Tepic,Carretones de Cerritos,Extraordinaria,21,120,14,3,0,0,0,1,0,0,159,0,0,159
+881,770,Tepic,El Jicote,Básica,106,189,73,36,4,0,3,0,0,0,411,0,18,429
+882,770,Tepic,Col. 14 de Marzo,Extraordinaria,5,46,12,4,0,0,0,0,0,0,67,0,0,67
+883,771,Tepic,Salazares,Básica,23,55,18,4,0,0,0,0,0,0,100,2,8,110
+884,771,Tepic,Las Pilas,Extraordinaria,10,41,5,0,0,0,0,0,0,0,56,0,2,58
+885,772,Tepic,Jesús María Corte,Básica,35,108,10,9,1,0,0,2,2,1,168,0,10,178
+886,772,Tepic,Salvador Allende,Extraordinaria,3,23,33,9,0,0,1,0,0,0,69,0,0,69
+887,773,Tepic,5 de Mayo,Básica,39,92,30,27,1,1,0,0,0,0,190,0,0,190
+888,774,Tepic,Atonalisco,Básica,318,177,71,4,2,1,0,3,0,1,577,0,13,590
+889,775,Tepic,Jumatán,Básica,15,38,4,9,0,0,0,0,0,0,66,0,4,70
+890,775,Tepic,El Pajuelazo,Extraordinaria,11,18,4,4,0,0,0,0,0,0,37,0,6,43
+891,776,Tepic,El Limón,Básica,7,24,4,6,0,1,1,0,0,0,43,0,1,44
+892,777,Tepic,La Herradura,Básica,11,9,21,8,2,0,0,0,0,0,51,0,0,51
+893,778,Tepic,San Andrés,Básica,45,172,22,8,2,0,0,8,0,0,257,0,13,270
+894,779,Tepic,Francisco I. Madero,Básica,140,193,58,18,4,2,0,0,0,0,415,0,13,428
+895,780,Tepic,Francisco I. Madero,Básica,244,264,114,45,12,3,0,17,1,0,700,0,44,744
+896,781,Tepic,Francisco I. Madero,Básica,108,164,65,11,1,0,1,2,0,0,352,0,0,352
+897,782,Tepic,Francisco I. Madero,Básica,144,256,68,12,0,0,0,2,0,0,482,0,14,496
+898,783,Tepic,Francisco I. Madero,Básica,129,283,70,28,3,0,0,1,0,0,514,0,0,514
+899,784,Tepic,Calera de Cofrados,Básica,10,56,13,3,0,0,0,3,0,1,86,0,0,86
+900,784,Tepic,Colorado de la Mora,Extraordinaria,31,36,0,4,0,0,0,0,0,0,71,0,1,72
+901,785,Tepic,Santiago de Pochotitán,Básica,145,180,112,32,3,2,5,4,2,0,485,0,29,514
+902,786,Tepic,San Fernando,Básica,28,82,42,16,1,1,0,4,0,0,174,0,0,174
+903,787,Tepic,La Escondida,Básica,14,133,13,5,0,0,0,1,0,0,166,0,0,166
+904,788,Tepic,Bellavista,Básica,143,313,46,6,0,0,0,0,0,0,508,0,12,520
+905,789,Tepic,Bellavista,Básica,144,313,32,7,2,1,0,0,0,0,499,0,10,509
+906,790,Tepic,Benito Juárez,Básica,29,44,11,3,4,0,0,0,0,0,91,0,0,91
+907,791,Tepic,El Espino,Básica,24,38,3,9,0,0,0,0,0,0,74,0,0,74
+908,792,Tepic,El Trapichillo,Básica,93,121,36,6,2,4,0,0,0,0,262,0,37,299
+909,793,Tepic,La Barranca Blanca,Básica,42,108,26,8,0,0,0,0,0,0,184,0,0,184
+910,794,Tepic,El Rincón,Básica,62,75,35,8,1,0,0,1,0,0,182,0,7,189
+911,795,Tepic,La Fortuna,Básica,73,196,19,6,3,0,0,3,0,0,300,0,0,300
+912,796,Tepic,Colonia 6 de Enero,Básica,96,207,46,10,0,1,0,5,0,0,365,0,11,376
+913,797,Tepic,San Luis de Lozada,Básica,150,168,92,8,0,0,0,0,0,0,418,0,10,428
+914,798,Tepic,Mora,Básica,27,203,42,5,2,0,0,0,0,2,281,0,7,288
+915,799,Tepic,La Cantera,Básica,50,201,52,6,3,1,1,3,0,1,318,0,7,325
+916,800,Tepic,Las Delicias,Básica,40,108,26,5,0,0,0,0,0,1,180,0,23,203
+917,801,Tepic,Lo de Lamedo,Básica,108,227,55,21,4,0,1,0,0,0,416,0,16,432
+918,802,Tepic,La Yerba,Básica,59,122,83,7,3,2,0,3,0,0,279,0,0,279
+919,803,Tepic,Venustiano Carranza,Básica,16,115,16,8,2,0,0,0,0,0,157,0,10,167
+920,803,Tepic,Platanitos,Extraordinaria,31,67,47,5,0,1,0,1,0,0,152,0,0,152
+921,803,Tepic,El Izote,Extraordinaria,16,59,5,4,0,1,0,0,0,0,85,0,5,90
+922,804,Tepic,San Cayetano,Básica,236,427,64,26,13,3,1,3,0,0,773,0,22,795
+923,805,Tepic,San Cayetano,Básica,125,302,37,12,3,1,0,4,0,0,484,0,3,487
+924,806,Tepic,El Aguacate,Básica,66,153,47,20,2,1,0,0,0,0,289,0,0,289
+925,807,Tepic,Camichin de Jauja,Básica,249,414,112,21,4,1,2,5,0,3,811,0,30,841
+926,808,Tepic,El Refugio,Básica,42,189,25,7,2,0,0,1,0,1,267,0,0,267
+927,809,Tepic,Tepic,Básica,100,272,36,17,0,0,2,0,0,0,427,0,6,433
+929,810,Tuxpan,Tuxpan,Básica,134,166,52,10,1,5,2,70,0,2,442,0,0,442
+930,811,Tuxpan,Tuxpan,Básica,125,162,19,9,0,1,1,46,0,1,364,0,6,370
+931,812,Tuxpan,Tuxpan,Básica,97,227,32,15,0,2,2,111,0,0,486,0,9,495
+932,813,Tuxpan,Tuxpan,Básica,99,209,9,15,0,1,2,70,0,1,406,0,4,410
+933,814,Tuxpan,Tuxpan,Básica,72,237,27,7,2,1,0,71,1,1,419,0,0,419
+934,815,Tuxpan,Tuxpan,Básica,110,160,27,17,0,1,0,50,0,0,365,0,13,378
+935,816,Tuxpan,Tuxpan,Básica,127,157,71,24,0,1,1,56,0,1,438,0,12,450
+936,817,Tuxpan,Tuxpan,Básica,80,121,6,9,0,0,0,29,0,0,245,0,4,249
+937,818,Tuxpan,Tuxpan,Básica,47,124,27,3,0,1,1,39,0,1,243,0,8,251
+938,819,Tuxpan,Tuxpan,Básica,88,158,20,16,0,1,3,49,0,0,335,0,6,341
+939,820,Tuxpan,Tuxpan,Básica,43,144,26,2,0,0,0,44,1,0,260,0,5,265
+940,821,Tuxpan,Tuxpan,Básica,66,180,19,8,0,2,0,49,0,0,324,0,7,331
+941,822,Tuxpan,Tuxpan,Básica,96,115,27,13,0,0,3,71,0,2,327,0,13,340
+942,823,Tuxpan,Tuxpan,Básica,147,128,73,11,0,0,0,58,0,1,418,0,7,425
+943,824,Tuxpan,Tuxpan,Básica,120,175,51,6,0,0,1,80,0,2,435,0,0,435
+944,825,Tuxpan,Tuxpan,Básica,131,204,32,17,1,0,0,70,0,1,456,0,14,470
+945,826,Tuxpan,Tuxpan,Básica,50,109,35,9,0,0,0,47,0,0,250,0,0,250
+946,827,Tuxpan,Tuxpan,Básica,100,188,49,15,1,1,0,52,0,1,407,0,15,422
+947,828,Tuxpan,Tuxpan,Básica,51,141,26,4,0,1,3,43,0,0,269,0,10,279
+948,829,Tuxpan,Tuxpan,Básica,82,91,14,7,0,5,1,47,0,1,248,0,0,248
+949,830,Tuxpan,Tuxpan,Básica,106,168,24,14,1,4,2,83,0,0,402,0,0,402
+950,831,Tuxpan,Tuxpan,Básica,52,161,19,10,0,0,3,47,0,0,292,0,0,292
+951,832,Tuxpan,Tuxpan,Básica,101,182,24,11,0,0,0,35,0,0,353,0,0,353
+952,833,Tuxpan,Tuxpan,Básica,48,185,15,10,1,2,2,36,0,0,299,0,0,299
+953,834,Tuxpan,Tuxpan,Básica,68,114,30,15,0,0,1,38,1,0,267,0,7,274
+954,835,Tuxpan,Tuxpan,Básica,70,148,64,9,0,0,1,75,0,1,368,0,14,382
+955,836,Tuxpan,Unión de Corrientes.,Básica,136,305,1,4,0,1,0,125,0,1,573,0,0,573
+956,837,Tuxpan,Palma Grande,Básica,191,245,13,6,0,0,0,100,2,4,561,0,7,568
+957,837,Tuxpan,El Tecomate,Extraordinaria,4,40,1,3,0,2,0,22,0,0,72,0,4,76
+958,838,Tuxpan,Palma Grande,Básica,189,273,19,2,0,0,1,60,0,0,544,0,18,562
+959,839,Tuxpan,Peñitas,Básica,68,231,9,5,0,1,0,95,1,0,410,0,11,421
+960,840,Tuxpan,Peñitas,Básica,145,136,2,4,1,0,0,96,0,1,385,0,9,394
+961,841,Tuxpan,Coamiles,Básica,14,114,14,2,0,0,0,167,2,2,315,0,10,325
+962,842,Tuxpan,Coamiles,Básica,35,133,32,5,2,3,1,280,0,1,492,0,0,492
+963,843,Tuxpan,Coamiles,Básica,26,153,17,6,0,2,0,204,0,1,409,0,3,412
+965,844,Xalisco,Xalisco,Básica,485,339,36,11,3,0,5,2,0,0,881,0,20,901
+966,845,Xalisco,Xalisco,Básica,341,514,60,23,2,0,1,0,0,0,941,0,24,965
+967,846,Xalisco,Xalisco,Básica,355,470,50,16,2,1,0,0,0,0,894,2,11,907
+968,847,Xalisco,Xalisco,Básica,231,345,20,20,4,0,0,0,0,0,620,0,9,629
+969,847,Xalisco,Col. Bugambillas,Extraordinaria,348,430,65,19,3,2,4,2,1,0,874,0,0,874
+970,848,Xalisco,Xalisco,Básica,219,611,27,11,2,0,3,1,0,0,874,0,0,874
+971,849,Xalisco,Xalisco,Básica,145,275,18,7,5,0,0,0,0,0,450,0,12,462
+972,850,Xalisco,Xalisco,Básica,120,247,4,13,3,3,0,0,0,0,390,0,0,390
+973,851,Xalisco,Xalisco,Básica,122,229,16,8,2,0,0,0,0,1,378,0,9,387
+974,852,Xalisco,Xalisco,Básica,221,311,17,11,2,1,0,0,0,0,563,0,15,578
+975,853,Xalisco,Xalisco,Básica,102,347,21,2,2,0,1,0,0,0,475,0,9,484
+976,854,Xalisco,Xalisco,Básica,130,470,43,5,1,0,0,0,0,1,650,0,9,659
+977,855,Xalisco,Xalisco,Básica,127,324,3,3,2,0,2,0,0,0,461,0,4,465
+978,856,Xalisco,El Cuarenteño,Básica,75,187,1,0,1,0,0,0,0,0,264,0,0,264
+979,856,Xalisco,Palapitas,Extraordinaria,59,97,22,1,0,0,0,0,0,0,179,0,6,185
+980,857,Xalisco,Pantanal,Básica,267,179,30,157,2,1,0,0,0,0,636,0,0,636
+981,858,Xalisco,Pantanal,Básica,242,196,9,80,35,0,0,0,0,2,564,0,13,577
+982,859,Xalisco,Testerazo,Básica,263,517,37,57,5,0,1,1,0,0,881,0,27,908
+983,860,Xalisco,Trigomil,Básica,109,95,5,5,0,0,0,0,0,0,214,0,3,217
+984,861,Xalisco,Aquiles Serdan,Básica,156,230,13,2,4,9,1,0,0,0,415,0,11,426
+985,862,Xalisco,El Malinal,Básica,81,141,17,5,2,0,0,0,0,0,246,0,0,246
+986,862,Xalisco,San Antonio,Extraordinaria,47,67,4,20,0,0,0,0,0,0,138,0,4,142
+987,862,Xalisco,Tepozal,Extraordinaria,11,88,5,2,0,0,0,0,0,0,106,0,3,109
+988,863,Xalisco,Cofradía de Chocolón,Básica,78,152,5,2,4,0,0,0,0,0,241,0,2,243
+989,864,Xalisco,Emiliano Zapata,Básica,219,393,14,18,3,2,0,0,1,0,650,0,13,663
+990,864,Xalisco,Adolfo L. Mateos,Extraordinaria,21,50,1,1,0,0,0,0,0,0,73,0,0,73
+991,865,Xalisco,La Curva,Básica,90,271,21,11,3,1,0,0,0,0,397,0,7,404
+992,865,Xalisco,San José de Costilla,Extraordinaria,38,65,3,5,0,0,0,0,0,0,111,0,0,111
+994,866,La Yesca,La Yesca,Básica,237,92,0,0,0,0,0,0,0,0,329,0,13,342
+995,867,La Yesca,Guadalupe Ocotán,Básica,220,207,0,0,0,0,0,0,0,0,427,0,0,427
+996,868,La Yesca,Puente de Camotlán,Básica,22,175,0,0,0,0,0,0,0,0,197,0,6,203
+997,869,La Yesca,Puente de Camotlán,Básica,267,353,0,1,0,0,0,1,0,1,623,0,26,649
+998,870,La Yesca,Huajimic,Básica,300,210,0,0,0,0,0,0,0,0,510,0,0,510
+999,871,La Yesca,Portezuelo,Básica,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1000,872,La Yesca,Cortapico,Básica,100,59,1,5,0,0,0,0,0,0,165,0,1,166
+1001,873,La Yesca,Amatlán de Jora,Básica,77,27,0,1,0,0,0,1,0,0,106,0,5,111
+1002,873,La Yesca,Ambas Aguas,Extraordinaria,14,36,1,0,0,0,0,0,0,0,51,0,0,51
+1003,873,La Yesca,San Pelayo,Extraordinaria,50,26,0,0,0,0,0,0,0,0,76,0,5,81
+1004,873,La Yesca,San Juan Ixtapalapa,Extraordinaria,21,35,0,0,0,1,0,0,0,0,57,0,0,57
+1005,874,La Yesca,La Manga,Básica,49,41,0,0,0,0,0,0,0,0,90,0,0,90
+1006,874,La Yesca,El Pinal,Extraordinaria,39,40,0,0,0,0,0,0,0,0,79,0,0,79
+1007,874,La Yesca,El Trapiche,Extraordinaria,21,33,0,0,0,0,0,0,0,0,54,0,0,54
+1008,875,La Yesca,El Carrizal,Básica,53,2,0,0,0,0,0,0,0,0,55,0,0,55
+1009,876,La Yesca,Juanacaxtle,Básica,19,28,0,0,0,0,0,0,0,0,47,0,1,48
+1010,877,La Yesca,Platanar de los Herrera,Básica,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1011,878,La Yesca,Apozolco,Básica,187,163,0,0,0,0,0,0,0,0,350,0,19,369
+1012,878,La Yesca,Popota,Extraordinaria,51,20,0,0,0,0,0,0,0,0,71,0,0,71

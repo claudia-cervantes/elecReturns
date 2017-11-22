@@ -1,0 +1,10 @@
+<detallado distrito="XX" nombre="CENTRO ORIENTE (R)" listanominal="119,741" pan="1,352" pri="24,302" prd="26,133" pt="552" pvem="1,261" convergencia="488" na="933" noreg="24" coalicion="167" nulos="1,562" votaciontotal="56,774" >
+  <resultado seccion="0425" casilla="BA" simbolo="0" pan="6" pri="85" prd="222" pt="8" pvem="2" convergencia="1" na="4" noreg="0" coalicion="0" nulos="6" total="334" />
+  <resultado seccion="0426" casilla="BA" simbolo="0" pan="4" pri="78" prd="217" pt="10" pvem="1" convergencia="0" na="8" noreg="0" coalicion="0" nulos="12" total="330" />
+  <resultado seccion="0426" casilla="C1" simbolo="0" pan="3" pri="68" prd="251" pt="4" pvem="5" convergencia="0" na="28" noreg="0" coalicion="1" nulos="6" total="366" />
+  <resultado seccion="0426" casilla="C2" simbolo="0" pan="0" pri="75" prd="207" pt="8" pvem="7" convergencia="0" na="6" noreg="0" coalicion="1" nulos="8" total="312" />
+  <resultado seccion="0437" casilla="BA" simbolo="0" pan="8" pri="79" prd="287" pt="1" pvem="4" convergencia="0" na="1" noreg="0" coalicion="0" nulos="12" total="392" />
+  <resultado seccion="0437" casilla="C1" simbolo="0" pan="4" pri="77" prd="298" pt="3" pvem="1" convergencia="0" na="9" noreg="0" coalicion="0" nulos="2" total="394" />
+  <resultado seccion="0441" casilla="X1" simbolo="0" pan="2" pri="77" prd="206" pt="4" pvem="0" convergencia="0" na="0" noreg="0" coalicion="0" nulos="0" total="289" />
+  <resultado seccion="0441" casilla="X2" simbolo="0" pan="4" pri="83" prd="130" pt="4" pvem="1" convergencia="1" na="1" noreg="0" coalicion="0" nulos="6" total="230" />
+</detallado>

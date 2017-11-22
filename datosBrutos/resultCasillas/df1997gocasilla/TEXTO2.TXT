@@ -1,0 +1,25 @@
+
+
+
+ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+บ                                                                            บ
+บ Instrucciones:                                                             บ
+บ                                                                            บ
+บ La instalaciขn de la Estadกstica  de las Elecciones Locales de Diputados a บ
+บ la Asamblea Legislativa del Distrito Federal por los Principios de Mayorกa บ
+บ Relativa y Representaciขn Proporcional,  asก  como   de  Jefe  de Gobierno บ
+บ del  Distrito  Federal de 1997 necesita  como  mกnimo 2.5 Mbytes libres en บ
+บ su  disco  duro. Las bases de datos de  la Estadกstica fueron diseคadas en บ
+บ formato .DBF. Esto quiere decir que pueden ser consultadas por manejadores บ
+บ de base de datos como Dbase, FoxPro, Paradox, Access, etc.  De igual forma บ
+บ pueden ser consultadas por programas como Excel,  Lotus 123,  Quattro Pro, บ
+บ Word, Wordperfect, etc.  La base de datos se integra por 11 archivos divi- บ
+บ didos en seis directorios  (que presentan resultados por casilla, secciขn, บ
+บ distrito, delegaciขn y entidad federativa para cada una de las elecciones).บ
+บ En caso de no contar con los requerimientos de espacio en disco no intente บ
+บ la instalaciขn.                                                            บ
+บ                                                                            บ
+บ                                                                            บ
+ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+
+

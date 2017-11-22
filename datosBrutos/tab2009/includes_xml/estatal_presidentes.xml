@@ -1,0 +1,19 @@
+﻿<estatal listanominal="1,469,080" porcentaje="" pan="66,199" pri="379,155" prd="330,732" pt="29,942" pvem="11,242" convergencia="12,512" na="9,979" noreg="910" coalicion="2,288" nulos="21,590" votaciontotal="864,549">
+  <resultado municipio="BALANCAN" porcentaje="66.14" pan="11,818" pri="9,110" prd="2,111" pt="312" pvem="990" convergencia="99" na="238" noreg="0" coalicion="199" nulos="631" total="25,508" />
+  <resultado municipio="CARDENAS" porcentaje="54.34" pan="2,027" pri="41,879" prd="30,700" pt="2,827" pvem="734" convergencia="4,029" na="1,046" noreg="42" coalicion="406" nulos="1,737" total="85,427" />
+  <resultado municipio="CENTLA" porcentaje="65.57" pan="12,291" pri="15,930" prd="10,104" pt="371" pvem="805" convergencia="119" na="739" noreg="8" coalicion="92" nulos="1,233" total="41,692" />
+  <resultado municipio="CENTRO" porcentaje="45.08" pan="4,937" pri="95,014" prd="86,154" pt="854" pvem="2,554" convergencia="1,500" na="2,291" noreg="128" coalicion="495" nulos="5,350" total="199,277" />
+  <resultado municipio="COMALCALCO" porcentaje="70.94" pan="776" pri="45,045" prd="39,333" pt="211" pvem="274" convergencia="310" na="920" noreg="42" coalicion="162" nulos="1,588" total="88,661" />
+  <resultado municipio="CUNDUACAN" porcentaje="62.12" pan="725" pri="18,866" prd="23,700" pt="935" pvem="482" convergencia="287" na="612" noreg="323" coalicion="98" nulos="2,646" total="48,674" />
+  <resultado municipio="EMILIANO ZAPATA" porcentaje="73.36" pan="8,959" pri="5,337" prd="339" pt="20" pvem="53" convergencia="3" na="92" noreg="4" coalicion="49" nulos="279" total="15,135" />
+  <resultado municipio="HUIMANGUILLO" porcentaje="64.46" pan="6,661" pri="30,364" prd="27,392" pt="4,800" pvem="368" convergencia="82" na="684" noreg="8" coalicion="138" nulos="1,836" total="72,333" />
+  <resultado municipio="JALAPA" porcentaje="74.95" pan="345" pri="7,712" prd="10,041" pt="128" pvem="149" convergencia="260" na="87" noreg="4" coalicion="32" nulos="395" total="19,153" />
+  <resultado municipio="JALPA DE MENDEZ" porcentaje="76.15" pan="8,747" pri="10,216" prd="8,342" pt="10,356" pvem="211" convergencia="1,027" na="577" noreg="3" coalicion="263" nulos="805" total="40,547" />
+  <resultado municipio="JONUTA" porcentaje="84.04" pan="25" pri="6,912" prd="7,083" pt="36" pvem="3,167" convergencia="11" na="43" noreg="0" coalicion="13" nulos="199" total="17,489" />
+  <resultado municipio="MACUSPANA" porcentaje="56.46" pan="1,410" pri="26,763" prd="16,774" pt="6,237" pvem="370" convergencia="4,460" na="1,178" noreg="8" coalicion="107" nulos="1,381" total="58,688" />
+  <resultado municipio="NACAJUCA" porcentaje="66.14" pan="472" pri="24,538" prd="15,748" pt="1,516" pvem="264" convergencia="62" na="602" noreg="13" coalicion="99" nulos="1,071" total="44,385" />
+  <resultado municipio="PARAISO" porcentaje="75.33" pan="1,772" pri="13,547" prd="25,975" pt="326" pvem="153" convergencia="68" na="217" noreg="12" coalicion="20" nulos="684" total="42,774" />
+  <resultado municipio="TACOTALPA" porcentaje="64.96" pan="4,706" pri="6,034" prd="6,114" pt="585" pvem="154" convergencia="41" na="166" noreg="3" coalicion="21" nulos="663" total="18,487" />
+  <resultado municipio="TEAPA" porcentaje="60.29" pan="326" pri="11,864" prd="7,402" pt="246" pvem="272" convergencia="138" na="289" noreg="302" coalicion="35" nulos="546" total="21,420" />
+  <resultado municipio="TENOSIQUE" porcentaje="61.98" pan="202" pri="10,024" prd="13,420" pt="182" pvem="242" convergencia="16" na="198" noreg="10" coalicion="59" nulos="546" total="24,899" />
+</estatal>

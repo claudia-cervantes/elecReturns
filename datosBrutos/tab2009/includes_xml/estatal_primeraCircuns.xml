@@ -1,0 +1,14 @@
+<estatal pan="34,758" pri="178,634" prd="139,923" pt="9,068" pvem="12,412" convergencia="8,022" na="6,150" noreg="734" nulos="9,402" votaciontotal="399,103">
+  <resultado distrito="I BALANCAN" pan="11,140" pri="10,013" prd="2,525" pt="147" pvem="736" convergencia="125" na="308" noreg="3" nulos="474" total="25,471" />
+  <resultado distrito="IV CENTRO NORTE" pan="1,556" pri="19,722" prd="15,787" pt="341" pvem="1,398" convergencia="370" na="786" noreg="61" nulos="1,254" total="41,275" />
+  <resultado distrito="V CENTRO SUR" pan="2,922" pri="23,587" prd="16,987" pt="620" pvem="1,467" convergencia="1,134" na="804" noreg="64" nulos="1,608" total="49,193" />
+  <resultado distrito="VIII EMILIANO ZAPATA" pan="8,506" pri="5,733" prd="502" pt="10" pvem="109" convergencia="11" na="137" noreg="3" nulos="205" total="15,216" />
+  <resultado distrito="X JALAPA" pan="467" pri="8,035" prd="9,660" pt="95" pvem="226" convergencia="277" na="109" noreg="8" nulos="293" total="19,170" />
+  <resultado distrito="XII JONUTA" pan="56" pri="6,778" prd="7,384" pt="48" pvem="3,008" convergencia="7" na="50" noreg="3" nulos="186" total="17,520" />
+  <resultado distrito="XIII MACUSPANA" pan="1,851" pri="27,433" prd="16,573" pt="5,545" pvem="572" convergencia="4,676" na="1,377" noreg="13" nulos="1,093" total="59,133" />
+  <resultado distrito="XVI TACOTALPA" pan="3,647" pri="6,364" prd="6,885" pt="769" pvem="150" convergencia="30" na="201" noreg="2" nulos="476" total="18,524" />
+  <resultado distrito="XVII TEAPA" pan="327" pri="11,292" prd="6,643" pt="221" pvem="1,711" convergencia="240" na="352" noreg="312"  nulos="429"  total="21,527" />
+  <resultado distrito="XVIII TENOSIQUE" pan="445" pri="11,286" prd="12,440" pt="175" pvem="206" convergencia="26" na="230" noreg="191" nulos="438" total="25,437" />
+  <resultado distrito="XX CENTRO ORIENTE" pan="1,321" pri="23,783" prd="24,327" pt="520" pvem="1,240" convergencia="486" na="958" noreg="24" nulos="1,515" total="54,174" />
+  <resultado distrito="XXI CENTRO PONIENTE" pan="2,520" pri="24,608" prd="20,210" pt="577" pvem="1,589" convergencia="640" na="838" noreg="50" nulos="1,431" total="52,463" />
+</estatal>

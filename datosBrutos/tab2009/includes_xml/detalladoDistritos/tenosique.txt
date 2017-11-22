@@ -1,0 +1,11 @@
+pan=		433
+pri=		11,034
+prd=		12,177
+pt=		175
+pvem=		204
+convergencia=	24
+na=		226
+noreg=		191
+coalicion=	61
+nulos=		437
+votaciontotal=	24,972
