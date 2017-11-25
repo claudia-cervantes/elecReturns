@@ -12,6 +12,7 @@ colnames(dat)
 sel <- grep("^v[0-9]{2}", colnames(dat))
 v <- dat[,sel] # subset votes columns
 head(v)
+v[is.na(v)==TRUE] <- 0 # replace NAs with zeroes
 colSums(v)
 v$efec <- round(rowSums(v), 0)
 dat$efec <- v$efec
