@@ -130,14 +130,11 @@ w3 <- as.list(rep(NA,I))
 sel <- which(dat$dcoal==0)
 cv[sel,] <- v[sel,]
 cl[sel,] <- l[sel,]
-fill c1 c2 c3 also
+# c1 c2 c3 are pre-filled
+w1[sel] <- "noCoal"
+w2[sel] <- "noCoal"
+w3[sel] <- "noCoal"
 #
-# drop it seems
-work  <- which(dat$dcoal==1) # indices of cases that still need manipulation
-dwork <- dat$dcoal # cases that still need manipulation
-table(dwork)
-
-tail(c1)
 
 # fill in info selecting cases of coalitions with most members 
 sel7 <- which(max.tmp>1) 
@@ -145,49 +142,50 @@ tmp.v <- v[sel7,] # subset for manipulation
 tmp.l <- l[sel7,]
 tmp.n <- n[sel7,]
 max.tmp <- max.tmp[sel7]
+tmp.c1 <- c1[sel7,]
+tmp.w1 <- w1[sel7]
 
-
-head(tmp.n)
 head(tmp.n)
 
 for (i in 1:length(sel7)){
     #i <- 5 # debug
+    message(sprintf("loop %s of %s", i, length(sel7)))
     save.col <- which(tmp.n[i,]==max.tmp[i])[1] # spare this column from erasure in process below (1st if multiple hits)
     save.label <- tmp.l[i, save.col]            # keep coalition full label
     tmp <- strsplit(save.label, split = "-") # break into component character vector
-    c1[i,] <- tmp[[1]] # fill in coalition members
+    tmp.c1[i,1:length(tmp[[1]])] <- tmp[[1]] # fill in coalition members
     #
     target.cols <- numeric() # initialize empty vector
     for (j in 1:7){
         #j <- 1 # debug
-        tmp.target <- grep(pattern = c1[i,j], x = tmp.l[i,])
+        if (tmp.c1[i,j]=="0") next
+        tmp.target <- grep(pattern = tmp.c1[i,j], x = tmp.l[i,])
         if (length(tmp.target)>0) {
             target.cols <- c(target.cols, tmp.target)
         }
     }
     target.cols <- unique(target.cols); target.cols <- target.cols[order(target.cols)]
-    w1[[i]] <- target.cols # for use when computing coalition members' contribution
+    tmp.w1[[i]] <- target.cols # for use when computing coalition members' contribution
     save.vote <- sum(tmp.v[i,target.cols])
-    tmp.v[i, target.cols] <- 0   # erase votes
-    tmp.l[i, target.cols] <- "0" # erase labels
+    tmp.v[i, target.cols] <- 0   # erase votes to keep only aggregate
+    tmp.l[i, target.cols] <- "0" # erase labels to keep only full coalition label
     tmp.n[i, target.cols] <- 0   # erase ns
     tmp.v[i, save.col] <- save.vote  # place aggregate vote back in
     tmp.l[i, save.col] <- save.label # place coalition label back in
 }
 
+tail(tmp.v)
+
 # return to data
 cv[sel7,] <- tmp.v
 cl[sel7,] <- tmp.l
-cn[sel7,] <- tmp.n
+n[sel7,] <- tmp.n
+c1[sel7,] <- tmp.c1
+w1[sel7] <- tmp.w1
 
+head(w1[sel7])
 
 # process cases with 2nd coalition
-max.tmp <- apply(n, 1, max) # max parties reported in a row's cell
-table(max.tmp) # coal w most members has 7
-sel7 <- which(max.tmp>1) 
-tmp.v <- v[sel7,] # subset for manipulation
-tmp.l <- l[sel7,]
-tmp.n <- n[sel7,]
 
 
 # is there another coalition same row?
