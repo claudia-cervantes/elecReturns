@@ -1,1 +1,13 @@
 datosBrutos/ filter=lfs diff=lfs merge=lfs -text
+dfSeccion2012.csv filter=lfs diff=lfs merge=lfs -text
+dfSeccion2015.csv filter=lfs diff=lfs merge=lfs -text
+dfSeccion1994.csv filter=lfs diff=lfs merge=lfs -text
+dfSeccion1997.csv filter=lfs diff=lfs merge=lfs -text
+dfSeccion2000.csv filter=lfs diff=lfs merge=lfs -text
+dfSeccion2003.csv filter=lfs diff=lfs merge=lfs -text
+dfSeccion2006.csv filter=lfs diff=lfs merge=lfs -text
+dfSeccion2009.csv filter=lfs diff=lfs merge=lfs -text
+prSeccion2006.csv filter=lfs diff=lfs merge=lfs -text
+prSeccion2012.csv filter=lfs diff=lfs merge=lfs -text
+prSeccion1994.csv filter=lfs diff=lfs merge=lfs -text
+prSeccion2000.csv filter=lfs diff=lfs merge=lfs -text
