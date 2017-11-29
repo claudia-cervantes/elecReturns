@@ -361,13 +361,8 @@
 ## table(dat$v17)
 ## dat$v17 <- dat$l17 <- NULL
 ## #
-sel.l <- grep("^l[0-9]{2}", colnames(dat))
-l <- dat[,sel.l] # subset label columns
-sel.v <- grep("^v[0-9]{2}", colnames(dat))
-v <- dat[,sel.v] # subset votes columns
-sel <- which(v$v16>0)
 
-l[sel,]
+## # change confusing party labels
 
 #
 write.csv(dat, file = "tmp.csv", row.names = FALSE)
