@@ -357,8 +357,6 @@ tmp.c1 <- c1[sel7,]
 tmp.w1 <- w1[sel7]
 tmp.ci <- ci[sel7,]
 
-head(tmp.n)
-
 for (i in 1:length(sel7)){
     #i <- length(sel7) # debug
     message(sprintf("loop %s of %s", i, length(sel7)))
@@ -413,8 +411,6 @@ tmp.c2 <- c2[sel7,]
 tmp.w2 <- w2[sel7]
 max.tmp <- max.tmp[sel7]
 tmp.ci <- ci[sel7,]
-
-head(tmp.n)
 
 for (i in 1:length(sel7)){
     #i <- 3079 # debug
@@ -476,8 +472,6 @@ tmp.w3 <- w3[sel7]
 max.tmp <- max.tmp[sel7]
 tmp.ci <- ci[sel7,]
 
-head(tmp.n)
-
 for (i in 1:length(sel7)){
     #i <- 1 # debug
     #tmp.l[i,] # debug
@@ -538,8 +532,6 @@ tmp.w4 <- w4[sel7]
 max.tmp <- max.tmp[sel7]
 tmp.ci <- ci[sel7,]
 
-head(tmp.n)
-
 for (i in 1:length(sel7)){
     #i <- 1 # debug
     #tmp.l[i,] # debug
@@ -583,8 +575,6 @@ c4[sel7,] <- tmp.c4
 w4[sel7] <- tmp.w4
 ci[sel7,] <- tmp.ci
 
-tail(w4[sel7])
-
 # prepare object with coalition party weights
 w <- as.list(rep("noCoal",I))
 sel <- which(ci$ncoal>=1)
@@ -617,18 +607,76 @@ for (i in sel){
 }
 
 w[sel]
+coal.weights <- w # rename
+coal.info <- ci
+rm(w, ci)
 
-coal.weights <- w
+rm(c1, c2, c3, c4, I, i, j, max.tmp, n, pat, save.col, save.label, save.vote, sel, sel7, target.cols, tmp, tmp.c1, tmp.c2, tmp.c3, tmp.c4, tmp.ci, tmp.l, tmp.n, tmp.target, tmp.v, tmp.w1, tmp.w2, tmp.w3, tmp.w4, w, w1, w2, w3, w4) # housecleaning
 
-rm(n, tmp.v, tmp.l, tmp.n, tmp.c1, tmp.c2, tmp.c3, tmp.c4, tmp.w1, tmp.w2, tmp.w3, tmp.w4, max.tmp, pat, I, sel7, save.col, save.label, save.vote, target.cols, tmp.target, i, j, tmp.ci, c1, c2, c3, c4, w, w1, w2, w3, w4, sel, tmp) # housecleaning
+## winner (sorts data to have largest vote-winning party in column 1)
+# handy function to sort one data frame's rows by order of another, matching data frame
+sortBy <- function(target, By){
+    t <- target; b <- By;
+    do.call(rbind, lapply(seq_len(nrow(b)), 
+            function(i) as.character(unlist(t[i,])[order(unlist(-b[i,]))]))) # change to -b for decreasing order
+}
+# example
+## v1 <- data.frame(c1=c(30,15,3), c2=c(10,25,2), c3=c(20,35,4))
+## l1 <- data.frame(c1=c("thirty","fifteen","three"), c2=c("ten","twenty-five","two"), c3=c("twenty","thirty-five","four"))
+## v1.sorted <- t(apply(v1, 1, function(x) sort(x, decreasing = TRUE))) # sort each row of df -- http://stackoverflow.com/questions/6063881/sorting-rows-alphabetically
+## l1.sorted <- sortBy(target = l1, By = v1)
+## sortBy(target = v1, By = v1)
 
+## this sorts matrix rows faster than function above
+## vot <- t(apply(v1, 1, function(x) sort(x, decreasing = TRUE)))
+
+# sort coalition-aggregated data
+tail(cv)
+tail(cl)
+cv.sorted <- sortBy(target = cv, By = cv)
+cl.sorted <- sortBy(target = cl, By = cv)
+cv.sorted <- as.data.frame(cv.sorted, stringsAsFactors = FALSE) # return matrix to dataframe
+cl.sorted <- as.data.frame(cl.sorted, stringsAsFactors = FALSE) # return matrix to dataframe
+colnames(cv.sorted) <- colnames(v); colnames(cl.sorted) <- colnames(l)
+cv.sorted <- transform(cv.sorted,                               # return to numeric format
+                       v01 = as.numeric(v01),
+                       v02 = as.numeric(v02),
+                       v03 = as.numeric(v03),
+                       v04 = as.numeric(v04),
+                       v05 = as.numeric(v05),
+                       v06 = as.numeric(v06),
+                       v07 = as.numeric(v07),
+                       v08 = as.numeric(v08),
+                       v09 = as.numeric(v09),
+                       v10 = as.numeric(v10),
+                       v11 = as.numeric(v11),
+                       v12 = as.numeric(v12),
+                       v13 = as.numeric(v13),
+                       v14 = as.numeric(v14),
+                       v15 = as.numeric(v15),
+                       v16 = as.numeric(v16))
+tail(cv.sorted)
+tail(cl.sorted)
+
+# rename objects so that dat now has coalition aggregates
+dat.orig <- dat # original data
+dat[,sel.l] <- cl.sorted # return manipulated labels to data
+dat[,sel.v] <- cv.sorted # return manipulated votes to data
+head(dat)
+rm(cv, cl, cv.sorted, cl.sorted, sel.l, sel.v, v, l)
+
+dat$v15 <- dat$l15 <- dat$v16 <- dat$l16 <- NULL # redundant columns
+dat$win <- dat$l01
+#dat$coalpan <- dat$coalpri <- dat$coalprd <- NULL
+#write.csv(dat, file = "aymu1977-present.coalAgg.csv", row.names = FALSE)
+
+ci <- coal.info
 head(ci[ci$ncoal==3,])
+compare this to pancoal etc columns
 
-import ranking functions to determine winner etc
 
 #table(gsub(pattern = "([0-9a-zA-Záéíóúñ])", replacement = "", tmp)) # keep only non-letter-number characters
 
-x
 ## # julio: lista de datos faltantes
 ## ver2013 pdf difícil
 
@@ -638,4 +686,3 @@ x
 
 
 
-write.csv(dat, file = "aymu1977-present.csv", row.names = FALSE)
