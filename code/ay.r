@@ -302,8 +302,9 @@ for (i in 1:ncol(l)){
 # create objects with vote for coalition(s) added and redudant columns dropped
 cv <- v; cv[] <- NA # will receive votes with coalitions aggregated
 cl <- l; cl[] <- NA # will keep coalition labels but drop coalition member labels 
-ci <- data.frame(dcoal=dat$dcoal, ncoal=NA) # coalition summary info
+ci <- data.frame(dcoal=dat$dcoal, ncoal=NA, coal1="none", coal2="none", coal3="none", coal4="none", stringsAsFactors = FALSE) # coalition summary info
 ci$ncoal[ci$dcoal==0] <- 0 # 0=no coalition
+# ci$coal1 coal2 coal3 coal4 pre-filled
   # n is object reporting how many parties reported in a v/l cell?
   ln1 <- v # duplicate votes
   ln1[] <- 0 # will receive info
@@ -331,21 +332,20 @@ I <- nrow(v)
 c1 <- as.data.frame(matrix("0", I, 7), col.names = paste("p", 1:7, sep = ""), stringsAsFactors = FALSE) # will receive vector of 1st coalition's members
 c2 <- as.data.frame(matrix("0", I, 7), col.names = paste("p", 1:7, sep = ""), stringsAsFactors = FALSE) # 2nd coalition's members
 c3 <- as.data.frame(matrix("0", I, 7), col.names = paste("p", 1:7, sep = ""), stringsAsFactors = FALSE) # 3rd coalition's members
+c4 <- as.data.frame(matrix("0", I, 7), col.names = paste("p", 1:7, sep = ""), stringsAsFactors = FALSE) # 3rd coalition's members
 #
 # will receive columns corresponding to coalition members in v/l for use when weighting votes contributed by each member
-w1 <- as.list(rep(NA,I))
-w2 <- as.list(rep(NA,I))
-w3 <- as.list(rep(NA,I))
+w1 <- as.list(rep("noCoal",I))
+w2 <- as.list(rep("noCoal",I))
+w3 <- as.list(rep("noCoal",I))
+w4 <- as.list(rep("noCoal",I))
 #
 # fill in easy cases with no coalition
 sel <- which(dat$dcoal==0)
 cv[sel,] <- v[sel,]
 cl[sel,] <- l[sel,]
-# c1 c2 c3 are pre-filled
-w1[sel] <- "noCoal"
-w2[sel] <- "noCoal"
-w3[sel] <- "noCoal"
-#
+# c1 c2 c3 c4 are pre-filled
+# w1 w2 w3 w4 are pre-filled
 
 # fill in info selecting cases of coalitions with most members 
 sel7 <- which(max.tmp>1) 
@@ -355,14 +355,17 @@ tmp.n <- n[sel7,]
 max.tmp <- max.tmp[sel7]
 tmp.c1 <- c1[sel7,]
 tmp.w1 <- w1[sel7]
+tmp.ci <- ci[sel7,]
 
 head(tmp.n)
 
 for (i in 1:length(sel7)){
     #i <- length(sel7) # debug
     message(sprintf("loop %s of %s", i, length(sel7)))
+    tmp.ci$ncoal[i] <- 1               # running tally co ncoal
     save.col <- which(tmp.n[i,]==max.tmp[i])[1] # spare this column from erasure in process below (1st if multiple hits)
     save.label <- tmp.l[i, save.col]            # keep coalition full label
+    tmp.ci$coal1[i] <- save.label      # plug coal label into summary
     tmp <- strsplit(save.label, split = "-") # break into component character vector
     tmp.c1[i,1:length(tmp[[1]])] <- tmp[[1]] # fill in coalition members
     #
@@ -370,9 +373,9 @@ for (i in 1:length(sel7)){
     for (j in 1:7){
         #j <- 1 # debug
         if (tmp.c1[i,j]=="0") next
-        #pat <- paste("^", tmp.c1[i,j], "$|", tmp.c1[i,j], "-|-", tmp.c1[i,j], sep="") # searches ^pty$, pty- or -pty (avoids panal hit when searching for pan) --- unnecessary given label changes
-        #tmp.target <- grep(pattern = pat, x = tmp.l[i,])
-        tmp.target <- grep(pattern = tmp.c1[i,j], x = tmp.l[i,]) # version hits panal when searching pan
+        pat <- paste("^", tmp.c1[i,j], "$|", tmp.c1[i,j], "-|-", tmp.c1[i,j], sep="") # searches ^pty$, pty- or -pty (avoids panal hit when searching for pan) --- unnecessary given label changes
+        tmp.target <- grep(pattern = pat, x = tmp.l[i,])
+        #tmp.target <- grep(pattern = tmp.c1[i,j], x = tmp.l[i,]) # version hits panal when searching pan
         if (length(tmp.target)>0) {
             target.cols <- c(target.cols, tmp.target)
         }
@@ -387,14 +390,13 @@ for (i in 1:length(sel7)){
     tmp.l[i, save.col] <- save.label # place coalition label back in
 }
 
-tail(tmp.v)
-
 # return to data
 cv[sel7,] <- tmp.v
 cl[sel7,] <- tmp.l
 n[sel7,] <- tmp.n
 c1[sel7,] <- tmp.c1
 w1[sel7] <- tmp.w1
+ci[sel7,] <- tmp.ci
 
 tail(w1[sel7])
 
@@ -410,28 +412,29 @@ tmp.n <- n[sel7,]
 tmp.c2 <- c2[sel7,]
 tmp.w2 <- w2[sel7]
 max.tmp <- max.tmp[sel7]
+tmp.ci <- ci[sel7,]
 
 head(tmp.n)
 
-smthg wrong with i <- 70
-
 for (i in 1:length(sel7)){
-    #i <- 70 # debug
+    #i <- 3079 # debug
     #tmp.l[i,] # debug
     #tmp.n[i,] # debug
     message(sprintf("loop %s of %s", i, length(sel7)))
+    tmp.ci$ncoal[i] <- 2               # running tally co ncoal
     save.col <- which(tmp.n[i,]==max.tmp[i])[1] # spare this column from erasure in process below (1st if multiple hits)
     save.label <- tmp.l[i, save.col]            # keep coalition full label
+    tmp.ci$coal2[i] <- save.label      # plug coal label into summary
     tmp <- strsplit(save.label, split = "-") # break into component character vector
     tmp.c2[i,1:length(tmp[[1]])] <- tmp[[1]] # fill in coalition members
     #
     target.cols <- numeric() # initialize empty vector
     for (j in 1:7){
-        #j <- 1 # debug
-        if (tmp.c1[i,j]=="0") next
-        #pat <- paste("^", tmp.c2[i,j], "$|", tmp.c2[i,j], "-|-", tmp.c2[i,j], sep="") # searches ^pty$, pty- or -pty (avoids panal hit when searching for pan) --- unnecessary given label changes
-        #tmp.target <- grep(pattern = pat, x = tmp.l[i,])
-        tmp.target <- grep(pattern = tmp.c1[i,j], x = tmp.l[i,]) # version hits panal when searching pan
+        #j <- 2 # debug
+        if (tmp.c2[i,j]=="0") next
+        pat <- paste("^", tmp.c2[i,j], "$|", tmp.c2[i,j], "-|-", tmp.c2[i,j], sep="") # searches ^pty$, pty- or -pty (avoids panal hit when searching for pan) --- unnecessary given label changes
+        tmp.target <- grep(pattern = pat, x = tmp.l[i,])
+        #tmp.target <- grep(pattern = tmp.c2[i,j], x = tmp.l[i,]) # version hits panal when searching pan
         if (length(tmp.target)>0) {
             target.cols <- c(target.cols, tmp.target)
         }
@@ -454,36 +457,179 @@ cl[sel7,] <- tmp.l
 n[sel7,] <- tmp.n
 c2[sel7,] <- tmp.c2
 w2[sel7] <- tmp.w2
+ci[sel7,] <- tmp.ci
 
 tail(w2[sel7])
-tail(sel7)
-
-i <- 32152
-l[i,]
-c2[i,]
-
-# is there another coalition same row?
-apply(tmp.n, 1, max)
-sel7 <- from thing above
-repeat loop
 
 
+####################################
+# process cases with 3rd coalition #
+####################################
+max.tmp <- apply(n, 1, max) # max parties reported in a row's cell
+table(max.tmp) # coal w most members has 7
+sel7 <- which(max.tmp>1) 
+tmp.v <- v[sel7,] # subset for manipulation
+tmp.l <- l[sel7,]
+tmp.n <- n[sel7,]
+tmp.c3 <- c3[sel7,]
+tmp.w3 <- w3[sel7]
+max.tmp <- max.tmp[sel7]
+tmp.ci <- ci[sel7,]
+
+head(tmp.n)
+
+for (i in 1:length(sel7)){
+    #i <- 1 # debug
+    #tmp.l[i,] # debug
+    #tmp.n[i,] # debug
+    message(sprintf("loop %s of %s", i, length(sel7)))
+    tmp.ci$ncoal[i] <- 3               # running tally co ncoal
+    save.col <- which(tmp.n[i,]==max.tmp[i])[1] # spare this column from erasure in process below (1st if multiple hits)
+    save.label <- tmp.l[i, save.col]            # keep coalition full label
+    tmp.ci$coal3[i] <- save.label      # plug coal label into summary
+    tmp <- strsplit(save.label, split = "-") # break into component character vector
+    tmp.c3[i,1:length(tmp[[1]])] <- tmp[[1]] # fill in coalition members
+    #
+    target.cols <- numeric() # initialize empty vector
+    for (j in 1:7){
+        #j <- 2 # debug
+        if (tmp.c3[i,j]=="0") next
+        pat <- paste("^", tmp.c3[i,j], "$|", tmp.c3[i,j], "-|-", tmp.c3[i,j], sep="") # searches ^pty$, pty- or -pty (avoids panal hit when searching for pan) --- unnecessary given label changes
+        tmp.target <- grep(pattern = pat, x = tmp.l[i,])
+        #tmp.target <- grep(pattern = tmp.c3[i,j], x = tmp.l[i,]) # version hits panal when searching pan
+        if (length(tmp.target)>0) {
+            target.cols <- c(target.cols, tmp.target)
+        }
+    }
+    target.cols <- unique(target.cols); target.cols <- target.cols[order(target.cols)]
+    tmp.w3[[i]] <- target.cols # for use when computing coalition members' contribution
+    save.vote <- sum(tmp.v[i,target.cols])
+    tmp.v[i, target.cols] <- 0   # erase votes to keep only aggregate
+    tmp.l[i, target.cols] <- "0" # erase labels to keep only full coalition label
+    tmp.n[i, target.cols] <- 0   # erase ns
+    tmp.v[i, save.col] <- save.vote  # place aggregate vote back in
+    tmp.l[i, save.col] <- save.label # place coalition label back in
+}
+
+tail(tmp.v)
+
+# return to data
+cv[sel7,] <- tmp.v
+cl[sel7,] <- tmp.l
+n[sel7,] <- tmp.n
+c3[sel7,] <- tmp.c3
+w3[sel7] <- tmp.w3
+ci[sel7,] <- tmp.ci
+
+tail(w3[sel7])
 
 
+####################################
+# process cases with 4th coalition #
+####################################
+max.tmp <- apply(n, 1, max) # max parties reported in a row's cell
+table(max.tmp) # coal w most members has 7
+sel7 <- which(max.tmp>1) 
+tmp.v <- v[sel7,] # subset for manipulation
+tmp.l <- l[sel7,]
+tmp.n <- n[sel7,]
+tmp.c4 <- c4[sel7,]
+tmp.w4 <- w4[sel7]
+max.tmp <- max.tmp[sel7]
+tmp.ci <- ci[sel7,]
 
-table(gsub(pattern = "([0-9a-zA-Záéíóúñ])", replacement = "", tmp)) # keep only non-letter-number characters
+head(tmp.n)
 
-# select a case for experimentation
-sel <- which(dat$edon==5 & dat$yr==2002)
-tmp <- dat[sel,]
+for (i in 1:length(sel7)){
+    #i <- 1 # debug
+    #tmp.l[i,] # debug
+    #tmp.n[i,] # debug
+    message(sprintf("loop %s of %s", i, length(sel7)))
+    tmp.ci$ncoal[i] <- 4               # running tally co ncoal
+    save.col <- which(tmp.n[i,]==max.tmp[i])[1] # spare this column from erasure in process below (1st if multiple hits)
+    save.label <- tmp.l[i, save.col]            # keep coalition full label
+    tmp.ci$coal4[i] <- save.label      # plug coal label into summary
+    tmp <- strsplit(save.label, split = "-") # break into component character vector
+    tmp.c4[i,1:length(tmp[[1]])] <- tmp[[1]] # fill in coalition members
+    #
+    target.cols <- numeric() # initialize empty vector
+    for (j in 1:7){
+        #j <- 2 # debug
+        if (tmp.c4[i,j]=="0") next
+        pat <- paste("^", tmp.c4[i,j], "$|", tmp.c4[i,j], "-|-", tmp.c4[i,j], sep="") # searches ^pty$, pty- or -pty (avoids panal hit when searching for pan) --- unnecessary given label changes
+        tmp.target <- grep(pattern = pat, x = tmp.l[i,])
+        #tmp.target <- grep(pattern = tmp.c4[i,j], x = tmp.l[i,]) # version hits panal when searching pan
+        if (length(tmp.target)>0) {
+            target.cols <- c(target.cols, tmp.target)
+        }
+    }
+    target.cols <- unique(target.cols); target.cols <- target.cols[order(target.cols)]
+    tmp.w4[[i]] <- target.cols # for use when computing coalition members' contribution
+    save.vote <- sum(tmp.v[i,target.cols])
+    tmp.v[i, target.cols] <- 0   # erase votes to keep only aggregate
+    tmp.l[i, target.cols] <- "0" # erase labels to keep only full coalition label
+    tmp.n[i, target.cols] <- 0   # erase ns
+    tmp.v[i, save.col] <- save.vote  # place aggregate vote back in
+    tmp.l[i, save.col] <- save.label # place coalition label back in
+}
 
+tail(tmp.v)
 
+# return to data
+cv[sel7,] <- tmp.v
+cl[sel7,] <- tmp.l
+n[sel7,] <- tmp.n
+c4[sel7,] <- tmp.c4
+w4[sel7] <- tmp.w4
+ci[sel7,] <- tmp.ci
 
+tail(w4[sel7])
 
+# prepare object with coalition party weights
+w <- as.list(rep("noCoal",I))
+sel <- which(ci$ncoal>=1)
+for (i in sel){
+    w[[i]] <- list(coal1="no", coal2="no", coal3="no", coal4="no")
+    #i <- sel[1] # debug
+    w[[i]]$coal1 <- v[i,w1[[i]]]
+    names(w[[i]]$coal1) <- l[i,w1[[i]]]
+}
+#
+sel <- which(ci$ncoal>=2)
+for (i in sel){
+    #i <- sel[1] # debug
+    w[[i]]$coal2 <- v[i,w2[[i]]]
+    names(w[[i]]$coal2) <- l[i,w2[[i]]]
+}
+#
+sel <- which(ci$ncoal>=3)
+for (i in sel){
+    #i <- sel[1] # debug
+    w[[i]]$coal3 <- v[i,w3[[i]]]
+    names(w[[i]]$coal3) <- l[i,w3[[i]]]
+}
+#
+sel <- which(ci$ncoal>=4)
+for (i in sel){
+    #i <- sel[1] # debug
+    w[[i]]$coal4 <- v[i,w4[[i]]]
+    names(w[[i]]$coal4) <- l[i,w4[[i]]]
+}
+
+w[sel]
+
+coal.weights <- w
+
+rm(n, tmp.v, tmp.l, tmp.n, tmp.c1, tmp.c2, tmp.c3, tmp.c4, tmp.w1, tmp.w2, tmp.w3, tmp.w4, max.tmp, pat, I, sel7, save.col, save.label, save.vote, target.cols, tmp.target, i, j, tmp.ci, c1, c2, c3, c4, w, w1, w2, w3, w4, sel, tmp) # housecleaning
+
+head(ci[ci$ncoal==3,])
+
+import ranking functions to determine winner etc
+
+#table(gsub(pattern = "([0-9a-zA-Záéíóúñ])", replacement = "", tmp)) # keep only non-letter-number characters
 
 x
 ## # julio: lista de datos faltantes
-## tla2013 buscar voz y voto
 ## ver2013 pdf difícil
 
 
